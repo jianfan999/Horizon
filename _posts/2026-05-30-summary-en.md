@@ -5,699 +5,564 @@ date: 2026-05-30
 lang: en
 ---
 
-> From 172 items, 35 important content pieces were selected
+> From 159 items, 29 important content pieces were selected
 
 ---
 
-1. [US Proposed Grant Cancellation Rules Threaten Science](#item-1) ⭐️ 9.0/10
-2. [Anthropic overtakes OpenAI as most valuable AI startup](#item-2) ⭐️ 8.0/10
-3. [Zig Build System Receives Major Rework](#item-3) ⭐️ 8.0/10
-4. [SQLite is enough for durable workflows, blog argues](#item-4) ⭐️ 8.0/10
-5. [MCP Critique Sparks Community Defense: Protocol Still Vital](#item-5) ⭐️ 8.0/10
-6. [Pope Leo's first encyclical criticizes tech messianism](#item-6) ⭐️ 8.0/10
-7. [GitHub Copilot token-based billing sparks developer backlash](#item-7) ⭐️ 8.0/10
-8. [Groq raising $650M to pivot to AI inference](#item-8) ⭐️ 8.0/10
-9. [Microsoft threatens security researcher with criminal investigation](#item-9) ⭐️ 8.0/10
-10. [Huawei's Tau Scaling Law: Paradigm Shift or Hype?](#item-10) ⭐️ 8.0/10
-11. [Huawei chairman thanks US export curbs for boosting China's chip industry](#item-11) ⭐️ 8.0/10
-12. [Dev plants data-nuking prompt injection to punish vibe coders](#item-12) ⭐️ 8.0/10
-13. [OpenBSD's openrsync: A Secure, BSD-Licensed Rsync Implementation](#item-13) ⭐️ 7.0/10
-14. [Danish Pension Fund Excludes SpaceX Over Governance and Valuation](#item-14) ⭐️ 7.0/10
-15. [AI Data Centers Face Local Backlash Over Costs and Transparency](#item-15) ⭐️ 7.0/10
-16. [Indian court ruling reignites criticism of Google's ad business](#item-16) ⭐️ 7.0/10
-17. [China launches AI transparency evaluation framework](#item-17) ⭐️ 7.0/10
-18. [China's Robotic Hand Startups Woo Venture Capital in Record Time](#item-18) ⭐️ 7.0/10
-19. [Chinese Scientists Unveil ‘Kill-Them-All’ Drone Swarm Algorithm](#item-19) ⭐️ 7.0/10
-20. [California's 300+ Data Centers Face Water Scarcity](#item-20) ⭐️ 7.0/10
-21. [First Windows PCs with Nvidia Chips to Debut Next Week](#item-21) ⭐️ 7.0/10
-22. [Pandoc Templates: A Curated Directory](#item-22) ⭐️ 6.0/10
-23. [Rokid AI Glasses Set Japanese Crowdfunding Record of ¥624 Million](#item-23) ⭐️ 6.0/10
-24. [Central Enterprises Form Consortium for Tech Industrialization](#item-24) ⭐️ 6.0/10
-25. [Shenzhen warns ride-hailing market saturated, 6 risks](#item-25) ⭐️ 6.0/10
-26. [Legacy Tech Stocks Surge on AI Spending Boom](#item-26) ⭐️ 6.0/10
-27. [Google's Gemini Spark AI Assistant: Useful but Questionable](#item-27) ⭐️ 6.0/10
-28. [Top VCs discuss groupthink in AI startup funding frenzy](#item-28) ⭐️ 6.0/10
-29. [SpaceX wins $6.45B Space Force contracts ahead of IPO](#item-29) ⭐️ 6.0/10
-30. [AI reliance in coding may cause future issues](#item-30) ⭐️ 6.0/10
-31. [EuroOffice: Europe's open-source answer to Microsoft 365](#item-31) ⭐️ 6.0/10
-32. [AI billionaires face growing public backlash](#item-32) ⭐️ 6.0/10
-33. [EU fines Temu $232M for unsafe product listings](#item-33) ⭐️ 6.0/10
-34. [UK military explores autonomous lethal strikes without human approval](#item-34) ⭐️ 6.0/10
-35. [EU Proposes Power to Override Private Contracts for Tech Sovereignty](#item-35) ⭐️ 6.0/10
+1. [Accenture acquires Ookla for $1.2B](#item-1) ⭐️ 8.0/10
+2. [Zig ELF Linker Improvements Announced](#item-2) ⭐️ 8.0/10
+3. [OpenRouter Raises $113M Series B for LLM Proxy Service](#item-3) ⭐️ 8.0/10
+4. [Openrsync: OpenBSD's clean-room rsync implementation used in macOS 15.0](#item-4) ⭐️ 8.0/10
+5. [SoftBank Plans €75B Investment in French Data Centers](#item-5) ⭐️ 8.0/10
+6. [GitHub Copilot’s Token Billing Sparks Developer Outrage](#item-6) ⭐️ 8.0/10
+7. [China's dexterous robotic hand startups set valuation records](#item-7) ⭐️ 8.0/10
+8. [Chinese scientists create 'kill-them-all' drone swarm algorithm](#item-8) ⭐️ 8.0/10
+9. [Huawei Tau Scaling Law: Breakthrough or Hype?](#item-9) ⭐️ 8.0/10
+10. [Microsoft threatens legal action over vulnerability disclosure](#item-10) ⭐️ 8.0/10
+11. [Domain expertise becomes the real moat in AI era](#item-11) ⭐️ 7.0/10
+12. [Voxel Space: 1992 Heightmap Rendering Algorithm Demo](#item-12) ⭐️ 7.0/10
+13. [AI Data Centers Stir Local Backlash](#item-13) ⭐️ 7.0/10
+14. [China launches national AI evaluation framework](#item-14) ⭐️ 7.0/10
+15. [17 Nations Form Pact to Protect Undersea Cables, US and China Absent](#item-15) ⭐️ 7.0/10
+16. [Researchers Seek to Use Teacher-Worn Cameras for AI Training](#item-16) ⭐️ 7.0/10
+17. [California's 300+ Data Centers Face Water Scarcity](#item-17) ⭐️ 7.0/10
+18. [EU proposes Tech Sovereignty Package to override contracts](#item-18) ⭐️ 7.0/10
+19. [Curated Pandoc Templates Collection Launched](#item-19) ⭐️ 6.0/10
+20. [Haiguang Adapts Step 3.7 Flash on DTK Platform](#item-20) ⭐️ 6.0/10
+21. [90s Tech Giants Resurge on AI Boom](#item-21) ⭐️ 6.0/10
+22. [Google Gemini Spark review: useful but unnecessary as standalone product](#item-22) ⭐️ 6.0/10
+23. [Alternative browsers challenge Chrome and Safari in 2026](#item-23) ⭐️ 6.0/10
+24. [TikTok Reportedly Aims to Become a Super App](#item-24) ⭐️ 6.0/10
+25. [Indian court ruling reignites Google ad business criticism](#item-25) ⭐️ 6.0/10
+26. [DuckDuckGo 'No AI' Search Traffic Triples After Google Update](#item-26) ⭐️ 6.0/10
+27. [Huawei Chairman Thanks US Export Curbs for Boosting China's Chips](#item-27) ⭐️ 6.0/10
+28. [New US Bill Aims to Prepare Workers for AI Job Displacement](#item-28) ⭐️ 6.0/10
+29. [Claim: New Device Boosts Processor Speed 1000x Without Extra Heat](#item-29) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [US Proposed Grant Cancellation Rules Threaten Science](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) ⭐️ 9.0/10
+## [Accenture acquires Ookla for $1.2B](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) ⭐️ 8.0/10
 
-The U.S. Office of Management and Budget has proposed new rules that would allow the cancellation of any federal grant at any time, regardless of the reason. This policy could fundamentally undermine the independence and openness of U.S. scientific research, jeopardizing academic freedom and international collaboration. The proposed rules include severe restrictions on collaboration, publication, and public communication, which critics argue will damage the open nature of science.
+Accenture has announced its acquisition of Ookla, the parent company of Speedtest and Downdetector, for $1.2 billion to enhance its network intelligence and data analytics capabilities for enterprises. This acquisition gives Accenture access to vast amounts of real-time network performance data from over 250 million monthly tests, enabling it to offer deeper insights to telecoms and enterprises, but also raises concerns about conflicts of interest as Accenture consults for many of the same companies whose outages Downdetector tracks. Ookla's data platform includes Speedtest, Downdetector, Ekahau, and RootMetrics, with telcos paying six-figure annual fees for this data. Accenture was already a competitor in this space through its earlier acquisition of Umlaut.
 
-hackernews · mhalle · May 30, 11:41 · [Discussion](https://news.ycombinator.com/item?id=48335135)
+hackernews · Garbage · May 30, 16:28 · [Discussion](https://news.ycombinator.com/item?id=48337987)
 
-**Background**: The Office of Management and Budget (OMB) proposed these changes, which many see as an attempt to align research with politically approved paths. Similar moves have been criticized as mimicking tactics of Cold War adversaries, threatening decades of scientific progress.
+**Background**: Ookla is best known for Speedtest.net, a widely used tool for measuring internet connection performance, and Downdetector, which tracks real-time service outages. Beyond consumer tools, Ookla sells aggregated network data to telecom operators and other clients. Accenture is a global IT services and consulting firm that helps companies improve their operations, often in the telecom sector.
 
-**Discussion**: Commenters overwhelmingly oppose the rules, with some stating that science requires openness and that restrictions will force scientists to emigrate. The sentiment is that the U.S. is harming itself and global progress.
+**Discussion**: Community comments highlight that the deal is primarily a data acquisition, with Ookla's real value lying in its telco data sales. Commenters express skepticism about Downdetector's neutrality under Accenture's ownership, given Accenture's consulting relationships with many of the same companies. Some note that Accenture's earlier acquisition of Umlaut already made it a competitor in network testing, reinforcing the data-driven motivation for this purchase.
 
-**Tags**: `#science funding`, `#US policy`, `#research`, `#academia`, `#grants`
+**Tags**: `#acquisition`, `#network intelligence`, `#data analytics`, `#telecom`, `#AI`
 
 ---
 
 <a id="item-2"></a>
-## [Anthropic overtakes OpenAI as most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup) ⭐️ 8.0/10
+## [Zig ELF Linker Improvements Announced](https://ziglang.org/devlog/2026/#2026-05-30) ⭐️ 8.0/10
 
-Anthropic has surpassed OpenAI to become the most valuable AI startup, according to a news report with high community engagement. This shift reflects growing community skepticism about OpenAI's leadership and model differentiation, potentially altering market dynamics and user preferences. The report scores 8.0/10 with 324 points and 338 comments, indicating substantive discussion about AI market trends, business strategies, and model commoditization.
+Zig's official devlog for May 30, 2026, details significant improvements to its ELF linker, enabling fast incremental linking that speeds up development iteration. These improvements bring Zig closer to being a viable C replacement, offering fast iteration speeds comparable to interpreted languages while maintaining C-level performance. This is critical for systems programming and for projects like a DAW that require uncompromising user experience. The linker improvements focus on incremental compilation, but this may be mutually exclusive with link-time optimization (LTO), meaning release builds would likely skip incremental linking. The devlog does not specify which targets are supported yet.
 
-hackernews · Bolat14 · May 30, 13:56 · [Discussion](https://news.ycombinator.com/item?id=48336233)
+hackernews · kristoff_it · May 30, 17:29 · [Discussion](https://news.ycombinator.com/item?id=48338673)
 
-**Background**: Anthropic is a competitor to OpenAI in the large language model space. Model commoditization refers to the process where models become interchangeable, making user experience and brand reputation key differentiators. Enterprise contracts and pricing strategies play a significant role in startup valuation.
+**Background**: Zig is a general-purpose systems programming language designed to be an improvement over C, emphasizing safety and performance. ELF (Executable and Linkable Format) is the standard binary format for executables on Linux and Unix-like systems. A linker is a tool that combines compiled object files into a single executable; incremental linking reuses previously linked results to reduce rebuild times.
 
-**Discussion**: Many comments express distrust in OpenAI's leadership, particularly Sam Altman, and believe Anthropic's rise is partly due to being 'not OpenAI.' Some users question the actual model quality difference, suggesting that developers may be swayed by marketing rather than technical superiority.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Zig_(programming_language)">Zig (programming language)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Executable_and_Linkable_Format">Executable and Linkable Format - Wikipedia</a></li>
+<li><a href="https://ziglang.org/">Home Zig Programming Language</a></li>
 
-**Tags**: `#AI`, `#startups`, `#valuation`, `#OpenAI`, `#Anthropic`
+</ul>
+</details>
+
+**Discussion**: The community is highly enthusiastic, with one commenter stating that once incremental linking lands, Zig will become 'THE C replacement' enabling iteration speeds of JS/Python with C/Rust performance. Another developer building a memory-safe language that transpiles to Zig praised the build system design. A discussion also noted that incremental linking likely precludes LTO for release builds.
+
+**Tags**: `#Zig`, `#linker`, `#systems programming`, `#compiler`, `#open source`
 
 ---
 
 <a id="item-3"></a>
-## [Zig Build System Receives Major Rework](https://ziglang.org/devlog/2026/#2026-05-26) ⭐️ 8.0/10
+## [OpenRouter Raises $113M Series B for LLM Proxy Service](https://openrouter.ai/announcements/series-b) ⭐️ 8.0/10
 
-Zig's build system has been significantly reworked, as announced in the official devlog. The community reports that upgrading to Zig 0.16.0 has brought substantial improvements. The rework addresses long-standing pain points and sets a foundation for future language evolution. It demonstrates Zig's commitment to developer experience and could attract more users to systems programming. The rework impacts many areas, but the new IO mechanism is highlighted as enabling efficient code that works across single-threaded, multi-threaded, and event-loop models. The 0.17.0 release is expected within weeks, much sooner than the year-long gap for 0.16.
+OpenRouter, a unified API platform providing access to over 400 AI models, announced a $113 million Series B funding round. This substantial investment signals strong market confidence in LLM proxy services as essential infrastructure for developers, enabling easier experimentation and cost management across multiple model providers. OpenRouter charges a 5% surcharge on API calls, and its features include billing caps, unified logging, and support for 400+ models from various providers.
 
-hackernews · tosh · May 30, 08:38 · [Discussion](https://news.ycombinator.com/item?id=48334048)
+hackernews · freeCandy · May 30, 17:27 · [Discussion](https://news.ycombinator.com/item?id=48338660)
 
-**Background**: Zig is a general-purpose systems programming language focused on performance and simplicity. Its build system is a key component for compiling projects. The rework aims to improve reliability, flexibility, and performance.
+**Background**: OpenRouter acts as a proxy between developers and LLM providers, offering a single API to access models from OpenAI, Anthropic, and others. This simplifies experimentation and provides features like cost tracking and spending limits that many individual providers lack. The service is popular among developers who want to quickly test new models without managing multiple API keys.
 
-**Discussion**: Community sentiment is very positive. Users like brabel report happy upgrades, while portly praises Zig as a fantastic tool language. Decabytes discusses the idea of dual programming with Zig as a low-level companion. Some express surprise at the fast 0.17 release cadence.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openrouter.ai/about">About OpenRouter - The Unified Interface For LLMs | OpenRouter</a></li>
+<li><a href="https://docs.litellm.ai/docs/simple_proxy">LiteLLM AI Gateway (LLM Proxy) | liteLLM</a></li>
 
-**Tags**: `#Zig`, `#programming languages`, `#build systems`, `#systems programming`, `#software development`
+</ul>
+</details>
+
+**Discussion**: Community comments were largely positive about OpenRouter's value for experimentation and billing caps, though some questioned the 5% surcharge for high-volume usage. Others noted that OpenRouter's utility might decrease as the LLM ecosystem consolidates around fewer dominant models.
+
+**Tags**: `#AI`, `#LLM`, `#funding`, `#OpenRouter`, `#developer tools`
 
 ---
 
 <a id="item-4"></a>
-## [SQLite is enough for durable workflows, blog argues](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) ⭐️ 8.0/10
+## [Openrsync: OpenBSD's clean-room rsync implementation used in macOS 15.0](https://github.com/kristapsdz/openrsync) ⭐️ 8.0/10
 
-A blog post titled 'SQLite is all you need for durable workflows' argues that SQLite, an embedded database, is sufficient for building durable workflow engines without requiring a separate database server. This challenges the conventional wisdom that distributed workflow engines require a full-fledged database server like Postgres, potentially simplifying infrastructure and reducing costs for many applications. The post highlights that many lightweight or local workflow engines, such as Temporal's local development mode, already use SQLite, and that for single-node deployments SQLite's concurrency limits may not be a problem.
+Openrsync, a BSD-licensed clean-room implementation of rsync developed by the OpenBSD team, has been adopted as the default rsync tool in macOS 15.0 (Sequoia) due to licensing conflicts with GPL-licensed rsync. This matters because Apple's switch highlights the growing importance of permissive licenses in mainstream operating systems and the security benefits of a clean-room reimplementation. It also gives users a modern, actively maintained alternative to the original rsync. Openrsync is licensed under the ISC license, a permissive BSD-style license, and is developed as part of an RPKI validator project. It currently does not support all features of the original rsync, such as the --rsync-path option reported by a user.
 
-hackernews · tomasol · May 29, 17:54 · [Discussion](https://news.ycombinator.com/item?id=48326802)
+hackernews · sph · May 30, 10:51 · [Discussion](https://news.ycombinator.com/item?id=48334854)
 
-**Background**: Durable workflow engines manage long-running, stateful processes that must survive failures. They typically rely on a database to store workflow state. SQLite is an embedded SQL database engine that requires no separate server process, but it has limited concurrent write capacity compared to client-server databases.
+**Background**: rsync is a widely used file synchronization tool on Unix-like systems, traditionally licensed under the GPL. Due to licensing restrictions, Apple could not include newer GPLv3 versions in macOS, so it relied on the outdated GPLv2 rsync 2.6.9. Clean-room implementation means the Openrsync developers wrote the code independently based on the protocol specification, without copying any GPL-licensed rsync code, thus allowing a permissive license.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://learn.microsoft.com/en-us/azure/azure-functions/durable-functions/durable-functions-overview">Durable Functions Overview: Stateful Serverless Workflows ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Workflow_engine">Workflow engine</a></li>
+<li><a href="https://github.com/kristapsdz/openrsync">GitHub - kristapsdz/openrsync: BSD-licensed implementation of rsync</a></li>
+<li><a href="https://appleinsider.com/inside/macos-sequoia/tips/what-you-should-know-about-apples-switch-from-rsync-to-openrsync">rsync vs openrsync: Apple switch, Terminal commands</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments show a split: some users share positive experiences using SQLite in production for multiple tools, while others argue that SQLite is unsuitable for concurrent multi-process workloads. One commenter notes that Temporal's local mode uses SQLite, supporting the article's claim.
+**Discussion**: User Panino reported that openrsync does not handle the --rsync-path option as expected, creating a directory instead of a file. Another commenter noted that a Go implementation by Michael Stapelberg exists. Thefilmore confirmed its use in macOS 15.0. Overall sentiment is positive, with interest in broader adoption and comparisons.
 
-**Tags**: `#SQLite`, `#durable workflows`, `#databases`, `#distributed systems`, `#software engineering`
+**Tags**: `#openrsync`, `#rsync`, `#OpenBSD`, `#filesync`, `#systems`
 
 ---
 
 <a id="item-5"></a>
-## [MCP Critique Sparks Community Defense: Protocol Still Vital](https://www.quandri.io/engineering-blog/mcp-is-dead) ⭐️ 8.0/10
+## [SoftBank Plans €75B Investment in French Data Centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/) ⭐️ 8.0/10
 
-A blog post on quandri.io argues that Anthropic's Model Context Protocol (MCP) is flawed, but community members, including an OpenAI team lead, counter that MCP's widespread adoption makes it relevant regardless of protocol specifics. This debate underscores the critical role of MCP as an emerging standard for AI-tool integration, with major companies building MCP servers, and validates the protocol's importance despite technical criticisms. Commenters noted that the blog post's criticisms, such as context window consumption and reliability, are addressed by MCP features like deferred tool loading (added in Nov 2025) and server-driven remote MCPs. The post appears to be at least 7 months out of date.
+SoftBank announced plans to invest up to €75 billion to build 5 GW of data center capacity in France, aiming to develop and operate the infrastructure. This massive investment signals a major push to expand European digital infrastructure, potentially boosting AI and cloud computing capabilities while strengthening France's position as a tech hub. The investment targets 5 gigawatts of additional data center capacity, though specific timelines and project locations have not been disclosed.
 
-hackernews · nadis · May 29, 22:56 · [Discussion](https://news.ycombinator.com/item?id=48330436)
+rss · TechCrunch · May 30, 21:45
 
-**Background**: The Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024 to standardize how AI systems connect to external tools and data. It provides a unified interface for reading files, executing functions, and handling prompts, and has been adopted by OpenAI, Google DeepMind, and many companies building MCP servers.
+**Background**: Data centers are critical for powering cloud services and AI workloads, requiring enormous amounts of electricity. France has been promoting itself as a green data center destination due to its low-carbon nuclear energy. SoftBank's investment could significantly boost the country's digital infrastructure.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol</a></li>
-<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol (MCP)? - Model Context Protocol</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community broadly rejected the article's thesis. An OpenAI team lead highlighted that virtually every company is building an MCP server, making the protocol relevant. Commenters also pointed out factual errors, such as ignoring deferred tool loading and server-driven design, and suggested the article was written by AI.
-
-**Tags**: `#MCP`, `#Model Context Protocol`, `#AI infrastructure`, `#API protocols`, `#community debate`
+**Tags**: `#SoftBank`, `#data centers`, `#investment`, `#France`, `#infrastructure`
 
 ---
 
 <a id="item-6"></a>
-## [Pope Leo's first encyclical criticizes tech messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism) ⭐️ 8.0/10
+## [GitHub Copilot’s Token Billing Sparks Developer Outrage](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) ⭐️ 8.0/10
 
-Pope Leo has released his first encyclical, Magnifica Humanitas, which criticizes the belief that technology can solve all human problems, warning against the concentration of power in the hands of a few. This encyclical injects a powerful religious voice into the debate over who should control technology, potentially influencing Catholic policymakers and believers around the world. The encyclical's title in the English version begins with 'Magnifica humanitas', but the canonical Latin version may have a different first sentence, as noted by a commenter. The encyclical also touches on existential risks like nuclear war and AI.
+GitHub announced on May 30, 2026 that Copilot will switch from per-request to token-based billing starting June 1, 2026, drawing immediate backlash from developers. This billing change could significantly increase costs for heavy users, potentially reducing adoption of the widely used AI coding assistant and affecting developer tooling choices. Under the new model, users will be charged per token consumed in code completions and chat interactions, rather than paying a flat rate per request; exact token prices have not yet been disclosed.
 
-hackernews · 1vuio0pswjnm7 · May 30, 10:30 · [Discussion](https://news.ycombinator.com/item?id=48334710)
+rss · TechCrunch · May 30, 16:30
 
-**Background**: An encyclical is a formal papal letter addressed to the entire Catholic Church and often to the world, laying out the Pope's views on important issues. Technological messianism is the belief that technological progress will eventually solve all human problems and lead to a utopia. Pope Leo is the current pope, succeeding Pope Francis.
+**Background**: GitHub Copilot is an AI-powered code completion tool launched in 2022, originally billed via monthly subscriptions based on the number of requests. The shift to token-based billing aligns with how large language model APIs typically charge, but represents a major departure from the simple per-request model that developers had become accustomed to.
 
-**Discussion**: Community comments on the article are mixed. Some users debate the control of technology, with one arguing the great problem is deciding who controls it. Others criticize the encyclical's Latin version or provide links to related discussions, including Peter Thiel's views on existential risks.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://docs.github.com/en/copilot/reference/copilot-billing">GitHub Copilot billing - GitHub Docs</a></li>
+<li><a href="https://tech.xebia.ms/github-copilot/videos/github-copilot-token-based-billing?trk=public_post_comment-text">Token - based billing : from premium request units to AI... - Tech Hub</a></li>
 
-**Tags**: `#technology`, `#ethics`, `#religion`, `#society`, `#encyclical`
+</ul>
+</details>
+
+**Tags**: `#GitHub Copilot`, `#AI coding assistant`, `#pricing`, `#developer tools`, `#Microsoft`
 
 ---
 
 <a id="item-7"></a>
-## [GitHub Copilot token-based billing sparks developer backlash](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) ⭐️ 8.0/10
+## [China's dexterous robotic hand startups set valuation records](https://www.scmp.com/tech/article/3355365/unicorn-born-record-time-amid-arms-race-among-chinas-robotic-hand-developers?utm_source=rss_feed) ⭐️ 8.0/10
 
-GitHub Copilot announced a shift from premium request units to AI Credits token-based billing, effective June 1, 2026, causing widespread consternation among developers. This pricing change affects millions of developers who rely on Copilot daily, potentially increasing costs and altering usage patterns, and signals a broader shift in how AI coding tools monetize. The new billing system uses AI Credits (tokens) consumed per API call, with different models like GPT-4o and GPT-4o-mini costing different amounts per token, replacing the previous premium request units model.
+Venture capitalists in China, including Xiaomi and Li Auto, are heavily investing in dexterous robotic hand startups like Xynova, which recently completed a Series A round, creating unicorns in record time amid a global humanoid hardware arms race. Dexterous robotic hands are considered the toughest bottleneck in humanoid robotics. This investment surge could accelerate the development of humanoid robots for industrial and service applications, positioning China as a leader in this critical component. Xynova, a Hangzhou-based startup, announced its Series A funding from Xiaomi's and Li Auto's venture arms, though the exact amount was not disclosed. This reflects a broader trend of rapid valuations in this niche.
 
-rss · TechCrunch · May 30, 16:30
+rss · SCMP · May 30, 06:00
 
-**Background**: GitHub Copilot is an AI-powered code completion tool integrated into IDEs. Initially, billing was based on a flat monthly fee or premium request units. Token-based billing aligns with how large language models are typically charged, but represents a significant departure from the simple subscription model developers were used to.
+**Background**: Dexterous robotic hands are advanced end-effectors designed to replicate the flexibility and sensitivity of human hands, enabling robots to perform delicate tasks. They are a critical bottleneck in humanoid robotics due to the challenges in achieving fine motor control and tactile sensing. The global race to develop humanoid robots has intensified investment in this component.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://tech.xebia.ms/github-copilot/videos/github-copilot-token-based-billing?trk=public_post_comment-text">Token - based billing : from premium request units to AI... - Tech Hub</a></li>
-<li><a href="https://www.linkedin.com/posts/bworld_github-copilot-is-shifting-to-a-token-based-activity-7455676514320375808-_Dk8">GitHub Copilot Shifts to Token - Based Billing in 2026: Cost... | LinkedIn</a></li>
-<li><a href="https://codepick.dev/en/guides/copilot-ai-credits-billing/">GitHub Copilot Switches to AI Credits Billing in June: Will... | CodePick</a></li>
+<li><a href="https://shadowrobot.com/dexterous-hand-series/">Shadow Dexterous Hand Series - Research and Development Tool</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Developers expressed outrage on social media and forums, calling the change a 'joke' and a 'money grab.' Many are concerned about unpredictable costs and are evaluating alternatives like Tabnine or Codeium.
-
-**Tags**: `#github`, `#copilot`, `#pricing`, `#developer-tools`, `#ai`
+**Tags**: `#robotics`, `#humanoid`, `#venture capital`, `#AI hardware`, `#China`
 
 ---
 
 <a id="item-8"></a>
-## [Groq raising $650M to pivot to AI inference](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/) ⭐️ 8.0/10
+## [Chinese scientists create 'kill-them-all' drone swarm algorithm](https://www.scmp.com/news/china/science/article/3355232/chinese-scientists-create-kill-them-all-algorithm-drone-warfare?utm_source=rss_feed) ⭐️ 8.0/10
 
-AI chip startup Groq is reportedly raising $650 million in internal funding to pivot from hardware development to focusing on AI inference, the process of optimizing AI model responses. This move comes after Nvidia's $20 billion acquisition of Groq's assets in 2025. This funding round signals a strategic market shift toward AI inference over training, as startups like Groq vie for dominance in the rapidly growing inference chip segment. It also highlights how Groq is repositioning after a major asset sale to Nvidia. The $650 million round is reportedly internal, and the pivot means Groq will leverage its Language Processing Unit (LPU) architecture to deliver inference services rather than sell chips. Groq previously developed AI accelerator ASICs and rebranded the architecture as LPU for large language model inference.
+Chinese researchers have developed HG-STR (Heterogeneous Graph Spatio-Temporal Reasoning), an algorithm that enables drone swarms to autonomously locate and destroy all enemy targets even under communication jamming and vision obstruction. This advancement significantly enhances autonomous drone swarm coordination and resilience in contested environments, potentially reshaping modern warfare by reducing reliance on human control and communication links. The algorithm is claimed to be the first capable of achieving 100% elimination of enemy targets in a battlefield scenario, using heterogeneous graph structures to model different drone and target types and spatio-temporal reasoning to predict movements.
 
-rss · TechCrunch · May 29, 17:27
+rss · SCMP · May 30, 04:00
 
-**Background**: Groq is an American AI chip company that originally designed a Tensor Streaming Processor (TSP), later rebranded as a Language Processing Unit (LPU) optimized for large language model inference. In December 2025, Nvidia acquired Groq's assets for about $20 billion, but Groq remained an independent entity. AI inference is the process of using a trained model to make predictions on new data, as opposed to training which involves learning from data.
+**Background**: Drone swarms typically rely on constant communication with a ground station or among themselves for coordination. HG-STR uses onboard spatio-temporal reasoning to maintain coordination even when communications are jammed, allowing autonomous decision-making without external input.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Groq">Groq - Wikipedia</a></li>
-<li><a href="https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html">Nvidia buying AI chip startup Groq for about $20 billion ... - CNBC</a></li>
-<li><a href="https://groq.com/">Groq is fast, low cost inference.</a></li>
+<li><a href="https://arxiv.org/abs/2408.10822">[2408.10822] Navigating Spatio-Temporal Heterogeneity: A Graph Transformer Approach for Traffic Forecasting</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2589004224014007">Deep transformer-based heterogeneous spatiotemporal graph learning for geographical traffic forecasting - ScienceDirect</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI chips`, `#Groq`, `#inference`, `#funding`, `#Nvidia`
+**Tags**: `#drone swarms`, `#autonomous warfare`, `#AI`, `#algorithm`, `#military`
 
 ---
 
 <a id="item-9"></a>
-## [Microsoft threatens security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/) ⭐️ 8.0/10
+## [Huawei Tau Scaling Law: Breakthrough or Hype?](https://www.scmp.com/tech/tech-trends/article/3355314/huaweis-new-chip-scaling-law-true-breakthrough-or-mere-hype?utm_source=rss_feed) ⭐️ 8.0/10
 
-Microsoft has come under fire for threatening an independent security researcher with a criminal investigation, reopening the long-running debate over responsible disclosure and software security responsibility. This incident is significant because it highlights the tension between security researchers and large tech companies, potentially chilling vulnerability research and hindering the discovery of software flaws. The public spat between Microsoft and the researcher renews focus on who is responsible for software security, but specific details about the researcher or the vulnerability are not disclosed in the available content.
+Huawei introduced the Tau (τ) Scaling Law at the IEEE ISCAS conference, proposing a shift from transistor miniaturization to focusing on data movement speed to advance semiconductor performance. This law could redefine semiconductor progress, especially for companies like Huawei constrained by US export restrictions, potentially enabling advanced chip development without cutting-edge fabrication tools. Huawei claims it has already designed and mass-produced 381 chips based on the Tau law over six years, and targets 1.4 nm-equivalent chip density by 2031.
 
-rss · TechCrunch · May 29, 17:03
+rss · SCMP · May 30, 03:00
 
-**Background**: Responsible disclosure is a practice where security researchers privately report vulnerabilities to a company before publicizing them, allowing the company to fix the issue. However, tension arises when companies respond with legal threats instead of gratitude, as seen in this case. This debate questions whether researchers should face prosecution for revealing security flaws.
+**Background**: Traditional semiconductor scaling, known as Moore's Law, focuses on shrinking transistors to improve performance. However, as physical limits approach and data movement becomes a bottleneck, alternative approaches like Huawei's Tau law emphasize system-level optimization of data throughput, which is particularly relevant under US sanctions restricting access to advanced lithography equipment.
 
-**Tags**: `#security`, `#Microsoft`, `#responsible disclosure`, `#vulnerability research`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.huawei.com/en/news/2026/5/ieee-iscas-tau-scaling">HUAWEI Presents the Tau (τ) Scaling Law, Enabling Breakthroughs in Transistor Density and System Performance - Huawei</a></li>
+<li><a href="https://www.scmp.com/tech/article/3354710/huawei-unveils-new-scaling-law-and-tech-can-develop-14-nm-equivalent-chips-2031">Huawei unveils new scaling law and tech that narrows gap with TSMC, Samsung | South China Morning Post</a></li>
+<li><a href="https://interestingengineering.com/energy/huawei-tau-scaling-law-1-4nm-chip-density-2031">Huawei targets 1.4 nm-class chips with new computing architecture</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#Huawei`, `#chip scaling law`, `#US-China tech war`, `#data movement`
 
 ---
 
 <a id="item-10"></a>
-## [Huawei's Tau Scaling Law: Paradigm Shift or Hype?](https://www.scmp.com/tech/tech-trends/article/3355314/huaweis-new-chip-scaling-law-true-breakthrough-or-mere-hype?utm_source=rss_feed) ⭐️ 8.0/10
+## [Microsoft threatens legal action over vulnerability disclosure](https://www.reddit.com/r/technology/comments/1ts2sh9/microsoft_is_threatening_legal_action_for/) ⭐️ 8.0/10
 
-Huawei proposed the Tau Scaling Law at the 2026 IEEE International Symposium on Circuits and Systems, advocating for a shift from transistor miniaturization to data throughput speed as the primary metric for semiconductor advancement. If validated, this law could redefine the trajectory of semiconductor progress, potentially allowing Huawei and China to circumvent US export restrictions on advanced chipmaking equipment and maintain competitiveness. The Tau Scaling Law targets a transistor density equivalent to 1.4nm by 2031, but critics argue it may be difficult to achieve without improvements in lithography and materials science.
+Microsoft has threatened legal action against a security researcher for publicly posting exploits without prior coordination. The company is engaged in a dispute over the ethics and legality of full vulnerability disclosure. This case highlights the ongoing tension between security researchers who advocate for full disclosure and technology companies that prefer coordinated disclosure to protect users. It could set a precedent for legal boundaries in vulnerability research. The researcher reportedly posted working exploits for unpatched vulnerabilities, which Microsoft argues violates its terms of service and potentially laws against computer fraud. The specific vulnerabilities and researcher's identity have not been officially disclosed.
 
-rss · SCMP · May 30, 03:00
+reddit · r/technology · /u/MarvelsGrantMan136 · May 30, 15:21
 
-**Background**: For decades, Moore's Law has driven chip progress by shrinking transistor size. However, physical limits and US export bans on extreme ultraviolet lithography machines have forced Huawei to explore alternative scaling approaches. The Tau Scaling Law proposes using time-domain metrics, such as signal propagation delay, as a new scaling factor.
+**Background**: Vulnerability disclosure is the practice of reporting security flaws to the affected vendor. Responsible disclosure involves giving the vendor time to patch before publicizing, while full disclosure releases details immediately. Legal threats by vendors against researchers can chill security research and reduce the number of vulnerabilities discovered and fixed, potentially leaving users less safe.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.huawei.com/en/news/2026/5/ieee-iscas-tau-scaling">HUAWEI Presents the Tau (τ) Scaling Law, Enabling ...</a></li>
-<li><a href="https://www.chinatechnews.com/2026/05/25/122466-huawei-introduces-tau-scaling-law-for-advanced-chips-aims-for-1-4nm-transistor-density-by-2031">Huawei Introduces Tau Scaling Law for Advanced Chips, Aims ...</a></li>
-<li><a href="https://teletimesinternational.com/2026/huawei-tau-scaling-law/">Her’s Law: Can Time Scaling Unlock the Next Semiconductor ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#Huawei`, `#chip scaling`, `#data throughput`, `#geopolitics`
+**Tags**: `#security`, `#vulnerability disclosure`, `#legal`, `#Microsoft`
 
 ---
 
 <a id="item-11"></a>
-## [Huawei chairman thanks US export curbs for boosting China's chip industry](https://www.reddit.com/r/technology/comments/1ts0ekb/huawei_chairman_thanks_the_us_for_export/) ⭐️ 8.0/10
+## [Domain expertise becomes the real moat in AI era](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) ⭐️ 7.0/10
 
-Huawei's chairman publicly thanked the United States for its export restrictions on chips, stating that these controls have spurred Chinese firms to invest heavily in R&D and develop their own technology stack, accelerating China's semiconductor self-reliance. This statement highlights a significant geopolitical shift, as US export controls intended to hinder China's tech progress have paradoxically catalyzed domestic innovation and reduced reliance on American technology, potentially reshaping the global semiconductor landscape. The chairman's remarks come amid ongoing US restrictions on advanced chip exports to China, which have forced Huawei and other Chinese companies to accelerate efforts in chip design, manufacturing, and software development to compete with American tech giants.
+A blog post argues that as AI automates coding tasks, domain expertise is now the key differentiator for software engineers, not just coding skill. This shift changes career advice for engineers, emphasizing deep industry knowledge over pure coding ability, and reshapes hiring criteria and team composition. The author contrasts the engineer's advantage (translating domain models into code) becoming cheap, while the domain expert's advantage (knowing what right looks like) remains valuable.
 
-reddit · r/technology · /u/LurkerFromTheVoid · May 30, 13:45
+hackernews · aaronbrethorst · May 30, 20:40 · [Discussion](https://news.ycombinator.com/item?id=48340411)
 
-**Background**: Since 2019, the US has imposed export controls targeting Huawei, restricting its access to American semiconductor technology and components. These measures were intended to protect national security and maintain US technological leadership. In response, China has intensified investments in domestic semiconductor R&D, aiming to reduce dependence on foreign suppliers.
+**Background**: AI coding tools like GPT-4 and agentic assistants can now generate significant portions of code, reducing the barrier to implementation. This shifts the bottleneck from programming to understanding the problem domain, making domain expertise a critical skill for senior engineers.
 
-**Tags**: `#semiconductors`, `#Huawei`, `#US-China tech war`, `#geopolitics`, `#technology policy`
+**Discussion**: Comments include a finance developer agreeing that coding is the easiest part, skepticism about shifting AI narratives, and practical examples of AI still struggling with complex domains.
+
+**Tags**: `#domain expertise`, `#AI`, `#software engineering`, `#career strategy`
 
 ---
 
 <a id="item-12"></a>
-## [Dev plants data-nuking prompt injection to punish vibe coders](https://www.reddit.com/r/technology/comments/1tre4w1/fed_up_with_vibe_coders_dev_sneaks_datanuking/) ⭐️ 8.0/10
+## [Voxel Space: 1992 Heightmap Rendering Algorithm Demo](https://s-macke.github.io/VoxelSpace/) ⭐️ 7.0/10
 
-A developer has hidden a data-nuking prompt injection in code to target 'vibe coders' who blindly use AI-generated code without understanding it. This highlights a new security risk in AI-assisted coding where prompt injection can cause data destruction, emphasizing the dangers of relying on AI-generated code without proper review. The injection modifies the AI's output to include malicious commands that delete or corrupt data when executed, targeting developers who use AI coding tools like ChatGPT without verifying the generated code.
+A browser-based demo and explanation of the Voxel Space terrain rendering algorithm, originally used in the 1992 game Comanche, has been recreated and shared online. This nostalgic recreation highlights a historically significant algorithm that enabled efficient real-time terrain rendering in early 3D games, and the community discussion reveals technical insights and personal experiences with the technique. Technically, Voxel Space uses a heightmap (a 2D array of heights) rather than true volumetric voxels, rendering vertical columns based on the viewer's perspective.
 
-reddit · r/technology · /u/throwaway_ghast · May 29, 20:10
+hackernews · davikr · May 30, 14:25 · [Discussion](https://news.ycombinator.com/item?id=48336564)
 
-**Background**: "Vibe coding" is a term coined by AI researcher Andrej Karpathy referring to a coding approach that relies on large language models (LLMs) to generate code from natural language descriptions. Prompt injection is an attack where specially crafted input prompts modify an AI's intended behavior, potentially causing it to ignore instructions or perform malicious actions.
+**Background**: Voxel Space is a terrain rendering algorithm developed in 1992 for the video game Comanche. It renders a landscape by rasterizing a heightmap and color map, drawing vertical lines to create a 3D effect. Unlike true voxels which represent volumetric data, it uses a 2D heightmap, making it simpler and faster for its time.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Vibe_coding">Vibe coding - Wikipedia</a></li>
-<li><a href="https://owasp.org/www-community/attacks/PromptInjection">Prompt Injection - OWASP Foundation</a></li>
-<li><a href="https://www.ibm.com/think/topics/vibe-coding">What is Vibe Coding? | IBM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Voxel">Voxel - Wikipedia</a></li>
+<li><a href="https://github.com/jval1972/emupedia-demo-voxel-space">jval1972/emupedia-demo- voxel - space : Terrain rendering algorithm ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#prompt injection`, `#AI safety`, `#software security`, `#code generation`, `#malicious code`
+**Discussion**: Comments highlight that the algorithm is technically a heightmap, not true voxels, and share nostalgic memories of playing Comanche on early PCs. One user describes a testing methodology inspired by the game's first mission, while others link to related projects like a C++ port and an AGS Engine adaptation.
+
+**Tags**: `#voxel`, `#rendering`, `#game development`, `#height map`, `#retro gaming`
 
 ---
 
 <a id="item-13"></a>
-## [OpenBSD's openrsync: A Secure, BSD-Licensed Rsync Implementation](https://github.com/kristapsdz/openrsync) ⭐️ 7.0/10
+## [AI Data Centers Stir Local Backlash](https://www.bloomberg.com/news/videos/2026-05-30/can-ai-grow-without-hurting-local-communities-video) ⭐️ 7.0/10
 
-OpenBSD's openrsync is a BSD-licensed reimplementation of rsync with security enhancements. It has been adopted by macOS since version 15.0 and is gaining traction in the open-source community. This matters because it brings modern security features like pledge and unveil to a widely used file synchronization tool, but it also causes ecosystem fragmentation as different platforms adopt different implementations. Users need to be aware of compatibility differences. openrsync is not fully compatible with Samba's rsync; for example, the --rsync-path flag behaves differently. It relies on OpenBSD's pledge(2) and unveil(2) system calls for security, which are not available on Linux, so portability remains a challenge.
+A growing number of communities and officials are challenging the construction of AI data centers, citing concerns over electricity costs, water usage, noise, and lack of transparency, as highlighted by Michigan Attorney General Dana Nessel's legal challenge to a project near Ann Arbor. This tension illustrates a critical socio-technical issue: the rapid expansion of AI infrastructure may impose significant local costs, potentially slowing deployment and requiring new regulatory frameworks. DigitalBridge CEO Marc Ganzi acknowledged that the industry must work with local communities to demonstrate that benefits outweigh burdens, while the Michigan case focuses on ratepayer transparency and risk allocation.
 
-hackernews · sph · May 30, 10:51 · [Discussion](https://news.ycombinator.com/item?id=48334854)
+rss · Bloomberg Markets · May 30, 14:03
 
-**Background**: Rsync is a widely used tool for efficiently syncing files between systems. OpenBSD is a security-focused Unix-like OS known for its proactive security features like pledge and unveil. openrsync is OpenBSD's clean-room reimplementation under a permissive BSD license, aiming to provide a secure alternative to the original GNU-licensed rsync.
+**Background**: AI data centers house powerful computing hardware that requires massive amounts of electricity and water for cooling. Their rapid proliferation is driven by demand for large-scale AI model training and inference, but local communities often bear the environmental and economic externalities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Openrsync">Openrsync</a></li>
-<li><a href="https://packages.gentoo.org/packages/net-misc/openrsync">net-misc/openrsync – Gentoo Packages</a></li>
-<li><a href="https://wiki.ircnow.org/index.php?n=Openrsync.Usage">IRCNow | Openrsync / Using Openrsync</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments express mixed sentiments: some users find openrsync improved and hope to use it exclusively, but note compatibility issues. Others worry about fragmentation—Apple and Android may adopt it while Linux sticks to the original, requiring power users to learn quirks. Security features like pledge are highlighted as critical but not available on all platforms.
-
-**Tags**: `#rsync`, `#OpenBSD`, `#security`, `#file-synchronization`, `#open-source`
+**Tags**: `#AI infrastructure`, `#data centers`, `#local communities`, `#regulation`
 
 ---
 
 <a id="item-14"></a>
-## [Danish Pension Fund Excludes SpaceX Over Governance and Valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/) ⭐️ 7.0/10
+## [China launches national AI evaluation framework](https://www.scmp.com/economy/china-economy/article/3355324/china-launches-ai-framework-improve-black-box-transparency-and-raise-standards?utm_source=rss_feed) ⭐️ 7.0/10
 
-AkademikerPension, a Danish pension fund, has excluded SpaceX from its investment portfolio, citing concerns over corporate governance and valuation transparency. This decision highlights growing scrutiny of private companies like SpaceX by ESG-focused investors, potentially influencing other funds and affecting SpaceX's future IPO prospects. AkademikerPension has previously excluded Tesla and companies linked to weapons, fossil fuels, and human rights violations; the fund has outperformed peers since 2009, suggesting ESG integration does not harm returns.
+China's central government released new guidelines to create a unified national yardstick for evaluating AI models, computing power, and data quality, aiming to improve transparency, accuracy, and reliability. This framework addresses the 'black box' problem in AI by standardizing assessments, which could boost trust in AI systems and shape global AI governance, especially as AI adoption accelerates across industries. The framework covers model performance, computing efficiency, and data quality under a common standard, but specific metrics and implementation timelines have not been disclosed yet.
 
-hackernews · vrganj · May 30, 08:00 · [Discussion](https://news.ycombinator.com/item?id=48333820)
+rss · SCMP · May 30, 10:00
 
-**Background**: ESG investing evaluates companies based on environmental, social, and governance criteria. Private companies like SpaceX can be opaque in valuation, lacking public disclosure, which poses challenges for ESG assessment.
+**Background**: AI systems often operate as 'black boxes,' making it difficult to understand their decision-making processes. China's move follows global efforts to regulate AI, such as the EU AI Act, and aims to set benchmarks for safety and transparency in domestic AI development.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Environmental,_social,_and_governance">Environmental, social, and governance - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp">Environmental, Social, and Governance (ESG) Investing ... - Investopedia</a></li>
-<li><a href="https://corporatefinanceinstitute.com/resources/valuation/private-company-valuation/">Private Company Valuation - Definition, Common Methods</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters generally supported the move, noting AkademikerPension's strong returns and prior exclusions. Some discussed the need for ETFs that avoid new IPOs with insider lock-ups, while others referenced an FT podcast on SpaceX's governance concerns.
-
-**Tags**: `#ESG`, `#SpaceX`, `#pension fund`, `#investment`, `#governance`
+**Tags**: `#AI governance`, `#China`, `#AI standards`, `#transparency`, `#regulation`
 
 ---
 
 <a id="item-15"></a>
-## [AI Data Centers Face Local Backlash Over Costs and Transparency](https://www.bloomberg.com/news/videos/2026-05-30/can-ai-grow-without-hurting-local-communities-video) ⭐️ 7.0/10
+## [17 Nations Form Pact to Protect Undersea Cables, US and China Absent](https://www.scmp.com/week-asia/politics/article/3355411/17-nations-launch-pact-protect-vital-undersea-cables-amid-us-china-absence?utm_source=rss_feed) ⭐️ 7.0/10
 
-Residents and officials in communities hosting AI data centers are pushing back against projects due to concerns over electricity costs, water use, noise, and lack of transparency, with Michigan's Attorney General challenging a major project near Ann Arbor. This backlash highlights a growing tension between the rapid expansion of AI infrastructure and local community interests, potentially slowing down data center deployments and forcing the industry to adopt more collaborative and transparent practices. DigitalBridge CEO Marc Ganzi acknowledged the industry can navigate the backlash only by working with local communities and demonstrating that benefits outweigh burdens. Michigan Attorney General Dana Nessel argues that ratepayers deserve more transparency about contracts and potential costs.
+On May 30, 2025, at the Shangri-La Dialogue in Singapore, 17 nations launched the Guiding Principles for Underwater Infrastructure Defence Exchanges (GUIDE), a framework to cooperate on protecting critical underwater infrastructure such as telecommunication cables. Notably, both the United States and China did not join the pact. Undersea cables carry over 95% of global internet traffic, making their security vital for the digital economy. The absence of major powers like the US and China could limit the pact's effectiveness and signal diverging approaches to maritime infrastructure governance. The GUIDE was initiated by Singapore and involves 17 countries from Europe and Asia, focusing on information sharing, joint exercises, and best practices for defending undersea assets. The framework is non-binding and aims to foster trust among like-minded nations.
 
-rss · Bloomberg Markets · May 30, 14:03
+rss · SCMP · May 30, 09:55
 
-**Background**: AI data centers require enormous amounts of electricity and water for cooling, leading to strain on local resources and higher utility costs for nearby residents. The rapid growth of AI has spurred a trillion-dollar investment boom in data center infrastructure, but often without sufficient community engagement or regulatory oversight.
+**Background**: Undersea cables are fiber-optic cables laid on the ocean floor that carry the vast majority of the world's data and communications. They are vulnerable to accidental damage from fishing or anchors, as well as intentional sabotage and espionage. Geopolitical tensions have heightened concerns about cable security, especially near strategic chokepoints. The absence of the US and China, two key stakeholders, highlights the challenge of achieving broad consensus on infrastructure protection in a polarized geopolitical environment.
 
-**Tags**: `#AI`, `#data centers`, `#infrastructure`, `#community impact`, `#ethics`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.channelnewsasia.com/singapore/critical-underwater-infrastructure-chan-chun-sing-shangri-la-dialogue-6151266">17 countries, including Singapore, launch framework to protect critical underwater infrastructure - CNA</a></li>
+<li><a href="https://defencepioneer.sg/pioneer-articles/30may26_news1">17 countries launch new framework for cooperation on critical underwater infrastructure</a></li>
+<li><a href="https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/30/singapore-16-other-countries-launch-effort-to-protect-critical-underwater-infrastructure-during-shangri-la-dialogue-event">Singapore, 16 other countries launch effort to protect critical underwater infrastructure during Shangri-La Dialogue event | The Star</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#undersea cables`, `#cybersecurity`, `#international policy`, `#infrastructure defense`
 
 ---
 
 <a id="item-16"></a>
-## [Indian court ruling reignites criticism of Google's ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/) ⭐️ 7.0/10
+## [Researchers Seek to Use Teacher-Worn Cameras for AI Training](https://www.reddit.com/r/technology/comments/1tsd84s/researchers_wanted_preschool_teachers_to_wear/) ⭐️ 7.0/10
 
-Founders and lawyers are using a recent Delhi High Court ruling that permanently bars Google from auctioning trademarked names as ad keywords to revive criticism of Google's advertising practices. The ruling has sparked renewed debate over how platforms handle trademarked keywords. This ruling could force Google and other platforms to reconsider their trademark keyword policies, potentially reshaping online advertising and protecting brand owners. It may also influence antitrust and trademark regulation in other jurisdictions. The Delhi High Court permanently barred Google from using trademarked keywords in its ad auctions, which had previously allowed competitors to bid on brand names. The ruling specifically addresses Google's practice of allowing third parties to trigger ads using trademarked terms without the trademark owner's consent.
+Researchers proposed that preschool teachers wear small cameras to capture first-person perspective footage for training AI systems, as described in a document given to parents requesting permission. This initiative raises significant privacy and ethical concerns about surveillance in early childhood education and the use of children's data for AI model training without explicit informed consent. The camera would capture the teacher's approximate first-person perspective, and a fixed video camera might also be placed in the classroom, according to the document given to parents.
 
-rss · TechCrunch · May 30, 02:00
+reddit · r/technology · /u/ControlCAD · May 30, 22:16
 
-**Background**: Google Ads allows advertisers to bid on keywords, including trademarked terms, to display their ads. Trademark owners can file complaints, but the practice has long been controversial. The Delhi High Court's ruling marks a significant legal setback for Google, as it restricts the company's ability to monetize trademarked keywords in India, a major market.
+**Background**: Collecting real-world video data from natural settings is valuable for training AI models that understand human activities and interactions. However, doing so in a preschool environment involves vulnerable subjects (children) and sensitive contexts, requiring strict ethical oversight and transparent consent processes. This proposal highlights the tension between advancing AI research and protecting privacy rights, especially for minors.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/">Founders seize on Indian court ruling to revive criticism... | TechCrunch</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2prMU9TY0VSSDQ5a1ZxYURCU2F5Z0FQAQ?hl=en-ET&gl=ET&ceid=ET:en">Google News - Delhi High Court fines Google for trademark...</a></li>
-<li><a href="https://economictimes.indiatimes.com/tech/technology/hc-ruling-on-google-keyword-ads-likely-to-reshape-e-advertising/articleshow/131397712.cms">HC ruling on Google keyword ads likely to reshape e-advertising...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#antitrust`, `#digital advertising`, `#google`, `#regulation`, `#trademark`
+**Tags**: `#AI ethics`, `#privacy`, `#surveillance`, `#data collection`, `#education`
 
 ---
 
 <a id="item-17"></a>
-## [China launches AI transparency evaluation framework](https://www.scmp.com/economy/china-economy/article/3355324/china-launches-ai-framework-improve-black-box-transparency-and-raise-standards?utm_source=rss_feed) ⭐️ 7.0/10
+## [California's 300+ Data Centers Face Water Scarcity](https://www.reddit.com/r/technology/comments/1trw8ao/california_will_soon_have_more_than_300_data/) ⭐️ 7.0/10
 
-China's central government released new guidelines to create a unified national standard for evaluating AI models, computing power, and data quality, aiming to improve accuracy, reliability, and transparency. This move could set a precedent for global AI governance, as China is a major AI player. Standardized evaluation may increase trust and accelerate adoption, while potentially influencing international norms. The framework establishes a common yardstick for measuring and comparing AI systems, addressing the 'black box' issue by promoting transparency in AI decision-making and enabling better accountability.
+California is on track to have more than 300 data centers, raising concerns about how these facilities will secure water in a drought-prone state. This highlights the growing tension between digital infrastructure expansion and environmental sustainability, especially in water-stressed regions like California, which is a global tech hub. Data centers use water primarily for cooling systems, and California's frequent droughts make water sourcing a critical issue. The article questions whether existing water supplies can support this growth.
 
-rss · SCMP · May 30, 10:00
+reddit · r/technology · /u/WombatusMighty · May 30, 10:27
 
-**Background**: Many AI models operate as 'black boxes,' making their internal decision-making processes opaque. This lack of transparency raises concerns about bias, safety, and accountability. China's new framework aims to address these issues by requiring standardized evaluations of model behavior, data quality, and reliability.
+**Background**: Data centers require large amounts of electricity and water to operate, with cooling accounting for a significant portion of water use. California has experienced severe droughts in recent years, leading to strict water conservation measures. The state's tech industry drives demand for data centers, but environmental regulations and water availability pose challenges.
 
-**Tags**: `#AI`, `#regulation`, `#China`, `#standards`, `#transparency`
+**Tags**: `#data centers`, `#California`, `#water usage`, `#sustainability`, `#environment`
 
 ---
 
 <a id="item-18"></a>
-## [China's Robotic Hand Startups Woo Venture Capital in Record Time](https://www.scmp.com/tech/article/3355365/unicorn-born-record-time-amid-arms-race-among-chinas-robotic-hand-developers?utm_source=rss_feed) ⭐️ 7.0/10
+## [EU proposes Tech Sovereignty Package to override contracts](https://www.reddit.com/r/geopolitics/comments/1try6co/brussels_just_gave_itself_the_power_to_override/) ⭐️ 7.0/10
 
-China’s venture capitalists and industrial giants, including Xiaomi and Li Auto, are aggressively funding dexterous robotic hand startups, with Xynova completing a Series A round on Friday, marking another unicorn born in record time. Dexterous robotic hands are the toughest bottleneck in the global humanoid hardware arms race, and this funding blitz is rapidly driving up startup valuations, signaling a critical push toward humanoid robot commercialization. The funding comes from the venture arms of Xiaomi and Li Auto, highlighting the involvement of major industrial players, and the rapid valuation growth reflects an intense competitive landscape among Chinese robotic hand developers.
+The European Union has proposed a Tech Sovereignty Package that would allow authorities to override private contracts during emergencies, particularly in semiconductor supply and sensitive data storage. This could disrupt existing commercial agreements for major technology companies and cloud providers, enhancing EU control over critical supply chains and data sovereignty. The proposal targets semiconductor supply arrangements and imposes stricter requirements on where sensitive government data is stored and processed, affecting global tech firms and cloud providers.
 
-rss · SCMP · May 30, 06:00
+reddit · r/geopolitics · /u/aymannasri_tcg · May 30, 12:06
 
-**Background**: Dexterous robotic hands are advanced robotic devices designed to replicate human hand movements, enabling precise manipulation of objects. Humanoid robots require such hands to perform real-world tasks, but making them reliable and affordable remains a major engineering challenge. China has become a hotspot for humanoid hardware development, with a growing 'arms race' between domestic and international players.
+**Background**: The EU has been pursuing greater technological independence to reduce reliance on foreign suppliers, especially amid geopolitical tensions. The Tech Sovereignty Package is part of this strategy, aiming to strengthen the region's resilience in critical technologies like semiconductors and cloud computing.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.humanoidary.com/archives/1102">The Humanoid Arms Race: How Robotics Became the Next Front in Global ...</a></li>
-<li><a href="https://oceantrix.com/basic-knowledge/what-is-a-dexterous-hand/">What is a Dexterous Hand ? Understanding the... - OceanTrix Robotics</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#robotics`, `#venture capital`, `#humanoid`, `#China`, `#AI`
+**Tags**: `#EU policy`, `#technology sovereignty`, `#semiconductors`, `#data privacy`, `#geopolitics`
 
 ---
 
 <a id="item-19"></a>
-## [Chinese Scientists Unveil ‘Kill-Them-All’ Drone Swarm Algorithm](https://www.scmp.com/news/china/science/article/3355232/chinese-scientists-create-kill-them-all-algorithm-drone-warfare?utm_source=rss_feed) ⭐️ 7.0/10
+## [Curated Pandoc Templates Collection Launched](https://pandoc-templates.org/) ⭐️ 6.0/10
 
-A Chinese research team has developed the HG-STR (Heterogeneous Graph Spatio-Temporal Reasoning) algorithm, which enables a swarm of fixed-wing drones to autonomously search and eliminate all enemy targets with 100% success, even under communication jamming and blocked vision. This algorithm represents a significant advance in autonomous drone warfare, potentially shifting military strategy by enabling fully autonomous lethal swarms that operate without human intervention and withstand electronic countermeasures. The HG-STR algorithm is the first known to achieve guaranteed 100% target elimination under jamming, according to the researchers, but the technical specifics and independent verification remain undisclosed.
-
-rss · SCMP · May 30, 04:00
-
-**Background**: Drone swarms coordinate multiple unmanned aerial vehicles to perform tasks collectively, often relying on communication and sensors. HG-STR uses heterogeneous graph spatio-temporal reasoning to model complex relationships between drones and targets over time, allowing autonomous decision-making even when links are jammed. This builds on prior graph neural network research for dynamic systems.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.scmp.com/news/china/science/article/3355232/chinese-scientists-create-kill-them-all-algorithm-drone-warfare">Chinese scientists create kill-them-all algorithm for drone ...</a></li>
-<li><a href="https://www.studioglobal.ai/hr/discover/answers/what-new-drone-swarm-algorithm-did-chinese-6a1af39b2079330f5392d5a7">Inside China's HG-STR: The Algorithm Designed to Hunt Without ...</a></li>
-<li><a href="https://www.chinastrategy.org/2026/05/30/chinese-scientists-create-kill-them-all-algorithm-for-drone-warfare/">Chinese scientists create ‘kill-them-all’ algorithm for drone ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#drone warfare`, `#algorithm`, `#AI`, `#military technology`, `#autonomous systems`
-
----
-
-<a id="item-20"></a>
-## [California's 300+ Data Centers Face Water Scarcity](https://www.reddit.com/r/technology/comments/1trw8ao/california_will_soon_have_more_than_300_data/) ⭐️ 7.0/10
-
-California is projected to have more than 300 data centers soon, raising critical questions about how these facilities will source water for cooling operations. This highlights a major environmental and resource challenge for the tech industry, as water scarcity in drought-prone California threatens the sustainability of data center expansion. Data centers consume large amounts of water primarily for cooling, but metrics like Water Usage Effectiveness (WUE) help measure efficiency, and advanced techniques like immersion cooling can significantly reduce water usage.
-
-reddit · r/technology · /u/WombatusMighty · May 30, 10:27
-
-**Background**: Data centers generate substantial heat and require cooling systems, often using evaporative cooling that consumes water. The Water Usage Effectiveness (WUE) metric, created by The Green Grid, measures water consumption per unit of IT energy. Immersion cooling, which uses synthetic fluids and dry coolers, can nearly eliminate water use for cooling, offering a sustainable alternative for future data centers.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Water_usage_effectiveness">Water usage effectiveness - Wikipedia</a></li>
-<li><a href="https://blog.equinix.com/blog/2024/11/13/what-is-water-usage-effectiveness-wue-in-data-centers/">What Is Water Usage Effectiveness (WUE) in Data Centers? - Interconnections - The Equinix Blog</a></li>
-<li><a href="https://www.eesi.org/articles/view/data-centers-and-water-consumption">Data Centers and Water Consumption | Article | EESI</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#data centers`, `#water usage`, `#California`, `#sustainability`, `#infrastructure`
-
----
-
-<a id="item-21"></a>
-## [First Windows PCs with Nvidia Chips to Debut Next Week](https://www.reddit.com/r/technology/comments/1ts1kft/first_windows_pcs_powered_by_nvidia_chips_to/) ⭐️ 7.0/10
-
-Nvidia and Microsoft have teased the imminent launch of the first Windows PCs powered by Nvidia's own Arm-based processors, expected to be unveiled at Computex 2026 next week. This marks Nvidia's entry into the PC CPU market, challenging Intel and AMD's dominance, and could enable powerful on-device AI capabilities with its high TOPS neural processing unit. The rumored N1X chip is expected to deliver over 45 TOPS for AI, meeting Microsoft's Copilot+ certification, and may feature an integrated GPU equivalent to an RTX 5070.
-
-reddit · r/technology · /u/joe4942 · May 30, 14:32
-
-**Background**: Nvidia is known for its GPUs and AI chips, but not for PC CPUs. Traditional Windows PCs run on x86 processors from Intel and AMD. Windows on Arm has struggled due to performance and compatibility issues, but Nvidia's entry could change that by combining its AI expertise with Arm's energy efficiency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.pcmag.com/news/nvidia-microsoft-tease-is-arm-powered-windows-pc-chip-coming-computex-2026">Nvidia and Microsoft Just Dropped a Cryptic Tease. Is an Arm-Powered Windows PC Chip Finally Coming? | PCMag</a></li>
-<li><a href="https://www.forbes.com/sites/jonmarkman/2026/03/16/the-arm-invasion-nvidia-targets-200-billion-pc-market-with-n1x-chips/">The Arm Invasion: Nvidia Targets $200 Billion PC Market With N1X Chips</a></li>
-<li><a href="https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems">Nvidia and Microsoft tease "a new era of PC" ahead... | Tom's Har...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Nvidia`, `#Windows PC`, `#hardware`, `#chips`, `#announcement`
-
----
-
-<a id="item-22"></a>
-## [Pandoc Templates: A Curated Directory](https://pandoc-templates.org/) ⭐️ 6.0/10
-
-A curated directory of templates for Pandoc has been highlighted at pandoc-templates.org, providing users with easy access to customizable document conversion templates. This resource simplifies creating professional documents from Markdown, lowering the barrier for Pandoc users and boosting adoption for publishing workflows. The directory includes templates for PDF, LaTeX, HTML, and Word, with many customizable options, and has garnered 264 points and 40 comments on Hacker News, indicating strong community interest.
+A new website, pandoc-templates.org, offers a curated collection of templates for Pandoc, the universal document converter, enabling users to easily produce styled documents in multiple formats. This resource simplifies document formatting for Pandoc users, who previously had to create or find templates manually, potentially improving adoption and workflow efficiency in academic and publishing contexts. The templates support various output formats like HTML, PDF, and Word, and include visually appealing designs that go beyond basic formatting, as noted by community members who discovered the site.
 
 hackernews · ankitg12 · May 30, 09:56 · [Discussion](https://news.ycombinator.com/item?id=48334515)
 
-**Background**: Pandoc is a free, open-source document converter widely used by scholars and writers to convert between markup formats. Templates in Pandoc allow users to customize output using variables and control structures, but finding good templates can be challenging, making a curated directory valuable.
+**Background**: Pandoc is a free and open-source document converter created by John MacFarlane, widely used by scholars and in publishing workflows. It converts between markup formats such as Markdown, LaTeX, and HTML. Templates allow users to control the output styling without writing complex commands.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Pandoc">Pandoc - Wikipedia</a></li>
-<li><a href="https://pandoc.org/">Pandoc - index</a></li>
-<li><a href="https://pandoc-templates.org/">pandoc-templates.org</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pandoc">Pandoc</a></li>
+<li><a href="https://grokipedia.com/page/Pandoc">Pandoc</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments on the Hacker News post express appreciation for Pandoc and the template directory, with users sharing workflows and challenges with PDF generation. Some discovered new template possibilities, while others discuss related tools like Quarto and Metanorma.
+**Discussion**: Commenters generally praised Pandoc and the new template gallery, with some sharing personal experiences using Pandoc for theses and novels. Several compared it to Quarto, noting Quarto's better user experience but acknowledging Pandoc's flexibility. One user reported difficulties with PDF generation, such as table layout issues and font fallback problems.
 
 **Tags**: `#pandoc`, `#templates`, `#markdown`, `#document conversion`, `#open source`
 
 ---
 
-<a id="item-23"></a>
-## [Rokid AI Glasses Set Japanese Crowdfunding Record of ¥624 Million](https://36kr.com/newsflashes/3831673401190273?f=rss) ⭐️ 6.0/10
+<a id="item-20"></a>
+## [Haiguang Adapts Step 3.7 Flash on DTK Platform](https://36kr.com/newsflashes/3831356538529409?f=rss) ⭐️ 6.0/10
 
-Rokid AI Glasses raised over 624 million yen on Japan's Makuake platform, becoming the highest-grossing project in the platform's 13-year history across all categories. This record demonstrates strong market demand for AI-powered smart glasses in Japan, a key consumer electronics market, and validates Rokid's product-market fit beyond China. The Rokid AI Glasses Style weighs just 38.5g, features a 12MP Sony IMX681 camera, and has no built-in display, focusing on hands-free AI assistance and first-person recording.
+On May 29, Stepfun released Step 3.7 Flash, and Haiguang Information completed full adaptation and deep optimization on its DTK heterogeneous computing platform the same day, enabling efficient deployment. This allows developers to run the multimodal model efficiently on Haiguang's platform, reducing integration costs for building multimodal agents, code assistants, and complex workflows. The adaptation leverages Haiguang's DTK heterogeneous computing platform and full software stack, achieving 'release-day adaptation and efficiency'. Step 3.7 Flash supports a 256K context window and selectable reasoning levels.
 
-rss · 36氪 · May 30, 10:59
+rss · 36氪 · May 30, 05:37
 
-**Background**: Makuake is Japan's largest crowdfunding platform, launched in 2013, hosting over 3,000 projects. Rokid is a Chinese company known for augmented reality (AR) and AI glasses. This crowdfunding campaign targeted early adopters in Japan, offering AI glasses that combine voice interaction with a camera for real-time information and hands-free capture.
+**Background**: Haiguang Information develops domestic GPU accelerators and software stacks for AI workloads. DTK (Deep Computing Toolkit) is a heterogeneous computing platform that allows efficient deployment of AI models across different processors. Step 3.7 Flash is a high-efficiency multimodal Mixture-of-Experts model by Stepfun (Jieyue Xingchen) with a 256K context window.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/Rokid_AI_Glasses_Style">Rokid AI Glasses Style</a></li>
-<li><a href="https://ces-japantech.jp/en/introduction/makuake.html">Makuake, Inc.｜EXHIBIT｜JAPAN TECH PROJECT</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Heterogeneous_computing">Heterogeneous computing - Wikipedia</a></li>
+<li><a href="https://static.stepfun.com/blog/step-3.7-flash/">Step 3 . 7 Flash — A high-efficiency Flash model for Real-World</a></li>
+<li><a href="https://openrouter.ai/stepfun/step-3.7-flash">Step 3 . 7 Flash - API Pricing & Benchmarks | OpenRouter</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI glasses`, `#crowdfunding`, `#Rokid`, `#Japan`, `#hardware`
+**Tags**: `#AI model adaptation`, `#GPU computing`, `#multimodal AI`, `#software stack`, `#inference optimization`
+
+---
+
+<a id="item-21"></a>
+## [90s Tech Giants Resurge on AI Boom](https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally) ⭐️ 6.0/10
+
+Dell, Nokia, and Lenovo, which were stars of the dot-com era, are experiencing a resurgence driven by the massive spending on artificial intelligence infrastructure. This trend shows that legacy hardware and networking companies are benefiting from the AI boom, potentially reshaping market dynamics and investment strategies. The AI spending boom is fueling a $1.7 trillion rally in these so-called 'dinosaur' tech stocks, highlighting the shift in demand toward infrastructure providers.
+
+rss · Bloomberg Markets · May 30, 13:00
+
+**Background**: Dell, Nokia, and Lenovo were dominant in the dot-com era but faded as new tech darlings emerged. Now, the need for data centers, servers, and networking equipment for AI workloads is reviving their fortunes.
+
+**Tags**: `#AI`, `#stock market`, `#legacy tech`, `#industry trends`
+
+---
+
+<a id="item-22"></a>
+## [Google Gemini Spark review: useful but unnecessary as standalone product](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/) ⭐️ 6.0/10
+
+A TechCrunch review of Google's Gemini Spark AI assistant found it helpful for automating daily tasks like inbox summaries and event planning, but questioned why it was released as a separate product rather than being integrated into existing Google services. The review highlights the ongoing competition among AI assistants (e.g., ChatGPT, Google Assistant) and raises strategic questions about product differentiation. If Gemini Spark is genuinely useful, its standalone status could fragment the user experience or confuse consumers. Gemini Spark operates as a 24/7 AI assistant, focusing on productivity and automation. The reviewer noted it can summarize emails, plan local events, and automate routine workflows, but the article did not specify pricing or availability details.
+
+rss · TechCrunch · May 30, 15:30
+
+**Background**: AI assistants like Google Assistant and Siri have long offered limited automation, but new generative AI tools (e.g., GPT-4) enable more complex task execution. Google's Gemini family includes multiple models; Spark appears to be a specialized assistant version aimed at proactive, always-on help. The separate product strategy may reflect Google's push to monetize AI capabilities beyond search.
+
+**Tags**: `#AI assistant`, `#Google Gemini`, `#productivity`, `#automation`
+
+---
+
+<a id="item-23"></a>
+## [Alternative browsers challenge Chrome and Safari in 2026](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/) ⭐️ 6.0/10
+
+TechCrunch published an overview of alternative browsers like Ladybird and Servo that are gaining traction against Chrome and Safari in 2026. These browsers emphasize privacy and independence from dominant browser engines, potentially diversifying the web ecosystem and reducing monopoly risks. Ladybird is building a new browser engine from scratch, while Servo leverages Rust for memory safety and concurrency; both are open-source and backed by non-profits.
+
+rss · TechCrunch · May 30, 13:00
+
+**Background**: Most current browsers rely on Blink (Chrome) or WebKit (Safari) engines, leading to limited diversity. Ladybird and Servo aim to create fully independent engines, promoting a more open web.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ladybird_(web_browser)">Ladybird ( web browser ) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Servo_(software)">Servo (software) - Wikipedia</a></li>
+<li><a href="https://ladybird.org/">Ladybird is a truly independent web browser , backed by a non-profit.</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#browsers`, `#Chrome alternatives`, `#web browsers`, `#tech news`
 
 ---
 
 <a id="item-24"></a>
-## [Central Enterprises Form Consortium for Tech Industrialization](https://36kr.com/newsflashes/3831601284982660?f=rss) ⭐️ 6.0/10
+## [TikTok Reportedly Aims to Become a Super App](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/) ⭐️ 6.0/10
 
-On May 30, a consortium led by central enterprises was established in Beijing to promote the industrialization of scientific and technological achievements. This initiative accelerates the integration of innovation with industry, enhancing China's technology transfer capabilities and supporting national strategic goals. The consortium is guided by the State-owned Assets Supervision and Administration Commission (SASAC), led by the National Energy Group, and involves all central enterprises along with research institutes, universities, and private firms.
+According to a TechCrunch report, TikTok is reportedly working to transform into a comprehensive super app that would handle a wide range of digital activities for users. If successful, TikTok could dominate the digital ecosystem by integrating social networking, e-commerce, payments, and more, similar to WeChat in China. This move would intensify competition among major tech platforms globally. No specific features or timeline have been confirmed, but the report suggests TikTok is exploring ways to add mini-apps and services beyond short videos. The super app model is well-established in Asia, with examples like WeChat, Grab, and Rappi.
 
-rss · 36氪 · May 30, 10:18
+rss · TechCrunch · May 30, 13:00
 
-**Background**: Central enterprises in China are state-owned giants that play a key role in strategic industries. The consortium aims to build a one-stop, full-chain service system for industrializing scientific achievements, addressing a common bottleneck in China's innovation ecosystem.
+**Background**: A super app is a mobile application that provides a core set of features while also allowing access to independently developed mini-apps for various services like messaging, payments, e-commerce, and food delivery. Notable examples include WeChat in China, Grab in Southeast Asia, and Rappi in Latin America. TikTok, already a leading short-video platform, may leverage its massive user base to expand into adjacent services.
 
-**Tags**: `#state-owned enterprises`, `#technology transfer`, `#innovation policy`, `#China`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Super-app">Super - app - Wikipedia</a></li>
+<li><a href="https://www.techtarget.com/whatis/definition/super-app">What is a super app ?</a></li>
+<li><a href="https://www.elluminatiinc.com/super-apps-examples/">Top 6 Successful Super Apps Examples in Market – 2026</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#TikTok`, `#super app`, `#social media`, `#digital platforms`
 
 ---
 
 <a id="item-25"></a>
-## [Shenzhen warns ride-hailing market saturated, 6 risks](https://36kr.com/newsflashes/3831333621933705?f=rss) ⭐️ 6.0/10
+## [Indian court ruling reignites Google ad business criticism](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/) ⭐️ 6.0/10
 
-The Shenzhen Transportation Bureau announced that as of April 2026, the ride-hailing market is saturated, with average daily orders per driver at 13.01, and warned of six key risks for potential drivers. This warning signals a mature market where new drivers may struggle to earn sustainable income, affecting gig economy participants and platform strategies. It also reflects regulatory efforts to protect drivers from predatory practices in an increasingly competitive environment. The six risks include fake 'guaranteed income' models, unauthorized intermediaries, misleading ads promising high earnings, misunderstanding of penalties for unlicensed operation, rental scams with 'no deposit' promises, and rental companies failing to maintain insurance coverage.
+Following an Indian court ruling on trademarked keywords, founders have revived criticism of Google's ad business, arguing that the platform's practices unfairly exploit trademarked terms. This ruling could force ad platforms like Google to reassess how they handle trademarked keywords, potentially reshaping digital advertising practices and protecting brand owners' rights. Lawyers have noted that the decision may compel platforms to revisit their policies on trademarked keywords, though the specific technical or legal adjustments remain unclear.
 
-rss · 36氪 · May 30, 05:53
+rss · TechCrunch · May 30, 02:00
 
-**Background**: Ride-hailing platforms like Didi have experienced rapid growth, but market saturation leads to declining per-driver earnings. In many cities, regulators are stepping in to issue warnings and set rules. The 'guaranteed income' model is a common marketing tactic where platforms promise a minimum hourly wage, but often fail to deliver, leading to disputes. Additionally, gig economy workers lack traditional labor protections, making them vulnerable to such risks.
+**Background**: Google's ad business allows advertisers to bid on keywords, including trademarked terms, to display ads in search results. This practice has long been controversial, as brand owners claim it can mislead consumers or dilute their trademarks. The Indian court ruling appears to address these concerns, potentially setting a precedent for other jurisdictions.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://journals.sagepub.com/doi/10.1177/09500170231185212">Ride-Hail Drivers, Taxi Drivers and Multiple Jobholders: Who Takes the Most Risks and Why? - Alexandra D Lefcoe, Catherine E Connelly, Ian R Gellatly, 2024</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10978858/">Ridesourcing platforms thrive on socio-economic inequality - PMC</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#ride-hailing`, `#market saturation`, `#risk warning`, `#regulation`, `#gig economy`
+**Tags**: `#Google`, `#advertising`, `#trademark`, `#India`, `#legal`
 
 ---
 
 <a id="item-26"></a>
-## [Legacy Tech Stocks Surge on AI Spending Boom](https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally) ⭐️ 6.0/10
+## [DuckDuckGo 'No AI' Search Traffic Triples After Google Update](https://www.reddit.com/r/technology/comments/1tsbhq7/traffic_to_duckduckgos_proudly_no_ai_search_page/) ⭐️ 6.0/10
 
-Dell, Nokia, and Lenovo, once dot-com era stars, have seen a $1.7 trillion rally driven by increased spending on artificial intelligence infrastructure and services. This resurgence highlights how AI demand is revitalizing legacy hardware and telecom companies, broadening the AI investment landscape beyond just chipmakers and cloud giants. The rally encompasses a group of older tech firms that were overshadowed by newer internet companies, but are now benefiting from AI-driven demand for servers, networking equipment, and devices.
+Traffic to DuckDuckGo's specialized 'No AI' search page has tripled following Google's latest AI-focused search update, as users seek alternatives without AI-generated answers. This surge indicates growing user resistance to AI integration in search, potentially reshaping the search engine market as privacy-conscious users demand AI-free options. The 'No AI' page lacks AI-assisted answers, chat interfaces, and surfaces fewer AI-generated images; however, it cannot be set as the default search engine on Apple devices directly.
 
-rss · Bloomberg Markets · May 30, 13:00
+reddit · r/technology · /u/MarvelsGrantMan136 · May 30, 21:05
 
-**Background**: Dell, Nokia, and Lenovo were major players in the late 1990s dot-com boom but later faded as software and social media companies dominated. Now, the AI boom requires massive hardware infrastructure, giving these legacy firms a new growth avenue.
+**Background**: DuckDuckGo is a privacy-focused search engine that blocks third-party trackers. Its 'No AI' search page is an optional version that disables all AI features, including optional AI chatbot integration available on the main site. Google's latest search update heavily integrates AI-generated answers, prompting some users to seek alternatives.
 
-**Tags**: `#AI`, `#stocks`, `#tech companies`, `#market rally`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/">DuckDuckGo 's ' No AI ' Search Traffic Climbs as Users... - MacRumor...</a></li>
+<li><a href="https://chromewebstore.google.com/detail/duckduckgo-no-ai-search/faoilnlkccdjdkpljainiiimmijofmpd">DuckDuckGo No - AI Search - Chrome Web Store</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#search`, `#AI`, `#privacy`, `#DuckDuckGo`, `#Google`
 
 ---
 
 <a id="item-27"></a>
-## [Google's Gemini Spark AI Assistant: Useful but Questionable](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/) ⭐️ 6.0/10
+## [Huawei Chairman Thanks US Export Curbs for Boosting China's Chips](https://www.reddit.com/r/technology/comments/1ts0ekb/huawei_chairman_thanks_the_us_for_export/) ⭐️ 6.0/10
 
-A review of Google's Gemini Spark AI assistant highlights its utility for automating everyday tasks like inbox summaries and event planning, but questions why it was released as a separate product. This review signals Google's push into proactive AI assistants, but the standalone product strategy raises questions about integration with existing Google services and market differentiation. Gemini Spark automates tasks such as summarizing emails and planning local events, but the reviewer finds it unclear why Google made it a separate product rather than integrating it into Assistant or other services.
+Huawei Chairman Liang Hua stated that US export restrictions on chips have inadvertently accelerated China's semiconductor R&D and self-reliance. He thanked Washington for pushing Chinese firms to invest in domestic technology. This statement highlights the geopolitical impact of US export controls on global semiconductor supply chains, potentially reshaping the industry's balance of power. It may influence future US trade policy and China's long-term tech independence. The remarks were made at a public event, though specific dates or figures on R&D investment were not detailed. Huawei has been under US sanctions since 2019, limiting its access to advanced chips and EDA tools.
 
-rss · TechCrunch · May 30, 15:30
+reddit · r/technology · /u/LurkerFromTheVoid · May 30, 13:45
 
-**Background**: Gemini Spark is a 24/7 AI assistant from Google, designed to continuously help users with everyday tasks. It competes with other always-on assistants, but its standalone product status differs from Google's typical approach of embedding AI into existing apps.
+**Background**: Semiconductor manufacturing is a complex process involving photolithography, etching, and deposition to create integrated circuits. US export controls restrict sale of advanced chips and equipment to Chinese firms, aiming to curb China's technological rise. In response, China has increased domestic R&D efforts, seeking self-sufficiency in chip design and fabrication.
 
-**Tags**: `#AI assistant`, `#Google`, `#Gemini`, `#productivity`, `#product review`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Semiconductor_manufacturing_process">Semiconductor manufacturing process</a></li>
+<li><a href="https://en.wikipedia.org/wiki/350_nm_process">350 nm process - Wikipedia</a></li>
+<li><a href="https://www.voxelmatters.com/where-am-fits-in-the-world-of-semiconductor-manufacturing/">Where AM fits in the world of semiconductor manufacturing</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#Huawei`, `#export controls`, `#China`, `#tech policy`
 
 ---
 
 <a id="item-28"></a>
-## [Top VCs discuss groupthink in AI startup funding frenzy](https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/) ⭐️ 6.0/10
+## [New US Bill Aims to Prepare Workers for AI Job Displacement](https://www.reddit.com/r/technology/comments/1tsbssa/ai_is_coming_for_truck_drivers_a_new_bill_is/) ⭐️ 6.0/10
 
-Three prominent venture capitalists shared their views on the current AI frenzy, half-jokingly noting that a 19-year-old founder in San Francisco might already have a Series A offer, while a 22-year-old may only have a seed term sheet. This highlights extreme competition and groupthink in AI startup funding, where youth is prized and deals are made at increasingly early stages, potentially inflating valuations and leading to unsustainable hype. The VCs emphasized that the phenomenon is driven by a fear of missing out (FOMO) and herd behavior, with investors chasing the same small pool of young founders, often bypassing traditional due diligence.
+A proposed bill in the US Congress seeks to establish programs to retrain and support workers, particularly truck drivers, whose jobs are threatened by the rise of AI and automation. This bill represents a proactive policy response to the accelerating impact of AI on the workforce, potentially setting a precedent for how governments address automation-driven job displacement. The legislation reportedly draws inspiration from existing programs like Trade Adjustment Assistance, and includes provisions for wage insurance and skill upgrading, targeting industries like trucking where autonomous vehicles are advancing.
 
-rss · TechCrunch · May 30, 14:49
+reddit · r/technology · /u/Just-Grocery-2229 · May 30, 21:17
 
-**Background**: A seed term sheet is a legally non-binding document outlining the terms of a seed round investment, typically used for early-stage startups. Series A is the first significant venture capital round, often providing capital for product development and initial hiring. The quote illustrates how AI startups are seeing compressed funding timelines, with younger founders receiving larger rounds earlier than historic norms.
+**Background**: Autonomous trucking technology has been rapidly developing, with companies like Applied Intuition and Kodiak AI working on driverless semis. Studies suggest AI-driven automation could lead to significant job displacement in logistics. While some argue AI will create new jobs, workers in manual roles like truck driving are particularly vulnerable.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://eqvista.com/seed-funding/term-sheet-seed-round/">Term Sheet for Seed Round - Eqvista</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Series_A_funding">Series A funding</a></li>
+<li><a href="https://www.appliedintuition.com/autonomous-trucking">Autonomous trucking & driverless trucks | Applied Intuition</a></li>
+<li><a href="https://jacobin.com/2025/07/artificial-intelligence-worker-displacement-jobs">AI -Driven Worker Displacement Is a Serious Threat</a></li>
+<li><a href="https://levelup.gitconnected.com/ai-is-displacing-workers-faster-than-we-can-retrain-them-a5fc0ed08a28">AI Is Displacing Workers Faster Than We Can... | Level Up Coding</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#venture capital`, `#startup`, `#hype`, `#investment trends`
+**Tags**: `#AI impact`, `#automation`, `#labor policy`, `#self-driving trucks`
 
 ---
 
 <a id="item-29"></a>
-## [SpaceX wins $6.45B Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/) ⭐️ 6.0/10
+## [Claim: New Device Boosts Processor Speed 1000x Without Extra Heat](https://www.reddit.com/r/technology/comments/1ts70fc/new_device_could_make_processors_run_1000_times/) ⭐️ 6.0/10
 
-SpaceX has been awarded $6.45 billion in contracts from the U.S. Space Force, disclosed ahead of its forthcoming IPO. This deal underscores SpaceX's expanding role as a major government contractor, which could boost investor confidence in its IPO and solidify its position in the aerospace industry. SpaceX revealed in its IPO filing that government contracts accounted for one-fifth of its 2025 revenue, highlighting the importance of such deals to its business model.
+A Reddit post claims a new device can make processors run 1,000 times faster without generating additional waste heat, potentially reducing data center energy demands. However, no article or technical details are provided to verify the claim. If true, this breakthrough could dramatically reduce energy consumption in data centers, which currently consume about 1-2% of global electricity. It would also enable much faster computing without thermal constraints, impacting AI, scientific simulations, and many other fields. The claim promises a 1,000x speedup without additional waste heat, which contradicts current physical understanding of computing efficiency. No specific device name, architecture, or experimental results were disclosed in the post.
 
-rss · TechCrunch · May 29, 22:21
+reddit · r/technology · /u/Vailhem · May 30, 18:07
 
-**Background**: The U.S. Space Force is a branch of the military responsible for space operations. SpaceX, founded by Elon Musk, has been a key launch provider for both commercial and government missions, including NASA and the Space Force. This contract award reflects the growing reliance on private companies for national security launches.
+**Background**: Processor speed has historically been limited by heat dissipation, as faster switching generates more waste heat. This is why clock speeds stalled around 4-5 GHz in the mid-2000s, leading to multi-core architectures. A device that could run 1,000 times faster without extra heat would represent a revolutionary change in physics or materials, possibly based on new computing paradigms like reversible computing or topological states.
 
-**Tags**: `#SpaceX`, `#Space Force`, `#contracts`, `#IPO`, `#aerospace`
-
----
-
-<a id="item-30"></a>
-## [AI reliance in coding may cause future issues](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/) ⭐️ 6.0/10
-
-The article warns that coders increasingly refuse to work without AI assistance, potentially leading to faster but not necessarily better code. This growing reliance on AI coding tools could lead to a generation of developers who lack deep understanding of code, creating technical debt and security vulnerabilities. The article suggests that while AI boosts productivity, the quality of the output may suffer, and developers may lose critical debugging and problem-solving skills.
-
-rss · TechCrunch · May 29, 22:14
-
-**Background**: AI coding assistants like GitHub Copilot and ChatGPT have become popular among developers for generating code quickly. However, researchers have raised concerns about over-reliance, as such tools can produce plausible but incorrect or insecure code without proper human review.
-
-**Tags**: `#AI`, `#software engineering`, `#coding assistants`, `#code quality`
-
----
-
-<a id="item-31"></a>
-## [EuroOffice: Europe's open-source answer to Microsoft 365](https://www.reddit.com/r/technology/comments/1ts0j94/meet_eurooffice_europes_bold_alternative_to/) ⭐️ 6.0/10
-
-EuroOffice, a free and open-source office suite based on OnlyOffice, has been announced as a European alternative to Microsoft 365 that prioritizes data sovereignty. This matters because it offers European users and organizations a chance to regain control over their data, reducing reliance on US-based cloud services and complying with strict EU data protection laws. EuroOffice includes web-based, desktop, and mobile applications for documents, spreadsheets, presentations, and PDFs, with collaborative features similar to Microsoft 365.
-
-reddit · r/technology · /u/rkhunter_ · May 30, 13:50
-
-**Background**: Data sovereignty means that data is subject to the laws of the country where it is generated or stored. EuroOffice is built on OnlyOffice, a mature open-source office suite, and the project emphasizes hosting data within Europe to ensure compliance with GDPR and other local regulations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Euro-Office">Euro-Office</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Data_sovereignty">Data sovereignty</a></li>
-<li><a href="https://alternativeto.net/software/eurooffice/about/">EuroOffice : The name of a free and open-source | AlternativeTo</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#software`, `#privacy`, `#European tech`, `#office suite`
-
----
-
-<a id="item-32"></a>
-## [AI billionaires face growing public backlash](https://www.reddit.com/r/technology/comments/1trfy7w/ai_billionaires_brace_for_pitchforks/) ⭐️ 6.0/10
-
-A Reddit article reports that AI billionaires are bracing for potential social unrest as public backlash against them intensifies over concerns about inequality and job displacement. This backlash highlights the societal tension between rapid AI advancement and its uneven benefits, potentially influencing future regulation and public trust in the tech industry. The article does not specify particular billionaires or incidents but frames the backlash as a broad phenomenon tied to ethical and social concerns about AI.
-
-reddit · r/technology · /u/Just-Grocery-2229 · May 29, 21:17
-
-**Tags**: `#AI`, `#ethics`, `#regulation`, `#society`, `#billionaires`
-
----
-
-<a id="item-33"></a>
-## [EU fines Temu $232M for unsafe product listings](https://www.reddit.com/r/technology/comments/1try7m8/europe_fines_temu_232_million_over_illegal_and/) ⭐️ 6.0/10
-
-The European Commission fined Temu $232 million for allowing illegal and unsafe products to be listed on its platform, violating EU consumer protection and product safety regulations. This fine signals heightened EU enforcement against fast-growing e-commerce platforms that bypass local safety standards, potentially reshaping how Chinese discount marketplaces operate in Europe. The penalty is one of the largest EU fines against an e-commerce platform; Temu must also implement measures to remove unsafe listings and improve compliance.
-
-reddit · r/technology · /u/AdSpecialist6598 · May 30, 12:08
-
-**Background**: Temu is an online marketplace owned by PDD Holdings, offering heavily discounted goods shipped from China. It expanded rapidly to over 90 markets by April 2025. EU regulators have been scrutinizing such platforms for non-compliance with strict product safety laws.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Temu">Temu - Wikipedia</a></li>
-<li><a href="https://litcommerce.com/blog/what-is-temu/">What is Temu ? And Why Is It So Popular?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#regulation`, `#e-commerce`, `#Europe`, `#safety`, `#fine`
-
----
-
-<a id="item-34"></a>
-## [UK military explores autonomous lethal strikes without human approval](https://www.reddit.com/r/geopolitics/comments/1truaag/uk_military_looks_at_allowing_lethal_strikes/) ⭐️ 6.0/10
-
-The UK Ministry of Defence is reportedly reviewing policies to potentially allow autonomous weapon systems to carry out lethal strikes without direct human approval, moving toward a 'human-out-of-the-loop' model. This policy shift could set a precedent for how major militaries integrate artificial intelligence into combat decisions, raising urgent ethical questions about accountability and the risks of escalating autonomous warfare. The report indicates the UK is considering delegating targeting decisions to AI when human communication is degraded, contrasting with the current international push for 'meaningful human control' over lethal force.
-
-reddit · r/geopolitics · /u/Free-Minimum-5844 · May 30, 08:36
-
-**Background**: Lethal autonomous weapons (LAWS) use sensors and algorithms to independently identify and engage targets without human intervention. There is no universally agreed definition of LAWS, but most democracies advocate keeping a human 'in the loop' for decisions involving lethal force. The debate centers on three levels of human involvement: human-in-the-loop (system requires human approval), human-on-the-loop (human monitors and can override), and human-out-of-the-loop (system acts autonomously). The UK's consideration represents a potential move toward the latter, which has been widely criticized by ethicists and arms control advocates.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Lethal_autonomous_weapon">Lethal autonomous weapon - Wikipedia</a></li>
-<li><a href="https://lieber.westpoint.edu/reentering-the-loop/">Reentering the Loop - Lieber Institute West Point Images Human Judgment in the Age of Autonomous Warfare: Why Congress ... The Clash Over the Use of AI in Military Decision-Making Artificial Intelligence-Enabled Military Decision-Making ... Modernizing Military Decision-Making: Integrating AI into ... Human-On-the-Loop - Joint Air Power Competence Centre</a></li>
-<li><a href="https://aerospaceamerica.aiaa.org/institute/human-judgment-in-the-age-of-autonomous-warfare-why-congress-must-keep-human-oversight-in-military-decisions/">Human Judgment in the Age of Autonomous Warfare: Why Congress ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI ethics`, `#autonomous weapons`, `#military technology`, `#geopolitics`
-
----
-
-<a id="item-35"></a>
-## [EU Proposes Power to Override Private Contracts for Tech Sovereignty](https://www.reddit.com/r/geopolitics/comments/1try6co/brussels_just_gave_itself_the_power_to_override/) ⭐️ 6.0/10
-
-The European Union's proposed Tech Sovereignty Package would grant authorities the power to override private contracts during emergencies and impose stricter data storage rules on sensitive government data. This marks a significant shift in regulatory power, potentially disrupting cloud providers and semiconductor supply chains, and setting a precedent for state intervention in private agreements. The package includes the Cloud and AI Development Act (CAIDA) and Chips Act 2, focusing on boosting data center construction and semiconductor resilience. It has faced multiple delays and is expected in late May 2026.
-
-reddit · r/geopolitics · /u/aymannasri_tcg · May 30, 12:06
-
-**Background**: The EU Tech Sovereignty Package is a legislative initiative aimed at reducing dependency on non-European technology, especially in cloud computing and semiconductors. It follows earlier efforts like the GDPR and Digital Markets Act, and reflects growing geopolitical tensions. The package would allow EU authorities to intervene in critical sectors during emergencies, overriding existing contracts.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.greens-efa.eu/en/article/policypaper/european-tech-sovereignty">European Tech Sovereignty | Greens/EFA</a></li>
-<li><a href="https://digital-strategy.ec.europa.eu/en/policies/eu-tech-sovereignty">Strengthening Europe’s Tech Sovereignty</a></li>
-<li><a href="https://www.euractiv.com/news/eus-tech-sovereignty-package-delayed-for-third-time/">EU’s tech sovereignty package delayed for third time | Euractiv</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#EU regulation`, `#tech sovereignty`, `#semiconductors`, `#cloud computing`, `#geopolitics`
+**Tags**: `#hardware`, `#processors`, `#energy efficiency`, `#data centers`, `#breakthrough`
 
 ---
