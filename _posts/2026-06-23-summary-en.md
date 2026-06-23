@@ -5,788 +5,591 @@ date: 2026-06-23
 lang: en
 ---
 
-> From 154 items, 37 important content pieces were selected
+> From 150 items, 28 important content pieces were selected
 
 ---
 
-1. [Turning Compute Power into a Financial Asset](#item-1) ⭐️ 9.0/10
-2. [Steam Machine launches today with open platform and fair reservation](#item-2) ⭐️ 8.0/10
-3. [Moebius: 0.2B inpainting model matches 10B-level performance](#item-3) ⭐️ 8.0/10
-4. [Police Chiefs Abusing Flock LPRs to Stalk Women](#item-4) ⭐️ 8.0/10
-5. [Qualcomm Nears $4B Deal for AI Chip Startup Modular](#item-5) ⭐️ 8.0/10
-6. [Continuous Swarm of AI Agents Marks New Frontier](#item-6) ⭐️ 8.0/10
-7. [Unpatchable SecureROM flaw enables iPhone jailbreak for older models](#item-7) ⭐️ 8.0/10
-8. [Google DeepMind invests $75M in A24 for AI filmmaking tools](#item-8) ⭐️ 8.0/10
-9. [SpaceX and Reflection AI Agree on $150M/Month Compute Deal](#item-9) ⭐️ 8.0/10
-10. [Klue breach leaks data of multiple cybersecurity firms](#item-10) ⭐️ 8.0/10
-11. [Tesla Accused of Faking Data for Full Self-Driving Approval](#item-11) ⭐️ 8.0/10
-12. [Doorbell cam captures Tesla Autopilot crash that kills woman in home](#item-12) ⭐️ 8.0/10
-13. [Canada plans up to 10 new nuclear reactors by 2040](#item-13) ⭐️ 7.0/10
-14. [MirrorSpace: Young PhD Team Bets on Spatial Perception for Robotics](#item-14) ⭐️ 7.0/10
-15. [Chip-level current sensing startup raises millions for AI data center power efficiency](#item-15) ⭐️ 7.0/10
-16. [Samsung HBM4 Sales Surpass $1B in 4 Months](#item-16) ⭐️ 7.0/10
-17. [Optical fiber preform prices surge over 500% for some types, shortage may last until 2027](#item-17) ⭐️ 7.0/10
-18. [Microsoft and Chevron plan massive gas-powered data center project](#item-18) ⭐️ 7.0/10
-19. [AI chipmaker Groq confirms $650M raise, restructures after Nvidia deal](#item-19) ⭐️ 7.0/10
-20. [Tata Electronics Data Breach Confirmed](#item-20) ⭐️ 7.0/10
-21. [Police Arrested for Misusing Flock ALPR to Stalk](#item-21) ⭐️ 7.0/10
-22. [NYT publisher: Big Tech commits 'brazen theft' of IP](#item-22) ⭐️ 7.0/10
-23. [Windows 11 hibernation silently damaging SSDs](#item-23) ⭐️ 7.0/10
-24. [Unsloth GLM-5.2 Local Feasibility Debated](#item-24) ⭐️ 6.0/10
-25. [Oak: A Git Alternative Built for AI Agents](#item-25) ⭐️ 6.0/10
-26. [Panel at 36Kr WAVES Explores AI Entrepreneurship in Panyu](#item-26) ⭐️ 6.0/10
-27. [Aerospace Intelligent Assembly Startup Raises Tens of Millions Yuan](#item-27) ⭐️ 6.0/10
-28. [Germanium prices surge over 80% on AI fiber demand](#item-28) ⭐️ 6.0/10
-29. [Gas Stations Accused of Using AI to Inflate California Prices](#item-29) ⭐️ 6.0/10
-30. [Nvidia cuts data center water use but misses AI's bigger water footprint](#item-30) ⭐️ 6.0/10
-31. [Anthropic updates Claude's privacy policy for identity verification](#item-31) ⭐️ 6.0/10
-32. [Instagram TV app to expand with long-form, episodic, live content](#item-32) ⭐️ 6.0/10
-33. [Chinese universities cut language majors, expand AI programs](#item-33) ⭐️ 6.0/10
-34. [South Korea's AI chip boom risks inequality](#item-34) ⭐️ 6.0/10
-35. [China's rare earth export curbs test US-China truce](#item-35) ⭐️ 6.0/10
-36. [Singaporean man traumatized by AI deepfake family photos](#item-36) ⭐️ 6.0/10
-37. [House Democrats and GOP Reach Deal on Kids Online Safety Bill](#item-37) ⭐️ 6.0/10
+1. [NVIDIA Launches BioNeMo Agent Toolkit for AI-Driven Science](#item-1) ⭐️ 9.0/10
+2. [China's LineShine tops US El Capitan in TOP500 rankings](#item-2) ⭐️ 9.0/10
+3. [The Coming Loop: Speccing Before Looping](#item-3) ⭐️ 8.0/10
+4. [Baidu's Unlimited OCR: Long Document Parsing Without Memory Limits](#item-4) ⭐️ 8.0/10
+5. [California AB 2047 Targets 3D Printers with Gun-Blocking Mandate](#item-5) ⭐️ 8.0/10
+6. [Ceramic solid-state battery operates at 150°C, withstands 300°C shocks](#item-6) ⭐️ 8.0/10
+7. [Oracle Cuts 21,000 Jobs in AI-Driven Restructuring](#item-7) ⭐️ 8.0/10
+8. [AI-exposed jobs hit young workers hardest](#item-8) ⭐️ 8.0/10
+9. [Swift Package Index joins Apple](#item-9) ⭐️ 7.0/10
+10. [FUTO Releases New Swipe Typing Model](#item-10) ⭐️ 7.0/10
+11. [TikZ WYSIWYG Editor for LaTeX Figures](#item-11) ⭐️ 7.0/10
+12. [AI Boom Warning, Goldman Strong, SpaceX Bond Issue](#item-12) ⭐️ 7.0/10
+13. [Superhuman Acquires AI Detection Startup GPTZero](#item-13) ⭐️ 7.0/10
+14. [Klue breach due to unrevoked 2022 credential](#item-14) ⭐️ 7.0/10
+15. [Anthropic's Claude Tag brings AI to Slack](#item-15) ⭐️ 7.0/10
+16. [Germany-wide train halt due to GSM-R radio outage](#item-16) ⭐️ 6.0/10
+17. [Warning: Email verification may involve spamming addresses](#item-17) ⭐️ 6.0/10
+18. [Vitamin D's Worthlessness Is Mildly Exaggerated](#item-18) ⭐️ 6.0/10
+19. [Roundtable: Early AI VC and Entrepreneurship Beyond Consensus](#item-19) ⭐️ 6.0/10
+20. [Pinduoduo Buys First Office Building in Xiong'an](#item-20) ⭐️ 6.0/10
+21. [Chinese Startup YiMeiHua Raises Millions for High-Conductivity Magnesium Alloys](#item-21) ⭐️ 6.0/10
+22. [Roundtable: Consumer Hardware Revives with AI](#item-22) ⭐️ 6.0/10
+23. [AI Boom Drives Japan Shift from Value to Growth Stocks](#item-23) ⭐️ 6.0/10
+24. [MoEngage bets on millions of AI agents for marketing](#item-24) ⭐️ 6.0/10
+25. [Menlo Ventures raises $3B fund after Anthropic bet](#item-25) ⭐️ 6.0/10
+26. [2026 Major Tech Layoffs Citing AI](#item-26) ⭐️ 6.0/10
+27. [OpenAI launches AI initiative to fix open source bugs](#item-27) ⭐️ 6.0/10
+28. [US Anthropic ban promotes Chinese AI development](#item-28) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Turning Compute Power into a Financial Asset](https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset) ⭐️ 9.0/10
+## [NVIDIA Launches BioNeMo Agent Toolkit for AI-Driven Science](https://36kr.com/newsflashes/3866365717386499?f=rss) ⭐️ 9.0/10
 
-The Economist reports that entrepreneurs, exchange operators, and AI firms are creating tradable financial instruments backed by computing power, with major exchanges like ICE and CME planning to launch GPU compute futures contracts in 2026. This development could transform computing resources into a mainstream asset class, enabling price discovery, hedging, and speculation for AI infrastructure, and potentially reshaping how compute capacity is financed and traded globally. ICE and Ornn will launch GPU compute futures based on the Ornn Compute Price Index (OCPI), tracking spot prices for H100, H200, B200, B300 and other hardware types; CME Group is also partnering with Silicon Data to launch compute futures.
+On June 23, NVIDIA announced the release of the BioNeMo Agent Toolkit, an open collection of domain-specific tools and skills that enable AI agents to accelerate scientific discovery by reasoning, running experiments, and recommending next steps. This toolkit integrates over a decade of NVIDIA's life science research into a single platform, empowering AI agents to collaborate with scientists and potentially drastically reduce the time for drug discovery and other biological breakthroughs. The BioNeMo Agent Toolkit includes technologies such as NVIDIA Nemotron, NemoClaw, and OpenShell, and is backed by NVIDIA NIM microservices, Parabricks, NeMo, and accelerated computing, providing an open foundation for agentic life sciences.
 
-rss · The Economist · Jun 22, 18:09
+rss · 36氪 · Jun 23, 23:23
 
-**Background**: Conceptually, compute power has characteristics similar to commodities like oil or electricity—it is fungible, can be standardized, and has fluctuating demand. Early attempts, such as the Deutsche Börse Cloud Exchange in 2014, explored trading spare computing capacity, but lacked standardization and liquidity. Today, the AI boom has dramatically increased demand for GPUs, making compute a scarce and valuable resource, prompting financial markets to create derivative products for risk management and investment.
+**Background**: BioNeMo is NVIDIA's framework for biomolecular AI models, offering pre-trained models and tools for drug discovery. The new Agent Toolkit builds on this by adding agentic capabilities, allowing AI systems to autonomously conduct scientific workflows. NVIDIA NIM microservices provide optimized inference for these models, while Parabricks accelerates genomic analysis.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset">How to turn compute into a financial asset</a></li>
-<li><a href="https://ir.theice.com/press/news-details/2026/ICE-and-Ornn-to-Launch-GPU-Compute-Futures-Contracts/default.aspx">Intercontinental Exchange - ICE and Ornn to Launch GPU Compute Futures Contracts</a></li>
-<li><a href="https://www.cmegroup.com/media-room/press-releases/2026/5/12/cme_group_and_silicondatapartnertolaunchfirstcomputefutures.html">CME Group and Silicon Data Partner to Launch First Compute ...</a></li>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery">NVIDIA Announces BioNeMo Agent Toolkit — Tools for Agents to Accelerate Scientific Discovery | NVIDIA Newsroom</a></li>
+<li><a href="https://docs.nvidia.com/bionemo-framework/1.10/">What is BioNeMo? — NVIDIA BioNeMo Framework</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#compute`, `#financialization`, `#AI infrastructure`, `#GPU markets`, `#innovation`
+**Tags**: `#NVIDIA`, `#BioNeMo`, `#AI agents`, `#life sciences`, `#scientific discovery`
 
 ---
 
 <a id="item-2"></a>
-## [Steam Machine launches today with open platform and fair reservation](https://store.steampowered.com/news/group/45479024/view/685257114654870245) ⭐️ 8.0/10
+## [China's LineShine tops US El Capitan in TOP500 rankings](https://www.scmp.com/news/china/science/article/3358107/return-top-chinas-lineshine-beats-us-el-capitan-top500-supercomputer-rankings?utm_source=rss_feed) ⭐️ 9.0/10
 
-Valve launched the new Steam Machine on June 29, 2026, a compact gaming PC running SteamOS with over six times the performance of the Steam Deck, and introduced a randomized reservation system to ensure fair ordering. This launch marks Valve's return to living room gaming hardware and reinforces its open-platform philosophy, allowing users to install other operating systems and applications, which could accelerate Linux gaming adoption and offer greater consumer choice. The Steam Machine delivers over six times the horsepower of the Steam Deck, runs SteamOS based on Arch Linux with the Proton compatibility layer for Windows games, and features a randomized reservation system to combat bots and scalpers. It is co-developed with partners under the codename Newell Nucleus.
+China's LineShine supercomputer, built by the National Supercomputing Centre in Shenzhen, achieved 2.198 exaflops, surpassing the US El Capitan's 1.809 exaflops to reclaim the top spot in the TOP500 list for the first time since 2017. This marks a significant geopolitical shift in high-performance computing, demonstrating China's continued investment and capability in exascale computing, which is crucial for scientific research, national security, and technological leadership. LineShine achieved 2.198 exaflops, nearly 2.2 quintillion calculations per second, compared to El Capitan's 1.809 exaflops; both systems are exascale, meaning they can perform at least one exaflop (10^18 floating-point operations per second).
 
-hackernews · theschwa · Jun 22, 17:09 · [Discussion](https://news.ycombinator.com/item?id=48632884)
+rss · SCMP · Jun 23, 16:37
 
-**Background**: Steam Machines originally launched in 2015 but were discontinued due to poor sales and fragmentation. In 2025, Valve announced a new unified Steam Machine. SteamOS is Valve's Linux-based gaming OS, first released in 2013, and has evolved significantly with the success of the Steam Deck. Proton, a compatibility layer based on Wine, enables many Windows games to run on Linux.
+**Background**: Supercomputers are measured in FLOPS (floating-point operations per second). An exaflop equals one quintillion (10^18) FLOPS. Exascale computing is critical for complex simulations in weather forecasting, drug discovery, and nuclear physics. The TOP500 list ranks the world's fastest supercomputers twice a year.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Steam_Machine">Steam Machine</a></li>
-<li><a href="https://en.wikipedia.org/wiki/SteamOS">SteamOS</a></li>
-<li><a href="https://store.steampowered.com/sale/steammachine">Steam Machine</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Exascale_computing">Exascale computing - Wikipedia</a></li>
+<li><a href="https://blogs.nvidia.com/blog/what-is-an-exaflop/">What Is an Exaflop? | NVIDIA Blogs</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments are largely positive, praising the fair reservation system that reduces bot advantages and the open hardware philosophy that lets users install any OS. Some users express intent to buy the device to support Linux gaming, while others appreciate the authentic gameplay demonstration video.
-
-**Tags**: `#Steam Machine`, `#Valve`, `#gaming hardware`, `#PC gaming`, `#SteamOS`
+**Tags**: `#supercomputing`, `#HPC`, `#China`, `#TOP500`, `#exascale`
 
 ---
 
 <a id="item-3"></a>
-## [Moebius: 0.2B inpainting model matches 10B-level performance](https://hustvl.github.io/Moebius/) ⭐️ 8.0/10
+## [The Coming Loop: Speccing Before Looping](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) ⭐️ 8.0/10
 
-Moebius is a compact 0.2B parameter image inpainting model that claims to deliver performance comparable to 10B parameter models, and has been demonstrated running entirely in the browser via ONNX conversion. This breakthrough demonstrates significant model compression, potentially democratizing high-quality inpainting by enabling powerful AI to run locally without expensive hardware. The model is limited to 512x512 output, performs well on natural images but struggles with novel objects and complex scenes, and the inpainting regions are noticeably smoother than surroundings.
+Armin Ronacher's blog post 'The Coming Loop' argues that iterative agent loops with LLMs are only effective when preceded by clear, human-written specifications, highlighting that the bottleneck in AI-assisted coding is the upfront design clarity, not the loop itself. As LLM-based coding agents become mainstream, this insight shifts focus from optimizing the loop to investing in specification-driven development, potentially changing how software teams adopt AI and allocate human effort. The article notes that achieving clarity often requires 5-6 failed iterations that no agent can accelerate, and that spec-driven development (SDLD) can yield high-quality results when the spec is precise.
 
-hackernews · DSemba · Jun 22, 13:53 · [Discussion](https://news.ycombinator.com/item?id=48630171)
+hackernews · ingve · Jun 23, 11:06 · [Discussion](https://news.ycombinator.com/item?id=48643180)
 
-**Background**: Image inpainting is a technique to fill missing or damaged parts of an image using AI, often by analyzing surrounding textures and context. ONNX (Open Neural Network Exchange) is an open format that enables interoperability of models across different frameworks and runtimes. Moebius leverages ONNX to achieve efficient inference directly in the browser.
+**Background**: Agent loops are the iterative cycles where an AI agent observes, reasons, acts, and repeats. Spec-driven development with LLMs involves writing detailed specifications as contracts before code generation, ensuring alignment with human intent. This post addresses the practical challenges developers face when using tools like Claude Code in agent mode.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Image_inpainting">Image inpainting</a></li>
-<li><a href="https://en.wikipedia.org/wiki/ONNX">ONNX</a></li>
+<li><a href="https://code.claude.com/docs/en/agent-sdk/agent-loop">How the agent loop works - Claude Code Docs</a></li>
+<li><a href="https://blog.davidlapsley.io/engineering/process/best+practices/ai-assisted+development/2026/01/11/spec-driven-development-with-llms.html">Spec-Driven LLM Development (SDLD): Precise Engineering ...</a></li>
+<li><a href="https://blogs.oracle.com/developers/what-is-the-ai-agent-loop-the-core-architecture-behind-autonomous-ai-systems">What Is the AI Agent Loop? The Core Architecture Behind Autonomous AI ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is impressed by Moebius's compact design but skeptical of its 10B-level claim, noting that inpainted regions are visibly smoother and novel objects are poorly handled. simonw successfully created a browser demo, boosting accessibility, while others expressed interest in domain-specific applications like manga translation.
+**Discussion**: Commenters largely agree with the premise: mccoyb stresses that no agent can replace the human thinking needed to understand the problem first; stillpointlab reports being bottlenecked on specs, not on the loop itself. Miki123211 adds that LLMs excel at goal-driven tasks but lack aesthetic taste, reinforcing the need for human specification.
 
-**Tags**: `#image inpainting`, `#efficient AI`, `#model compression`, `#browser inference`, `#ONNX`
+**Tags**: `#LLMs`, `#software development`, `#agent loops`, `#specifications`, `#AI-assisted coding`
 
 ---
 
 <a id="item-4"></a>
-## [Police Chiefs Abusing Flock LPRs to Stalk Women](https://ipvm.com/reports/police-chiefs-track) ⭐️ 8.0/10
+## [Baidu's Unlimited OCR: Long Document Parsing Without Memory Limits](https://github.com/baidu/Unlimited-OCR) ⭐️ 8.0/10
 
-An IPVM report exposes how police chiefs have misused Flock Safety's license plate readers to track women they know, highlighting the lack of warrant requirements as a key enabler of abuse. This case underscores the urgent need for judicial oversight, such as warrants, to prevent surveillance technology from being used for personal stalking and harassment. Flock's LPRs capture vehicle details and provide searchable data and real-time alerts without requiring a warrant, and the most common form of abuse involves officers tracking people they know, according to the report.
+Baidu released Unlimited OCR, a method that parses long documents by preventing the KV cache from growing linearly, thus avoiding VRAM exhaustion. This enables efficient OCR on very long documents without needing to split pages, addressing a critical practical bottleneck in document processing workflows. The approach employs an architectural hack that caps memory usage, and the project acknowledges prior works like DeepSeek-OCR and PaddleOCR.
 
-hackernews · jhonovich · Jun 22, 19:13 · [Discussion](https://news.ycombinator.com/item?id=48634694)
+hackernews · ingve · Jun 23, 11:35 · [Discussion](https://news.ycombinator.com/item?id=48643426)
 
-**Background**: Flock Safety sells automatic license plate readers (LPRs) that capture and store vehicle location data, often used by law enforcement for crime solving. Critics argue that warrantless access to such data poses significant privacy risks, and some cities have canceled contracts over concerns about immigration surveillance and abuse.
+**Background**: In transformer-based models, the key-value (KV) cache stores past token representations to avoid recomputation, but its memory footprint scales linearly with context length. This becomes a bottleneck for long documents, forcing developers to split inputs or use complex chunking logic. Unlimited OCR introduces a technique to keep the KV cache growth under control, enabling one-shot parsing of lengthy documents.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.flocksafety.com/products/license-plate-readers">Flock Safety LPR Cameras: Automated License Plate Reader</a></li>
-<li><a href="https://www.npr.org/2026/02/17/nx-s1-5612825/flock-contracts-canceled-immigration-survillance-concerns">Why some cities are canceling Flock license plate reader ...</a></li>
+<li><a href="https://huggingface.co/baidu/Unlimited-OCR">baidu/Unlimited-OCR · Hugging Face</a></li>
+<li><a href="https://arxiv.org/pdf/2603.20397">KV Cache Optimization Strategies for Scalable and Efficient LLM Inference</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters noted the tension between calling abuse rare while admitting it's the most common form of misconduct, and drew parallels to broader data privacy concerns with other government agencies.
+**Discussion**: The community reacted with enthusiasm, noting a clever architectural hack to limit memory hoarding. Comments compare it favorably to Mistral's offering, appreciate the acknowledgment of prior work, and point out a Fate/stay night reference in the name.
 
-**Tags**: `#privacy`, `#surveillance`, `#law enforcement`, `#warrants`, `#data ethics`
+**Tags**: `#OCR`, `#AI`, `#document parsing`, `#memory optimization`
 
 ---
 
 <a id="item-5"></a>
-## [Qualcomm Nears $4B Deal for AI Chip Startup Modular](https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular) ⭐️ 8.0/10
+## [California AB 2047 Targets 3D Printers with Gun-Blocking Mandate](https://www.the3dprintingnerd.com/ab2047) ⭐️ 8.0/10
 
-Qualcomm Inc. is in advanced talks to acquire Modular Inc., an AI chip startup, for about $4 billion. This acquisition would mark Qualcomm's major push into the AI chip market, diversifying beyond mobile and automotive chips and strengthening its position in data center AI. The deal values Modular at roughly $4 billion, though discussions are still ongoing and may not result in an agreement.
+California Assembly Bill 2047, known as the California Firearm Printing Prevention Act, would require all 3D printers sold in the state to include mandatory firearm blocking technology that scans design files before printing. The bill also criminalizes attempts to bypass or disable this technology. If enacted, AB 2047 would effectively restrict access to 3D printing for students, educators, and businesses by locking printers into approved software and design files. This could stifle innovation, limit educational use, and set a precedent for similar regulations in other states. The bill defines 'firearm blocking technology' as hardware or firmware capable of ensuring a 3D printer will not print unless the file passes a firearm detection algorithm. It also requires evaluation by the California Department of Justice, raising concerns about state-mandated content filtering.
 
-rss · Bloomberg Markets · Jun 22, 21:03
+hackernews · Buildstarted · Jun 23, 22:12 · [Discussion](https://news.ycombinator.com/item?id=48652184)
 
-**Background**: Qualcomm is a leading wireless technology and semiconductor company known for its Snapdragon processors used in mobile devices. Modular Inc. is a startup focused on developing advanced AI chips for edge computing and data centers. The acquisition would align with Qualcomm's strategy to expand its AI capabilities and compete with rivals like NVIDIA and Intel.
+**Background**: 3D printing is used across industries including aerospace, medicine, and education for prototyping and production. Recent concerns over 3D-printed firearms have prompted several states, including New York and Colorado, to propose similar restrictions. Critics argue that the technology cannot reliably distinguish between a gun part and a harmless object, and that motivated users can easily bypass software controls.
 
-**Tags**: `#AI`, `#chips`, `#acquisitions`, `#Qualcomm`, `#Modular`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing">The Dangers of California’s Legislation to Censor 3D Printing | Electronic Frontier Foundation</a></li>
+<li><a href="https://www.tomshardware.com/3d-printing/california-assembly-passes-3d-printer-bill-that-would-criminalize-bypassing-mandated-gun-blocking-software">California Assembly passes 3D printer bill that would criminalize bypassing mandated gun-blocking software | Tom's Hardware</a></li>
+<li><a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2047">Bill Text - AB-2047 Firearms: 3-dimensional printing blocking technology.</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters expressed strong opposition, with many calling the bill unenforceable and politically motivated. Some suggested parallels to previous failed efforts like counterfeit detection on printers, while others pointed to potential lobbying by anti-gun groups. The overall sentiment was that the bill would not stop determined criminals but would harm legitimate users.
+
+**Tags**: `#3D printing`, `#legislation`, `#technology policy`, `#privacy`, `#regulation`
 
 ---
 
 <a id="item-6"></a>
-## [Continuous Swarm of AI Agents Marks New Frontier](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/) ⭐️ 8.0/10
+## [Ceramic solid-state battery operates at 150°C, withstands 300°C shocks](https://www.scmp.com/news/china/science/article/3356904/chinese-scientists-create-battery-works-comfortably-way-above-waters-boiling-point?utm_source=rss_feed) ⭐️ 8.0/10
 
-A new paradigm called 'loopy' proposes that agentic AI operates as an endless swarm of agents working continuously in the background, rather than as individual isolated agents. This shift could enable persistent, collaborative autonomous systems that operate without human intervention, potentially transforming industries that rely on background processing and automation. The article does not provide technical specifics, but the concept builds on existing agentic AI that can use tools and act autonomously within human-defined constraints, now extended to a continuous swarm model.
+Chinese scientists at Tsinghua University have developed a tiny, ceramic-based solid-state lithium-ion battery that operates stably at up to 150°C and survives brief thermal shocks of up to 300°C without performance loss. This breakthrough addresses critical safety and performance needs for applications in extreme environments, such as aerospace, military, and industrial sensors, where conventional flammable liquid-electrolyte batteries fail. The solid-state battery uses a ceramic electrolyte instead of flammable liquid, eliminating leakage and fire risks, and its performance improves with temperature due to increased ionic conductivity.
 
-rss · TechCrunch · Jun 22, 20:53
+rss · SCMP · Jun 23, 06:00
 
-**Background**: Agentic AI refers to intelligent agents that can autonomously pursue goals, use tools, and take actions within human-defined objectives. Swarm intelligence is a collective behavior where decentralized, self-organized agents interact locally to produce intelligent global behavior, inspired by natural systems like ant colonies. The 'loopy' concept merges these ideas into a continuous, background swarm of agents.
+**Background**: Traditional lithium-ion batteries use a liquid organic electrolyte that can catch fire or explode if damaged or overheated. Solid-state batteries replace the liquid with a solid material, typically a ceramic or glass, which is non-flammable and can tolerate higher temperatures. However, most solid-state batteries still face challenges in manufacturing and ionic conductivity at room temperature. The new ceramic battery from Tsinghua University demonstrates exceptional thermal tolerance, making it suitable for extreme conditions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Agentic_AI">Agentic AI</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Swarm_intelligence_in_popular_culture">Swarm intelligence in popular culture</a></li>
+<li><a href="https://bulletin.ceramics.org/article/solid-state-batteries-unlocking-lithiums-potential-with-ceramic-solid-electrolytes/">Solid-state batteries: Unlocking lithium’s potential with ...</a></li>
+<li><a href="https://techxplore.com/news/2025-11-ceramic-material-pair-potential-safer.html">Ceramic material pair could unlock potential of safer, longer ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#agentic AI`, `#AI agents`, `#swarm intelligence`, `#autonomous systems`
+**Tags**: `#battery technology`, `#solid-state battery`, `#extreme environment`, `#safety`, `#lithium-ion`
 
 ---
 
 <a id="item-7"></a>
-## [Unpatchable SecureROM flaw enables iPhone jailbreak for older models](https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/) ⭐️ 8.0/10
+## [Oracle Cuts 21,000 Jobs in AI-Driven Restructuring](https://www.reddit.com/r/Economics/comments/1ude7bh/oracle_sheds_21000_roles_over_the_past_year_amid/) ⭐️ 8.0/10
 
-Security firm Paradigm Shift has disclosed a new unpatchable hardware vulnerability in Apple's A12 and A13 chips, specifically in the SecureROM, which allows code execution via the USB boot process, enabling jailbreaks on older iPhones. This vulnerability is significant because it is unpatchable at the hardware level, meaning affected devices remain permanently exploitable; it could lead to widespread jailbreaking and potential security risks for users of older iPhone models such as the iPhone XS and iPhone 11 series. The flaw resides in the SecureROM, a boot ROM that cannot be updated, and affects devices with A12 and A13 chips including iPhone XS, XS Max, XR, and iPhone 11 series; the exploit achieves code execution by manipulating the USB boot process.
+Oracle has reduced its workforce by 21,000 roles over the past year, part of a wave of layoffs at major tech companies driven by increasing automation and AI adoption. This significant job cut reflects a broader trend of AI-related workforce restructuring in the tech industry, potentially displacing thousands of workers and reshaping employment dynamics. The layoffs occurred over the past year, and Oracle is one of several tech giants, including Google and Microsoft, that have reduced headcount due to AI automation and efficiency gains.
 
-rss · TechCrunch · Jun 22, 18:50
+reddit · r/economics · /u/TACO_Orange_3098 · Jun 23, 11:12
 
-**Background**: SecureROM is a read-only memory chip that contains the first code executed when an iPhone boots; hardware vulnerabilities in SecureROM are extremely difficult to fix because they cannot be patched via software updates. This particular flaw is distinct from previous side-channel attacks discovered on Apple's M-series chips.
+**Background**: The tech industry has seen a wave of layoffs since late 2022, with many companies citing a shift towards AI and automation as a reason for workforce reductions. Oracle, a major enterprise software and cloud company, is restructuring to compete in the AI era.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://appleinsider.com/articles/26/06/18/a12-a13-apple-devices-face-an-unpatchable-securerom-vulnerability">A12 & A13 Apple devices face an unpatchable SecureROM vulnerability</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#security`, `#Apple`, `#jailbreak`, `#hardware vulnerability`, `#iPhone`
+**Tags**: `#layoffs`, `#Oracle`, `#AI automation`, `#tech industry`, `#workforce reduction`
 
 ---
 
 <a id="item-8"></a>
-## [Google DeepMind invests $75M in A24 for AI filmmaking tools](https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/) ⭐️ 8.0/10
+## [AI-exposed jobs hit young workers hardest](https://www.reddit.com/r/Economics/comments/1udnnip/in_aiexposed_jobs_only_the_youngest_workers_are/) ⭐️ 8.0/10
 
-Google DeepMind has announced a $75 million partnership with A24 to develop AI-powered tools for filmmaking, aiming to integrate advanced AI into creative production processes. This marks a significant investment by a leading AI lab into the entertainment industry, potentially accelerating the adoption of AI in filmmaking and influencing how movies are made, with implications for both artists and studios. The partnership focuses on building custom AI tools for A24's filmmakers, though specific technical details or deliverables have not been disclosed; the $75M investment covers multiple years and includes research and development.
+A study found that employment for 22-to-25-year-olds in AI-exposed jobs has declined by about 12% since the launch of ChatGPT, while employment for age groups 31 and older has grown. This finding provides early empirical evidence that AI is disproportionately affecting younger workers, potentially exacerbating generational inequality in the labor market and highlighting the need for targeted retraining and education policies. The study compares employment trends before and after ChatGPT's launch, using an AI exposure index to classify jobs. The 12% drop is specific to the 22-to-25 age group in the most AI-exposed occupations, while older groups saw gains.
 
-rss · TechCrunch · Jun 22, 18:49
+reddit · r/economics · /u/PopCultureNerd · Jun 23, 17:29
 
-**Background**: Google DeepMind is a leading artificial intelligence research lab known for breakthroughs like AlphaGo. A24 is a prestigious independent film studio known for critically acclaimed movies such as 'Everything Everywhere All at Once'. AI is increasingly being used in creative fields, but this deal signals a significant push into professional filmmaking.
+**Background**: AI-exposed jobs are those containing many tasks that can be performed or augmented by AI, as measured by indices like the AI Occupational Exposure index. ChatGPT's rapid adoption since late 2022 has accelerated AI integration into workplaces, raising concerns about job displacement. Younger workers often hold entry-level positions in fields like customer service, data entry, and content creation, which are highly exposed to AI automation.
 
-**Tags**: `#AI`, `#DeepMind`, `#Hollywood`, `#filmmaking`, `#A24`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ethics.nd.edu/news-and-events/news/blog-post-which-jobs-are-most-exposed-to-ai-and-why-exposure-is-not-destiny/">Blog Post: Which Jobs Are Most Exposed to AI and Why Exposure Is Not Destiny | News | News & Events | Ethics and the Common Good | University of Notre Dame</a></li>
+<li><a href="https://www.pwc.com/gx/en/news-room/press-releases/2025/ai-linked-to-a-fourfold-increase-in-productivity-growth.html">AI linked to a fourfold increase in productivity growth and 56% wage premium, while jobs grow even in the most easily automated roles: PwC Global AI Jobs Barometer</a></li>
+<li><a href="https://blog.aiwork.app/ai-exposure-index/">AI Exposure Index 2026: Which Jobs Are Most Exposed to AI and Why - AI Work</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI impact`, `#labor market`, `#youth employment`, `#economics`
 
 ---
 
 <a id="item-9"></a>
-## [SpaceX and Reflection AI Agree on $150M/Month Compute Deal](https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/) ⭐️ 8.0/10
+## [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple) ⭐️ 7.0/10
 
-SpaceX will supply Reflection AI with Nvidia GB300 chips and supporting hardware in a deal worth $150 million per month from July 2026 through 2029. This deal underscores the massive demand for AI compute resources and signals a strategic partnership between SpaceX and an open-source AI lab, potentially accelerating AI research and development. The compute will be hosted at SpaceX's Colossus 2 data center near Memphis, Tennessee, and the deal includes Nvidia's latest GB300 AI chips and supporting hardware.
+Apple has acquired the Swift Package Index, a community-run search engine and metadata index for Swift packages, with a pledge to keep the project open source. This acquisition centralizes the Swift package ecosystem under Apple, potentially improving integration with first-party tools, but raises concerns about community independence and curation control. The Swift Package Index will remain open source and continue to index packages, but will now be operated under Apple's direction, as announced on the SPI blog on June 23, 2026.
 
-rss · TechCrunch · Jun 22, 16:51
+hackernews · JDevlieghere · Jun 23, 18:00 · [Discussion](https://news.ycombinator.com/item?id=48648779)
 
-**Background**: Colossus is a data center originally developed by xAI for training its Grok chatbot. It expanded to Colossus 2 in Southaven, Mississippi. The Nvidia GB300 NVL72 is a liquid-cooled rack-scale system with 72 Blackwell Ultra GPUs and 36 Grace CPUs, designed for AI workloads.
+**Background**: The Swift Package Index is a community-maintained website that helps Swift developers discover and evaluate packages by providing searchable metadata and documentation. It complements Apple's official Swift Package Manager, which handles dependency resolution but lacks a centralized discovery platform. This acquisition merges the community-run index into Apple's official ecosystem, a move that has both supporters and critics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/gb300-nvl72/">NVIDIA GB300 NVL72</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Colossus_(data_center)">Colossus (data center)</a></li>
+<li><a href="https://9to5mac.com/2026/06/23/swift-package-index-joins-apple-pledges-to-remain-open-source/">Swift Package Index joins Apple, pledges to remain open source</a></li>
+<li><a href="https://swiftpackageindex.com/">Swift Package Index</a></li>
+<li><a href="https://www.swift.org/packages/">Packages | Swift.org</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI hardware`, `#Nvidia`, `#SpaceX`, `#cloud computing`, `#open source AI`
+**Discussion**: Community comments reflect mixed reactions: some celebrate Dave Verwer's success, while others express concern about Apple controlling package distribution and stifling independence. A few see this as an opportunity to build competitive alternatives.
+
+**Tags**: `#Swift`, `#Package Management`, `#Apple`, `#Open Source`, `#Acquisition`
 
 ---
 
 <a id="item-10"></a>
-## [Klue breach leaks data of multiple cybersecurity firms](https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/) ⭐️ 8.0/10
+## [FUTO Releases New Swipe Typing Model](https://swipe.futo.tech/) ⭐️ 7.0/10
 
-A breach at market research firm Klue has led to data theft affecting multiple cybersecurity companies including Huntress, HackerOne, Jamf, Recorded Future, and Tanium. This incident highlights systemic risks in supply chain security, as a single breach at an ancillary firm compromised data of multiple high-profile security vendors, eroding trust in the cybersecurity ecosystem. The stolen data originated from Klue, a market research firm, not directly from the cybersecurity companies themselves. The specific type of data stolen has not been disclosed, but it may include proprietary or sensitive business information.
+FUTO has released a new swipe typing system called FUTO Swipe, achieving leading accuracy rivaling Gboard, now available in the FUTO Keyboard. This update significantly improves swipe typing for a privacy-focused, open-source keyboard. This makes FUTO Keyboard a compelling alternative to proprietary keyboards like Gboard for users who swipe type and prioritize privacy. It demonstrates that high-accuracy swipe typing can be achieved without sending data to the cloud, potentially driving adoption of privacy-respecting input methods. The new model was trained on a dataset collected from users starting in late 2024. The swipe library uses GPLv3, but the Android keyboard app uses the separate FUTO License. Some users report minor issues like random capitalization and lack of context-aware suggestions.
 
-rss · TechCrunch · Jun 22, 13:36
+hackernews · futohq · Jun 23, 17:50 · [Discussion](https://news.ycombinator.com/item?id=48648619)
 
-**Background**: HackerOne is a cybersecurity platform that connects organizations with ethical hackers to find vulnerabilities. Jamf specializes in managing Apple devices in enterprise environments. Tanium offers real-time endpoint visibility and control. These companies rely on third-party market research from firms like Klue for competitive intelligence, making them vulnerable to supply chain attacks.
+**Background**: Swipe typing allows users to slide their finger across letters to form words, a feature popular in keyboards like Gboard. Many such keyboards send typing data to servers for improvement, raising privacy concerns. FUTO Keyboard is an open-source fork of LatinIME that processes all input offline, aiming to provide a modern typing experience without compromising privacy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/HackerOne">HackerOne - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Jamf">Jamf - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tanium">Tanium - Wikipedia</a></li>
+<li><a href="https://keyboard.futo.org/">FUTO Keyboard</a></li>
+<li><a href="https://github.com/futo-org/android-keyboard/releases">Releases · futo-org/android-keyboard</a></li>
+<li><a href="https://github.com/futo-org/android-keyboard">GitHub - futo-org/android-keyboard: Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#data breach`, `#supply chain attack`, `#security incident`
+**Discussion**: Community response is largely positive, with users saying the new model feels as good as Gboard. Some note minor issues like incorrectly suggesting "whats" instead of "what's" and occasional random capitalization, but many have switched to FUTO full-time. There is also discussion about the licensing differences between the swipe library (GPLv3) and the keyboard app (FUTO License).
+
+**Tags**: `#swipe typing`, `#FUTO`, `#privacy`, `#keyboard`, `#open source`
 
 ---
 
 <a id="item-11"></a>
-## [Tesla Accused of Faking Data for Full Self-Driving Approval](https://www.reddit.com/r/technology/comments/1uchuqk/tesla_allegedly_showed_cooked_data_to_get_full/) ⭐️ 8.0/10
+## [TikZ WYSIWYG Editor for LaTeX Figures](https://tikz.dev/editor/) ⭐️ 7.0/10
 
-An allegation has emerged claiming Tesla presented manipulated data to regulatory authorities to secure approval for its Full Self-Driving (FSD) system. If true, this allegation undermines trust in Tesla's autonomous driving claims and raises serious ethical and safety concerns about how self-driving systems are validated. The accusation specifically involves 'cooked data', meaning data that was manipulated or cherry-picked to show the FSD system in a favorable light, potentially misleading regulators.
+An open-source WYSIWYG TikZ editor launched on Show HN, allowing users to edit TikZ figures by dragging and resizing elements while the source code updates in real time. This tool directly addresses the tedious trial-and-error workflow of manually adjusting coordinates in TikZ, potentially saving significant time for academics and LaTeX users who frequently create figures. The editor works by parsing TikZ code and tracking the exact source location of each object, enabling it to modify only coordinate numbers without affecting indentation or other code structure. It was built almost entirely using the Codex AI coding agent, consuming about 700M tokens over several months.
 
-reddit · r/technology · /u/Wagamaga · Jun 22, 11:21
+hackernews · DominikPeters · Jun 23, 14:24 · [Discussion](https://news.ycombinator.com/item?id=48645437)
 
-**Background**: Tesla's Full Self-Driving (FSD) is a driver-assistance system that requires constant driver supervision despite its name. To be marketed as fully autonomous, it must meet strict regulatory standards. Accusations of data manipulation cast doubt on the integrity of the testing process.
+**Background**: TikZ is a powerful LaTeX package for creating vector graphics using declarative commands, widely used in academic papers and technical documentation. Traditionally, users write code and recompile to see results, making iterative adjustments cumbersome. This editor provides a live visual interface while preserving the underlying code, similar to what WYSIWYG HTML editors do for web development.
 
-**Tags**: `#Tesla`, `#self-driving`, `#autonomous vehicles`, `#regulation`, `#ethics`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.overleaf.com/learn/latex/TikZ_package">TikZ package - Overleaf, Online LaTeX Editor</a></li>
+<li><a href="https://tikz.dev/">PGF/TikZ Manual - Complete Online Documentation</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community response is largely positive, with many users expressing that such a tool was long overdue. However, some commenters noted that the generated TikZ code uses absolute coordinates by default, which is not idiomatic TikZ and could be improved. The creator mentioned the project cost about $15k in API tokens but was done through an AI agent at a fraction of that cost.
+
+**Tags**: `#TikZ`, `#LaTeX`, `#WYSIWYG`, `#open-source`, `#academic tools`
 
 ---
 
 <a id="item-12"></a>
-## [Doorbell cam captures Tesla Autopilot crash that kills woman in home](https://www.reddit.com/r/technology/comments/1ucrxe1/doorbell_cam_filmed_tesla_autopilot_crash_that/) ⭐️ 8.0/10
+## [AI Boom Warning, Goldman Strong, SpaceX Bond Issue](https://www.bloomberg.com/jp/news/newsletters/2026-06-23/TH3SBEKGIFPZ00) ⭐️ 7.0/10
 
-A doorbell camera recorded a Tesla vehicle operating on Autopilot crashing into a home, resulting in the death of a woman inside her house. This incident underscores the ongoing safety risks of Tesla's Autopilot system, which operates at Level 2 and requires constant driver supervision, yet has been involved in multiple fatal crashes. The crash was captured by a Ring doorbell camera, providing clear evidence of the vehicle's trajectory and impact. The incident raises questions about Tesla's driver monitoring and the adequacy of current regulations for advanced driver-assistance systems.
+Bloomberg's morning news roundup highlights five key stories: a warning about AI boom overheating, US management issues, strong Goldman Sachs earnings, a large SpaceX bond issuance, and a warning about market concentration risk. These stories signal potential shifts in the AI and space industries, financial sector health, and broader market dynamics that could affect investors and companies worldwide. The AI boom overheating warning suggests regulatory or valuation concerns; Goldman Sachs reported strong earnings; SpaceX is issuing a large bond; market concentration risk highlights over-reliance on a few big tech stocks.
 
-reddit · r/technology · /u/pyeri · Jun 22, 18:00
+rss · Bloomberg Markets · Jun 23, 21:14
 
-**Background**: Tesla's Autopilot is an advanced driver-assistance system (ADAS) classified as Level 2 automation, meaning the driver must remain engaged and ready to take control at all times. Despite its name, Autopilot does not make the car fully autonomous. Tesla has faced criticism for marketing the system as 'Full Self-Driving' and for multiple crashes involving Autopilot, leading to regulatory scrutiny from NHTSA.
+**Background**: AI investments have surged recently, raising fears of a bubble. Goldman Sachs is a major investment bank, and strong earnings reflect robust trading and advisory activity. SpaceX, Elon Musk's space company, often raises capital via bonds for projects like Starlink. Market concentration refers to the dominance of a few mega-cap stocks driving index returns.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Tesla_Autopilot">Tesla Autopilot</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Tesla`, `#Autopilot`, `#autonomous driving`, `#safety`, `#crash`
+**Tags**: `#AI`, `#Business`, `#Markets`, `#SpaceX`, `#Goldman Sachs`
 
 ---
 
 <a id="item-13"></a>
-## [Canada plans up to 10 new nuclear reactors by 2040](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509) ⭐️ 7.0/10
+## [Superhuman Acquires AI Detection Startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/) ⭐️ 7.0/10
 
-Canada has announced a federal nuclear strategy to build up to 10 new nuclear reactors by 2040, leveraging its abundant uranium reserves and homegrown CANDU reactor technology. This plan could significantly boost Canada's clean baseload power generation and position the country as a global leader in nuclear innovation, especially with the inclusion of small modular reactors (SMRs). The strategy includes both traditional large-scale CANDU reactors and small modular reactors (SMRs), with the Darlington SMR project already under construction. Canada aims to meet growing electricity demand from industrial sectors and support decarbonization.
+Superhuman, the company behind Grammarly, has acquired GPTZero, an AI detection startup known for identifying AI-generated text. The deal was announced on June 23, 2026. This acquisition signals consolidation in the AI detection space, as a major productivity software company integrates AI detection capabilities directly into its offerings. It may impact how AI-generated content is managed across Grammarly's user base, potentially affecting educators and writers who rely on such tools. GPTZero has faced criticism for false positive rates in detecting AI-written text, though its accuracy has been reported as high for AI-generated essays. Superhuman already offers an AI detection feature within Grammarly, so the acquisition may lead to further refinement of these capabilities.
 
-hackernews · geox · Jun 22, 19:06 · [Discussion](https://news.ycombinator.com/item?id=48634585)
+rss · TechCrunch · Jun 23, 21:48
 
-**Background**: Canada possesses one of the world's largest uranium reserves and developed the CANDU reactor, which uses natural uranium fuel and heavy water moderator. Small modular reactors (SMRs) are a class of nuclear fission reactors with power output under 300 MWe, designed for factory fabrication and modular scalability, making them suitable for remote areas, industrial sites, and integration with renewables. Canada has extensive experience building and refurbishing CANDU reactors, such as at Darlington.
+**Background**: GPTZero is an AI detection software created by Edward Tian in 2023, designed to identify text produced by large language models like GPT-3 and GPT-4. It gained popularity among educators aiming to detect AI-generated student submissions, but also sparked debate over its accuracy and potential bias. Superhuman, known for its writing assistant Grammarly, has been expanding its AI capabilities, including its own detection tools.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/CANDU_reactor">CANDU reactor - Wikipedia</a></li>
-<li><a href="https://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs">What are Small Modular Reactors (SMRs)? | IAEA</a></li>
-<li><a href="https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors">Small Modular Reactors - World Nuclear Association</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GPTZero">GPTZero - Wikipedia</a></li>
+<li><a href="https://scale.stanford.edu/ai/repository/assessing-gptzeros-accuracy-identifying-ai-vs-human-written-essays">Assessing GPTZero's Accuracy in Identifying AI vs. Human-Written Essays | SCALE Initiative</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters generally support the plan, citing Canada's uranium reserves, CANDU expertise, and need for baseload power to complement renewables. Some suggest using nuclear for oil sands or exporting to the US. A UK commenter wondered why Canada was not chosen for UK nuclear projects.
-
-**Tags**: `#nuclear energy`, `#Canada`, `#energy policy`, `#CANDU`, `#small modular reactors`
+**Tags**: `#acquisition`, `#AI detection`, `#GPTZero`, `#Superhuman`, `#startup`
 
 ---
 
 <a id="item-14"></a>
-## [MirrorSpace: Young PhD Team Bets on Spatial Perception for Robotics](https://36kr.com/p/3864071269569540?f=rss) ⭐️ 7.0/10
+## [Klue breach due to unrevoked 2022 credential](https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/) ⭐️ 7.0/10
 
-MirrorSpace, a startup founded three months ago by three PhDs averaging age 24, has secured seed funding from Pine Venture Capital and MiraclePlus to develop a complete spatial perception solution for embodied robots, aiming to bridge the gap between motion control and environmental understanding. This addresses a critical bottleneck in embodied AI: most robots can move but cannot understand or remember their physical environment, limiting real-world deployment. MirrorSpace's approach could become a key infrastructure layer for the next generation of physical AI agents. The team integrates temperature as a non-visual feature into spatial representation and fuses RGB, depth, and thermal data at the raw sensor level for robust perception in extreme conditions. Their MirrorSense module treats time as a fourth dimension to create spatiotemporal continuity, and aligns the 4D Gaussian representation with a VLM for spatial memory queryable by large language models.
+Hackers exploited a credential from a limited pilot in 2022 that Klue failed to revoke, breaching a system holding keys to customer data and exposing sensitive information. This incident highlights the critical importance of proper credential lifecycle management, especially for decommissioned or temporary systems, and serves as a cautionary tale for organizations to regularly audit and revoke unused credentials. The credential was used to access a system that held encryption keys for customer data; it remains unclear why Klue did not revoke the credential after the pilot concluded. The breach is the second incident affecting LastPass customers in recent years, as one of its tech partners was also compromised.
 
-rss · 36氪 · Jun 22, 10:00
+rss · TechCrunch · Jun 23, 19:43
 
-**Background**: Spatial intelligence is a subfield of AI that enables systems to perceive, understand, and reason about physical space—critical for embodied robots. Current solutions often provide raw sensor data without integrated understanding, forcing robot makers to build perception from scratch. World models aim to give AI a mental model of the physical world, and spatial perception is considered the entry point for such models.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://36kr.com/p/3188559497322624">爆火的 空 间 智 能 到底是什么？ -36氪</a></li>
-<li><a href="https://36kr.com/p/3324938705283337">“AI教母”李飞飞揭秘“ 世 界 模 型 ”：要让AI像 人 类一样理解三维空间-36氪</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#embodied AI`, `#spatial intelligence`, `#robotics`, `#perception`, `#startup`
+**Tags**: `#security`, `#credential management`, `#data breach`, `#cybersecurity`
 
 ---
 
 <a id="item-15"></a>
-## [Chip-level current sensing startup raises millions for AI data center power efficiency](https://36kr.com/p/3863885024973832?f=rss) ⭐️ 7.0/10
+## [Anthropic's Claude Tag brings AI to Slack](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/) ⭐️ 7.0/10
 
-Xingantong Technology Co., Ltd. completed a tens-of-millions-yuan angel funding round co-led by Legend Star and FreesFund, to advance its chip-level fluxgate-based current and magnetic field sensing technology for AI data center power management. The funds will be used for chip R&D, product validation, and market expansion. As AI data centers face surging power density and thermal challenges, precise current sensing at chip-scale enables unified, real-time monitoring and closed-loop optimization of power distribution, cooling, and GPU resources. This technology can reduce energy waste, prevent failures, and improve training stability, while also extending to emerging space computing and other high-reliability scenarios. The company's core fluxgate chip achieves 1 nT precision and 0.5‰ linearity, using MEMS comb structures, 3D stacked packaging, CMOS analog front-ends, high-speed ADCs, and on-chip calibration algorithms. It builds a four-layer technical stack covering board-level, rack-level, and system-level sensing, enabling unified data collection and intelligent dispatch across the AI data center.
+Anthropic has launched Claude Tag, a new feature that integrates Claude as an always-on AI teammate in Slack, allowing users to tag @Claude to delegate tasks and access organizational knowledge. This feature strategically extends AI into enterprise workflows by capturing institutional context, potentially transforming team productivity and knowledge management. Claude Tag is currently in beta for Claude Enterprise and Team customers, and it can be granted access to selected Slack channels and connected to external tools, data, and codebases.
 
-rss · 36氪 · Jun 22, 05:07
+rss · TechCrunch · Jun 23, 17:00
 
-**Background**: Conventional current sensors used in data centers face limitations: Hall sensors suffer from high noise and temperature drift, while traditional fluxgate sensors are bulky and less integrated. Xingantong's chip-scale fluxgate technology miniaturizes the sensing element onto a semiconductor chip, achieving high precision, digital output, and integration, which allows a single architecture to replace the current multi-tier, heterogeneous sensor approach and eliminate data silos.
+**Background**: Enterprise teams increasingly use AI assistants to automate routine tasks and surface information. Slack is a central hub for workplace communication, and integrating AI directly into chat workflows reduces friction. Claude Tag aims to learn company-specific context from interactions, becoming more useful over time.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Fluxgate_sensor">Fluxgate sensor</a></li>
-<li><a href="https://www.lem.com/en/fluxgate-current-sensors">Fluxgate sensors | LEM fluxgate current and voltage sensors</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8708440/">Realization of Three-Dimensionally MEMS Stacked Comb Structures ...</a></li>
+<li><a href="https://www.anthropic.com/news/introducing-claude-tag">Introducing Claude Tag \ Anthropic</a></li>
+<li><a href="https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/">Anthropic’s Claude Tag is learning your company, one Slack ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#data center`, `#power management`, `#sensing`, `#startup funding`
+**Tags**: `#AI`, `#Anthropic`, `#Slack`, `#enterprise`, `#product announcement`
 
 ---
 
 <a id="item-16"></a>
-## [Samsung HBM4 Sales Surpass $1B in 4 Months](https://36kr.com/newsflashes/3864993186583817?f=rss) ⭐️ 7.0/10
+## [Germany-wide train halt due to GSM-R radio outage](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b) ⭐️ 6.0/10
 
-Samsung Electronics announced that its sixth-generation high-bandwidth memory (HBM4) chip sales have exceeded $1 billion within just four months of mass production, making Samsung the first company globally to begin mass production and shipment of HBM4 in February 2025. This milestone underscores surging demand for high-bandwidth memory solutions driven by AI and high-performance computing, and solidifies Samsung's competitive position in the increasingly critical HBM market against rivals like SK Hynix and Micron. Industry insiders project Samsung's HBM4 sales could reach $1.2 billion by the end of June 2025. HBM4 is the latest JEDEC standard announced in April 2025, offering higher bandwidth and capacity than HBM3.
+A nationwide outage of Germany's GSMR digital rail radio system forced all trains to be held at stations, with a suspected buggy software update as the likely cause. This incident demonstrates the critical dependence of modern railway operations on specialized communication systems like GSM-R, and any failure can cause massive travel disruption. It underscores the need for rigorous software testing in safety-critical infrastructure. GSM-R is part of the European Rail Traffic Management System (ERTMS) standard, used for signaling and voice communication. Deutsche Bahn technicians worked around the clock to resolve the nationwide outage.
 
-rss · 36氪 · Jun 22, 23:54
+hackernews · sva_ · Jun 23, 21:19 · [Discussion](https://news.ycombinator.com/item?id=48651613)
 
-**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM interface designed for ultra-high bandwidth and energy efficiency, commonly used in GPUs, AI accelerators, and HPC systems. HBM4 is the latest generation, succeeding HBM3, and is critical for feeding data-hungry AI models. The memory industry has seen unprecedented demand from the AI sector, with HBM production crowding out commodity DRAM capacity and driving up memory prices.
+**Background**: GSM-R (Global System for Mobile Communications – Railway) is a secure digital radio system used for voice and data communication between train drivers and control centers. It is essential for safe and efficient train operations, especially at high speeds. The system was adopted across Europe to replace older analog systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/HBM4">HBM4</a></li>
-<li><a href="https://www.micron.com/products/memory/hbm/hbm4">HBM4 | Micron Technology Inc.</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GSM-R">GSM-R - Wikipedia</a></li>
+<li><a href="https://www.networkrail.co.uk/industry-and-commercial/gsm-r-communicating-on-the-railway/">GSM-R: the railway’s mobile communication system - Network Rail</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor`, `#HBM`, `#Samsung`, `#memory chips`, `#AI hardware`
+**Discussion**: Commenters speculated about a buggy software update as the cause, with some noting that given Deutsche Bahn's history, a maintenance issue is plausible rather than a cyber attack. Others linked a recent UK train crash, questioning if sabotage could be involved.
+
+**Tags**: `#infrastructure`, `#outage`, `#railway`, `#communications`, `#GSM-R`
 
 ---
 
 <a id="item-17"></a>
-## [Optical fiber preform prices surge over 500% for some types, shortage may last until 2027](https://36kr.com/newsflashes/3864960298587144?f=rss) ⭐️ 7.0/10
+## [Warning: Email verification may involve spamming addresses](https://milek7.pl/mailverifyspam/) ⭐️ 6.0/10
 
-Driven by AI computing network demand, prices of optical fiber preforms, especially G.657.A2 for data center high-density cabling, have surged nearly 550% since early 2025, while general-purpose G.652D rose over 180%. This price spike directly increases costs for AI infrastructure and data center cabling, potentially slowing down expansion plans. The projected shortage until 2027 signals a long-term supply constraint that could affect global fiber optic deployment. G.652D preform now costs over 180% more, while G.657.A2 preform jumped from 22-30 RMB per equivalent core kilometer to 160 RMB. Multiple listed companies attribute the shortage to supply-demand imbalance and upstream raw material cost increases.
+An article claims that some email verification services validate addresses by sending spam-like emails, but commenters were unable to reproduce the behavior and suggest it may be coincidental. If true, this practice would violate anti-spam laws and user trust, highlighting potential unethical methods in email verification. The alleged spam email contains HTML with filler text about magnetic domains and includes a zero-width space set to font-size 0, possibly to avoid detection.
 
-rss · 36氪 · Jun 22, 23:20
+hackernews · garaetjjte · Jun 23, 20:23 · [Discussion](https://news.ycombinator.com/item?id=48650837)
 
-**Background**: An optical fiber preform is a cylindrical glass rod used as the starting material for drawing optical fibers. G.652D is a standard single-mode fiber for general transmission, while G.657.A2 features a smaller bend radius (7.5mm) for tight spaces like data centers. The term 'equivalent core kilometer' is a unit measuring the total fiber length adjusted for the number of cores.
+**Background**: Email verification is a common process used by websites to check if an email address exists. Legitimate methods include SMTP callback verification, where the server temporarily connects to the recipient's mail server without sending a full message. Sending actual spam to verify an address is considered unethical and often illegal.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.fs.com/blog/g652d-vs-g657a1-vs-g657a2-whats-the-difference-12818.html">G.652.D vs G.657.A1 vs G.657.A2: What’s the Difference?</a></li>
-<li><a href="https://www.futongglobal.com/raw-material/optical-fibre-preform-factory.html">China Customized Optical Fibre Preform Manufacturers Suppliers...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Callback_verification">Callback verification - Wikipedia</a></li>
+<li><a href="https://cleantalk.org/email-checker">Email Checker – Check Email Reputation, Spam & Scam Risk</a></li>
+<li><a href="https://mailmeteor.com/email-checker">Email Checker: Verify any Email Address Online (Free) - Mailmeteor</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#fiber optics`, `#supply chain`, `#data centers`, `#optical networking`
+**Discussion**: Commenters expressed strong skepticism; some attempted to replicate the issue on new email addresses without success. Others speculated that the spam might be coincidental or result from a compromised verification library.
+
+**Tags**: `#email`, `#spam`, `#verification`, `#security`
 
 ---
 
 <a id="item-18"></a>
-## [Microsoft and Chevron plan massive gas-powered data center project](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/) ⭐️ 7.0/10
+## [Vitamin D's Worthlessness Is Mildly Exaggerated](https://dynomight.net/vitamin-d/) ⭐️ 6.0/10
 
-Microsoft has signed a 20-year power purchase agreement (PPA) with Chevron to power a new large-scale data center with natural gas, locking in decades of carbon emissions. This deal highlights the growing tension between the rapid expansion of AI and cloud computing and corporate climate commitments, as tech giants continue to rely on fossil fuels to meet surging energy demand. The 20-year PPA ensures a long-term revenue stream for Chevron's new natural gas plant, while Microsoft secures dedicated power for its data center, bypassing grid constraints and intermittency issues of renewables.
+The article provides a balanced critique of vitamin D hype, arguing that supplementation benefits are real for the severely deficient but overhyped for the general population. This matters because millions of people take vitamin D supplements based on exaggerated claims, and this analysis helps clarify who actually benefits and why the evidence is often misunderstood. The strongest evidence for vitamin D is in people who are severely deficient, while health influencers often claim most people are severely deficient to dismiss negative studies.
 
-rss · TechCrunch · Jun 22, 20:37
+hackernews · surprisetalk · Jun 23, 16:30 · [Discussion](https://news.ycombinator.com/item?id=48647486)
 
-**Background**: A power purchase agreement (PPA) is a long-term contract between an electricity generator and a customer, often lasting 5 to 20 years, where the buyer agrees to purchase power at pre-negotiated rates. Tech companies like Microsoft have historically used PPAs to procure renewable energy, but this deal with a fossil fuel source marks a departure from their climate pledges. The project underscores the challenge of balancing the exponential growth of data center energy consumption with decarbonization goals.
+**Background**: Vitamin D is a fat-soluble vitamin essential for bone health and immune function, and can be obtained from sunlight and certain foods. Supplementation is widely promoted, but many studies have shown mixed results, leading to controversy over its effectiveness.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Power_purchase_agreement">Power purchase agreement - Wikipedia</a></li>
-<li><a href="https://betterbuildingssolutioncenter.energy.gov/financing-navigator/option/power-purchase-agreement">Power Purchase Agreement | Better Buildings & Better Plants Initiative</a></li>
+**Discussion**: The Hacker News discussion is thoughtful, with commenters noting survey oddities, faulty math in recommendations, and personal experiences with supplementation. Overall sentiment is positive toward the balanced analysis.
 
-</ul>
-</details>
-
-**Tags**: `#data centers`, `#energy`, `#climate`, `#Microsoft`, `#natural gas`
+**Tags**: `#health`, `#vitamin D`, `#nutrition`, `#science`, `#evidence-based`
 
 ---
 
 <a id="item-19"></a>
-## [AI chipmaker Groq confirms $650M raise, restructures after Nvidia deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/) ⭐️ 7.0/10
+## [Roundtable: Early AI VC and Entrepreneurship Beyond Consensus](https://36kr.com/p/3865630193030145?f=rss) ⭐️ 6.0/10
 
-Groq, an AI chip startup, announced a $650 million funding round and is restructuring its leadership by hiring new executives, pivoting toward its neocloud business after a $20 billion 'not-acqui-hire' deal with Nvidia fell through. This funding underscores strong investor confidence in AI hardware startups despite competition from giants like Nvidia. Groq's shift to a neocloud model could challenge traditional cloud providers by offering specialized GPU-as-a-Service for AI workloads. Groq's first-generation LPU (TSP) chip delivers over 1 TeraOp/s per mm² on a 14nm process, while its second-generation LPU v2 uses Samsung's 4nm node. The neocloud focus means Groq will offer direct access to its LPU hardware for inference workloads.
+A roundtable at 2026 WAVES featured Lanchi Ventures managing partner Zhu Tianyu and OriginFlow founder Qin Shentao discussing early-stage AI investing and entrepreneurship, revealing that Lanchi decided to invest in OriginFlow within 30 minutes of their first meeting. This discussion highlights how top VCs identify breakthrough opportunities before consensus forms, and underscores the growing importance of embodied intelligence and non-invasive neural interfaces in China's AI ecosystem. OriginFlow develops a non-invasive motor neural interface for embodied intelligent robots, and secured over 500 million RMB in funding within five months of operation, with Lanchi Ventures co-leading the angel round and following on three consecutive rounds.
 
-rss · TechCrunch · Jun 22, 20:13
+rss · 36氪 · Jun 23, 10:43
 
-**Background**: Neoclouds are specialized cloud providers focused exclusively on GPU-as-a-Service, built from the ground up for AI and high-performance computing. Groq's LPU (Language Processing Unit) is not a GPU but a processor designed specifically for running large language models with low latency and deterministic execution.
+**Background**: Non-invasive motor neural interfaces decode neuromuscular signals (e.g., sEMG) to control machines without surgery, while embodied AI refers to AI systems with physical bodies that perceive and act in the real world. The 'three-wave superposition' framework (AGI + robotics + 3D interaction) guides Lanchi's early-stage investments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://rcrtech.com/semiconductor-news/neocloud-explainer-main-players/">What is a NeoCloud and who are the main players?</a></li>
-<li><a href="https://blog.equinix.com/blog/2025/10/14/what-is-a-neocloud/">What Is a Neocloud? - Interconnections - The Equinix Blog</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Groq">Groq - Wikipedia</a></li>
+<li><a href="https://www.nature.com/articles/s41586-025-09255-w">A generic non-invasive neuromotor interface for human ...</a></li>
+<li><a href="https://encord.com/blog/embodied-ai/">What is Embodied AI? A Guide to AI in Robotics | Encord</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI chips`, `#Groq`, `#funding`, `#Nvidia`, `#hardware`
+**Tags**: `#AI`, `#venture capital`, `#entrepreneurship`, `#China`
 
 ---
 
 <a id="item-20"></a>
-## [Tata Electronics Data Breach Confirmed](https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/) ⭐️ 7.0/10
+## [Pinduoduo Buys First Office Building in Xiong'an](https://36kr.com/p/3865625576297476?f=rss) ⭐️ 6.0/10
 
-Tata Electronics, a key supplier to Apple and Tesla, has confirmed a data breach that exposed sensitive information. The incident coincides with the company's expansion in global tech supply chains. This breach underscores the cybersecurity vulnerabilities in global supply chains, particularly as major tech companies rely on third-party manufacturers. It could lead to increased scrutiny of supplier security practices and potential financial and reputational damage for Tata Electronics. The exact scope of the breach, including the type of data stolen and the number of affected individuals or companies, has not been disclosed. The breach occurred as Tata Electronics was ramping up production for high-profile clients like Apple and Tesla.
+Pinduoduo signed a contract on June 21, 2026 to purchase an office building in Xiong'an's Dianjian Zhihui City, marking its first-ever property acquisition. It has also registered a subsidiary, Pinduoduo Information Technology Services (Xiong'an) Co., Ltd., with a registered capital of 500 million yuan, focusing on data processing, cloud services, and digital operations. This strategic shift from a purely asset-light model to owning property signals Pinduoduo's long-term commitment to Xiong'an, a national-level new area. It may also indicate a deeper investment in data infrastructure and compliance capabilities, potentially affecting its operational efficiency and regional influence. The building is 12 stories tall, located in the Digital New Consumption E-commerce Industrial Park, and is expected to be operational by the end of July 2026. Pinduoduo plans to provide over 5,000 jobs locally, with 150 employees already onboarded as of June 10.
 
-rss · TechCrunch · Jun 22, 19:25
+rss · 36氪 · Jun 23, 10:38
 
-**Background**: Tata Electronics is a subsidiary of the Indian conglomerate Tata Group, specializing in electronics manufacturing services. The company has recently expanded into semiconductor and assembly operations, becoming a key player in the global tech supply chain. Data breaches at such suppliers can have cascading effects on the security of end products.
+**Background**: Xiong'an New Area, established in 2017, is a state-level development zone about 100 km south of Beijing, intended to relieve non-capital functions and foster innovation. Pinduoduo, known for its asset-light strategy, has historically rented all its office spaces and avoided real estate investment to maintain high capital efficiency.
 
-**Tags**: `#data breach`, `#cybersecurity`, `#supply chain`, `#Tata Electronics`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.sina.cn/sx/2026-06-22/detail-iniefzfw0421932.d.html?vt=4">拼多多落子雄安•电建智汇城——国家战略与头部企业的双向奔赴|河北省|数...</a></li>
+<li><a href="https://house.ifeng.com/news/2026_06_22-57414774_0.shtml">拼多多与中国电建签约 在雄安新区购置办公楼 ——凤凰网房产北京</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Pinduoduo`, `#Xiong'an`, `#real estate`, `#corporate strategy`
 
 ---
 
 <a id="item-21"></a>
-## [Police Arrested for Misusing Flock ALPR to Stalk](https://www.reddit.com/r/technology/comments/1ucjbkh/cops_keep_getting_arrested_for_using_flock_to/) ⭐️ 7.0/10
+## [Chinese Startup YiMeiHua Raises Millions for High-Conductivity Magnesium Alloys](https://36kr.com/p/3864082158785539?f=rss) ⭐️ 6.0/10
 
-Multiple police officers have been arrested for using Flock Safety's automated license plate recognition (ALPR) technology to stalk individuals without authorization, including a Kansas police chief who tracked his ex-girlfriend 164 times. These incidents highlight critical privacy and ethical risks in law enforcement's use of AI-powered surveillance, eroding public trust and raising concerns about systemic abuse of ALPR data. The Kansas police chief used Flock cameras 164 times to stalk his ex-girlfriend, and similar arrests have occurred in other jurisdictions, showing a pattern of misuse by officers with personal motives.
+Shanghai-based startup YiMeiHua (YiMeiHua) has completed a multi-million yuan angel funding round led by Xinghe Chuangtou and Huazhong Industrial Group. The company develops high-thermal-conductivity and high-strength magnesium alloys for robotics, exoskeletons, and automotive structural components. YiMeiHua's magnesium alloys can achieve thermal conductivity over 110 W/(m·K)—more than double industry standard—and are suitable for semi-solid injection molding, enabling lightweight substitution of aluminum in high-heat-dissipation applications like robot joint motors. The funding signals growing investor interest in advanced materials for robotics and automotive lightweighting. YiMeiHua's patented high-thermal-conductivity alloy design uses induced dynamic precipitation and lattice distortion to simultaneously improve thermal conductivity and strength. The company also developed an ultra-high-thermal-conductivity composite using bio-inspired interlocking neuron-like networks. They have secured partnerships with over 10 robotics companies and multiple automotive OEMs.
 
-reddit · r/technology · /u/mepper · Jun 22, 12:33
+rss · 36氪 · Jun 23, 10:22
 
-**Background**: Flock Safety provides automated license plate recognition (ALPR) systems that capture vehicle data to help solve crimes, widely adopted by police departments. However, the technology can also be misused for unauthorized surveillance, as officers have access to sensitive location data. This raises concerns about inadequate oversight and the need for stricter regulations.
+**Background**: Magnesium is the lightest structural metal (density 1.8 g/cm³), 33% lighter than aluminum and 77% lighter than steel. However, conventional magnesium alloys suffer from poor thermal conductivity, low strength, and corrosion susceptibility. China produces over 89% of the world's magnesium, and the Mg-to-Al price ratio has fallen to 0.68, making magnesium substitution economically viable. Semi-solid injection molding (thixomolding) uses magnesium chips heated to a semi-solid state, avoiding porosity issues of traditional die casting.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.kansas.com/news/politics-government/article291059560.html">KS police chief used Flock cameras to track ex-girlfriend | Wichita Eagle</a></li>
-<li><a href="https://www.yahoo.com/news/articles/hernando-county-debates-regulation-controversial-222640578.html">Hernando County debates regulation of controversial Flock license ...</a></li>
+<li><a href="https://www.maglitek.com/en/magnesium-semi-solid-molding.html">Magllitek-Magnesium Semi-solid Molding-Maglitek (Ningbo)Co., Ltd.</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#surveillance`, `#privacy`, `#ethics`, `#police`, `#Flock`
+**Tags**: `#magnesium alloys`, `#materials science`, `#robotics`, `#automotive`, `#advanced manufacturing`
 
 ---
 
 <a id="item-22"></a>
-## [NYT publisher: Big Tech commits 'brazen theft' of IP](https://www.reddit.com/r/technology/comments/1uct5d9/big_tech_is_a_thief_and_a_liar_says_new_york/) ⭐️ 7.0/10
+## [Roundtable: Consumer Hardware Revives with AI](https://36kr.com/p/3865523201692931?f=rss) ⭐️ 6.0/10
 
-New York Times publisher A.G. Sulzberger accused Big Tech companies of stealing intellectual property to train their AI models, calling it the 'original sin' of AI during a speech at the WAN-IFRA World News Media Congress in May 2026. This sharp condemnation from a major news publisher escalates the ongoing legal and ethical battle over AI training data, potentially influencing copyright law reforms and licensing negotiations between content creators and AI developers. Sulzberger emphasized that the theft occurs on an 'unprecedented scale' and that the 'hijacking of the public square' is enabled by this infringement. The New York Times has an active copyright lawsuit against OpenAI and Microsoft, filed in December 2023.
+A roundtable at 36Kr's WAVES2026 discussed the resurgence of consumer hardware investment, highlighting Oura (IPO at $11B), WHOOP ($10B valuation), and Insta360 (285% stock surge) as success stories, with AI reshaping valuation logic. This signals a paradigm shift where AI and hardware converge, making consumer hardware attractive again after years of neglect. The insights from top investors can guide startups and VCs in this emerging wave. Panels included investors from DeepDegree Capital, YQ Capital, Yunqi Capital, Green Capital, and Fosun RZ Capital. They debated whether AI-inflated valuations are bubbles or genuine value, and emphasized Chinese supply chain advantages.
 
-reddit · r/technology · /u/marketrent · Jun 22, 18:45
+rss · 36氪 · Jun 23, 08:56
 
-**Background**: Generative AI models like GPT-4 are trained on vast text datasets scraped from the internet, often including copyrighted news articles without explicit permission. Tech companies argue this constitutes 'fair use', but publishers contend it is mass infringement that devalues their work. Recent court rulings have been mixed, with some allowing fair use defenses and others rejecting them, leaving the legal landscape uncertain.
+**Background**: Consumer hardware had been overlooked by VCs for being slow, heavy, and unsexy. Recently, AI advancements and successful exits like Oura and Insta360 have revived interest. The discussion reflects a broader trend where AI models and Chinese manufacturing enable global leaders.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html">New York Times Sues OpenAI and Microsoft Over Use of Copyrighted Work - The New York Times</a></li>
-<li><a href="https://wan-ifra.org/2026/06/nyts-sulzberger-condemns-ai-giants-for-brazen-theft-of-intellectual-property/">NYT’s Sulzberger condemns AI giants for ‘brazen theft of ...</a></li>
-<li><a href="https://www.afr.com/technology/big-tech-s-ai-original-sin-pirating-my-books-without-compensation-20260224-p5o4yr">Big Tech’s AI original sin: pirating my books without ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Oura_Ring">Oura Ring</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Whoop_band">Whoop band</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Insta360">Insta360</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#intellectual property`, `#Big Tech`, `#copyright`
+**Tags**: `#consumer hardware`, `#investment`, `#AI`, `#valuation`, `#roundtable`
 
 ---
 
 <a id="item-23"></a>
-## [Windows 11 hibernation silently damaging SSDs](https://www.reddit.com/r/technology/comments/1ucispb/windows_11_hibernation_has_been_silently/) ⭐️ 7.0/10
+## [AI Boom Drives Japan Shift from Value to Growth Stocks](https://www.bloomberg.com/news/articles/2026-06-23/ai-boom-sees-investors-shift-from-japan-s-value-to-growth-stocks) ⭐️ 6.0/10
 
-A reported issue in Windows 11 hibernation mode causes excessive write operations to SSDs, potentially reducing their lifespan. Users have observed unexpected write amplification on boot drives. This is significant because SSDs have finite write endurance, and excessive writes from a common system feature can prematurely wear out drives, affecting millions of Windows 11 users. The issue may go unnoticed until drive failure occurs. The hibernation file write can overflow into the faster SLC cache while the controller writes to TLC NAND, generating thermal loads and throttling. Mitigations include reducing hibernation file size or disabling hibernation entirely.
+Japanese equities are seeing a shift from value stocks to growth stocks as AI-linked firms rise to the top of market-cap rankings, overtaking traditional manufacturers and telecom giants. This shift signals a fundamental change in Japan's market perception and could attract more global growth-oriented investors, potentially reshaping investment strategies in the region. The AI boom is driving this transition, with AI-linked firms now dominating top market-cap rankings that were previously held by traditional sectors like manufacturing and telecommunications.
 
-reddit · r/technology · /u/Hungry__Hornet · Jun 22, 12:08
+rss · Bloomberg Markets · Jun 23, 21:00
 
-**Background**: SSDs have a limited number of write cycles per cell (e.g., TLC NAND typically offers around 1,000-3,000 program/erase cycles). Write amplification occurs when the amount of data written to the SSD is larger than the data the host intended to write. Windows hibernation saves the entire system state to disk, and in some cases the process can generate multiple write passes, accelerating wear.
+**Background**: Japanese stock market has long been considered a value market by global investors, dominated by stable, mature industries. The AI boom is now shifting attention to growth stocks, particularly companies involved in artificial intelligence, which are experiencing rapid expansion.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.xda-developers.com/windows-11-hibernation-silently-hammering-ssd-life/">Windows 11 hibernation has been silently hammering your SSD this whole time</a></li>
-<li><a href="https://windowsforum.com/threads/extend-ssd-life-on-windows-11-trim-and-safe-tweaks.399446/">Extend SSD Life on Windows 11: TRIM and Safe Tweaks | Windows Forum</a></li>
-<li><a href="https://techenclave.com/t/windows-hibernation-might-be-amplifying-your-ssd-writes/388798">Windows hibernation might be amplifying your SSD writes - Software & Tools - TechEnclave</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Windows 11`, `#SSD`, `#hibernation`, `#storage`, `#performance`
+**Tags**: `#AI`, `#investing`, `#Japan`, `#growth stocks`
 
 ---
 
 <a id="item-24"></a>
-## [Unsloth GLM-5.2 Local Feasibility Debated](https://unsloth.ai/docs/models/glm-5.2) ⭐️ 6.0/10
+## [MoEngage bets on millions of AI agents for marketing](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/) ⭐️ 6.0/10
 
-Unsloth released a 2-bit quantized version of the GLM-5.2 model, reducing its size from 1.51TB to 238GB, making it possible to run on a machine with 256GB RAM, but with significantly slower prompt processing. This development highlights the trade-offs between model accessibility and performance, as local inference of large models like GLM-5.2 remains hardware-intensive and slow, potentially limiting practical use. The quantized 2-bit model retains about 82% accuracy but requires 256GB RAM and 24GB VRAM via MoE offloading; prompt processing can be 20-50X slower than GPU-based setups.
+MoEngage, an Indian marketing technology company, acquired technology via an all-cash deal to deploy AI agents that are assigned to individual customers for personalized marketing. This move signals a shift towards hyper-personalization at scale, where each customer gets a dedicated AI agent, potentially transforming customer engagement and marketing efficiency. The acquisition is an all-cash deal, giving MoEngage access to technology that assigns a unique AI agent to each customer, enabling personalized interactions.
 
-hackernews · TechTechTech · Jun 22, 21:21 · [Discussion](https://news.ycombinator.com/item?id=48636377)
+rss · TechCrunch · Jun 23, 23:30
 
-**Background**: Quantization reduces the precision of model weights, shrinking memory footprint at the cost of some accuracy. GLM-5.2 is one of the largest open-source models, with a full size of 1.51TB, requiring massive hardware for inference. Unsloth specializes in optimizing models for local execution through techniques like quantization and offloading.
+**Background**: AI agents are intelligent systems that can autonomously perform tasks like content creation, ad management, and personalized campaigns. In marketing, they reduce human intervention and enable real-time customization. MoEngage's acquisition aims to leverage this trend for its customer base.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://unsloth.ai/docs/models/glm-5.2">GLM - 5 . 2 - How to Run Locally | Unsloth Documentation</a></li>
-<li><a href="https://huggingface.co/unsloth/GLM-5.2">unsloth / GLM - 5 . 2 · Hugging Face</a></li>
-<li><a href="https://digg.com/tech/nxvil8pu">Unsloth Quantizes GLM - 5 . 2 For Local Runs On Consumer Hardware...</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-agents-in-marketing">AI agents in marketing - IBM</a></li>
+<li><a href="https://kroolo.com/blog/custom-ai-agents">Custom AI Agents: Personalized Intelligence - Kroolo</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Users in the discussion expressed mixed feelings: some noted that hardware requirements are still prohibitive, while others believe the gap to viable local models is closing. One user highlighted that slow prompt processing makes the model impractical without expensive GPUs, and another asked about compression for cold storage.
-
-**Tags**: `#large language models`, `#local inference`, `#hardware requirements`, `#quantization`, `#machine learning`
+**Tags**: `#AI agents`, `#marketing technology`, `#personalization`, `#India`
 
 ---
 
 <a id="item-25"></a>
-## [Oak: A Git Alternative Built for AI Agents](https://oak.space/oak/oak) ⭐️ 6.0/10
+## [Menlo Ventures raises $3B fund after Anthropic bet](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/) ⭐️ 6.0/10
 
-Oak is a new version control system that uses virtual mounts to avoid copying entire repositories, aiming to improve speed and context efficiency for AI agents. It is still early in development, with no Windows build and many missing features, but the team has been using it fully bootstrapped for months. If successful, Oak could reduce token usage and speed up AI agent workflows by eliminating the need for full repo downloads, a significant bottleneck in current agent tooling. However, it faces skepticism about whether a new VCS is necessary given that AI models already know Git well. Oak's key innovation is 'virtual mounts,' which lazily fetch files on demand, similar to how Google's internal systems or Microsoft VFS for Git work. It is designed for parallel task execution without needing multiple worktrees, and the entire system is self-hosted on Oak with no Git backup.
+Menlo Ventures has raised a $3 billion fund, capitalizing on its earlier $750 million investment in AI startup Anthropic made in 2024. This demonstrates the enormous returns venture capital firms can achieve by making bold, concentrated bets on leading AI companies, and it signals continued strong investor appetite for AI-related funds. The $3 billion fund is one of the largest VC funds raised recently, and its success is directly tied to Anthropic's rapid growth, which has secured multi-billion dollar cloud deals with Amazon.
 
-hackernews · zdgeier · Jun 22, 15:37 · [Discussion](https://news.ycombinator.com/item?id=48631726)
+rss · TechCrunch · Jun 23, 19:49
 
-**Background**: Traditional version control systems like Git require a full copy of the repository to work, which can be slow and consume many tokens for AI agents. Git worktrees allow working on multiple branches simultaneously but still require separate copies. Virtual mount systems, such as those used at Google (google3) or Microsoft's GVFS, only fetch files as needed, reducing overhead.
+**Background**: Anthropic is an AI safety and research company known for its Claude series of large language models. It was founded in 2021 by former OpenAI employees. In 2024, Menlo Ventures made a $750 million investment, which was a risky bet at the time but has since paid off handsomely as Anthropic's valuation soared.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://git-scm.com/docs/git-worktree">Git - git-worktree Documentation</a></li>
-<li><a href="https://www.reddit.com/r/programming/comments/90q6so/a_virtual_filesystem_for_perforce_version_control/">r/programming on Reddit: A Virtual Filesystem for Perforce Version Control System</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
+<li><a href="https://apnews.com/article/amazon-anthropic-ai-artificial-intelligence-aws-claude-cffa2cc19f9928d9ac44e44f2d967d36">AI startup Anthropic commits $100 billion to Amazon's AWS over next 10 years | AP News</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reactions are mixed: some praise the lazy mount concept, comparing it to Google's internal system, while others question the need for a new VCS given AI models' familiarity with Git. There is also interest in the potential for token savings, but skepticism about compatibility with existing Git ecosystems.
-
-**Tags**: `#version control`, `#AI agents`, `#git alternative`, `#software engineering`
+**Tags**: `#AI`, `#Venture Capital`, `#Anthropic`, `#Funding`, `#Menlo Ventures`
 
 ---
 
 <a id="item-26"></a>
-## [Panel at 36Kr WAVES Explores AI Entrepreneurship in Panyu](https://36kr.com/p/3864033017549832?f=rss) ⭐️ 6.0/10
+## [2026 Major Tech Layoffs Citing AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) ⭐️ 6.0/10
 
-A panel discussion at the 36Kr WAVES 2026 conference featured three Panyu-based entrepreneurs sharing how they apply AI and hard tech to real-world problems, including AI sales agents, IoT low-code platforms, and AI-powered repair services. The discussion highlights how AI is moving from concept to practical deployment in China's industrial heartland, offering insights into the challenges and opportunities for AI startups in manufacturing-heavy regions like Panyu. Key companies mentioned: Tantis Tech (AI sales agent), Haoyun Tech (IoT low-code platform), and 1-Hour Fast Repair (AI store manager). The panelists emphasized Panyu's dense industrial ecosystem, talent pool from Guangzhou University Town, and cost-effectiveness as startup advantages.
+TechCrunch compiled a running list of major tech layoffs in 2026 where employers explicitly cited artificial intelligence as a contributing factor, presented in reverse chronological order. This compilation highlights a growing trend where AI adoption is directly leading to workforce reductions, raising concerns about job displacement and the shifting priorities of the tech industry. The list is continuously updated and focuses on larger tech firms, but it does not provide specific numbers or dates for each layoff event.
 
-rss · 36氪 · Jun 22, 07:38
+rss · TechCrunch · Jun 23, 01:27
 
-**Background**: AI agents, or intelligent agents, are AI systems that can autonomously perform tasks such as customer prospecting and automated communication. Large language models (LLMs) power these agents by understanding and generating human-like text. The panel explores how such agents are applied in sales, IoT management, and after-sales service.
+**Background**: Throughout 2024 and 2025, major tech companies increasingly cited AI as a reason for restructuring and layoffs, as automation and efficiency gains reduced the need for certain roles. This list tracks the continuation of that trend into 2026, serving as a reference for analysts and workers monitoring the job market.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developer.volcengine.com/articles/7523624399816261641">热门 智 能 体 平 台 怎 么 选？ Coze、Dify、n8n、FastGPT、RagFlow...</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/1947328805787141175">智能体应用场景解析（电商篇）：盘点五个典型智能体应用案例</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#entrepreneurship`, `#hard tech`, `#conference`
+**Tags**: `#tech layoffs`, `#AI`, `#employment`, `#tech industry`, `#2026`
 
 ---
 
 <a id="item-27"></a>
-## [Aerospace Intelligent Assembly Startup Raises Tens of Millions Yuan](https://36kr.com/p/3863883390194692?f=rss) ⭐️ 6.0/10
+## [OpenAI launches AI initiative to fix open source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/) ⭐️ 6.0/10
 
-Dalian Kunda Automation, a provider of intelligent assembly equipment for aerospace, completed a Series A funding round of tens of millions yuan led by Yongxin Fangzhou Capital, with Daan Capital as exclusive financial advisor. This funding highlights the growing demand for intelligent manufacturing in aerospace, especially as China's large aircraft production ramps up and low-altitude economy policies create new opportunities. The company's technology for heavy-load, high-precision assembly is critical for domestic aircraft manufacturing. Dalian Kunda's core products include heavy-duty mobile platforms (MRP-T) and composite mobile robots (FAMR), supporting loads from 2 to 200 tons with millimeter-level positioning accuracy. The company reported revenue of about 80 million yuan for the latest fiscal year, a 49% year-on-year increase.
+OpenAI announced a new initiative that uses its AI models to help identify and patch security vulnerabilities in open source software. This initiative could significantly improve the security of the open source ecosystem, which underpins much of modern software, by leveraging AI to automate bug detection and patching. The initiative lacks specific technical details such as which models or tools will be used, but it signals OpenAI's intention to contribute directly to open source security.
 
-rss · 36氪 · Jun 22, 05:06
+rss · TechCrunch · Jun 23, 00:11
 
-**Background**: Aerospace manufacturing requires handling large, heavy components like wings and fuselages with extremely high precision, unlike automotive assembly. Dalian Kunda develops customized robotic solutions using technologies such as multi-DOF error compensation algorithms and force-position hybrid servo control to meet these demands.
+**Background**: Open source software is widely used but often has security vulnerabilities due to limited resources. AI models have shown promise in code analysis and automated bug fixing, making this initiative a natural extension of OpenAI's capabilities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://36kr.com/p/3863883390194692">36...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#aerospace`, `#automation`, `#intelligent manufacturing`, `#robotics`, `#funding`
+**Tags**: `#OpenAI`, `#open source`, `#security`, `#AI`, `#bug fixing`
 
 ---
 
 <a id="item-28"></a>
-## [Germanium prices surge over 80% on AI fiber demand](https://36kr.com/newsflashes/3864977692415235?f=rss) ⭐️ 6.0/10
+## [US Anthropic ban promotes Chinese AI development](https://www.scmp.com/opinion/china-opinion/article/3357898/us-anthropic-ban-best-advert-chinese-ai?utm_source=rss_feed) ⭐️ 6.0/10
 
-As of June 18, 2026, germanium ingot prices have surged over 83% to 25,000 yuan per kilogram, driven by strong demand for optical fiber used in AI infrastructure and telecommunications. This price surge highlights the strategic importance of rare materials like germanium in enabling AI and telecom infrastructure, and exposes potential supply chain vulnerabilities in high-tech manufacturing. Germanium tetrachloride acts as a critical dopant in optical fiber preforms, raising the core's refractive index for better transmission. Although germanium accounts for a small cost share in fiber, its high purity requirements, concentrated supply, and lack of substitutes exacerbate supply-demand imbalances.
+JPMorgan Chase and Goldman Sachs in Hong Kong have stopped using Anthropic's AI models due to US export restrictions, potentially driving adoption of Chinese AI alternatives. This illustrates how US technology restrictions can inadvertently boost the development and adoption of Chinese AI, strengthening China's AI ecosystem and reducing its reliance on US technology. Goldman Sachs pulled the plug in April and JPMorgan Chase followed in late May 2026, based on strict interpretation of Anthropic's terms reflecting US restrictions on China's access to frontier AI.
 
-rss · 36氪 · Jun 22, 23:38
+rss · SCMP · Jun 23, 21:30
 
-**Background**: Germanium is a metalloid used in fiber optics, infrared optics, and electronics. Optical fiber is manufactured from preforms doped with germanium via processes like MCVD to improve light transmission. The rise of AI and data centers has dramatically increased demand for high-bandwidth optical fiber, straining the supply of germanium.
+**Background**: The US has imposed export controls on AI and semiconductor technologies to restrict China's access to advanced AI models and chips. Anthropic, a leading American AI company, includes usage restrictions in its terms to comply with these regulations. These restrictions prompted major banks in Hong Kong to switch to local AI solutions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.datainsightsmarket.com/reports/optical-fiber-grade-germanium-tetrachloride-1093760">Optical Fiber Grade Germanium Tetrachloride Market: $332M by ...</a></li>
-<li><a href="https://www.weunionfiber.com/optical-fiber-manufacturing-process-from-preform-to-final-fiber/">Optical Fiber Manufacturing: From Preform to Final Fiber Process</a></li>
-<li><a href="https://pmarketresearch.com/worldwide-high-purity-germanium-tetrachloride-for-optical-fiber-market-research/">Worldwide High Purity Germanium Tetrachloride for Optical ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic_AI">Anthropic AI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors">United States export controls on AI chips and semiconductors</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Germanium`, `#Fiber Optics`, `#AI Infrastructure`, `#Supply Chain`, `#Raw Materials`
-
----
-
-<a id="item-29"></a>
-## [Gas Stations Accused of Using AI to Inflate California Prices](https://www.bloomberg.com/news/articles/2026-06-22/gas-stations-accused-of-using-ai-to-inflate-prices-in-california) ⭐️ 6.0/10
-
-A lawsuit filed by California consumers alleges that major gas station owners, including Walmart, Marathon Petroleum, BP, and 7-Eleven, used AI pricing algorithms from Kalibrate to artificially raise pump prices, potentially adding up to 30 cents per gallon. This case highlights the growing antitrust concerns around algorithmic pricing and could set a precedent for how AI-driven collusion is legally treated, affecting both consumers and fuel retailers nationwide. The suit specifically points to Kalibrate's 'restoration' feature, which enables coordinated large price hikes across many stations in a market. It claims that where most stations use Kalibrate, prices could be inflated by up to 30 cents per gallon.
-
-rss · Bloomberg Markets · Jun 22, 16:32
-
-**Background**: Gas stations have increasingly adopted AI-powered pricing software to adjust fuel prices in real time based on demand, competition, and other factors. However, when multiple competitors use the same algorithm, it can facilitate tacit collusion without direct communication, potentially violating antitrust laws. The lawsuit in California is one of the first major legal challenges to such practices in the fuel retail industry.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.forbes.com/sites/zacharyfolk/2026/06/22/slew-of-california-gas-stations-illegally-used-ai-to-raise-prices-lawsuit-claims/">Slew Of California Gas Stations Illegally Used AI To Raise Prices, Lawsuit Claims</a></li>
-<li><a href="https://gasstationcompliancehub.com/technology-automation/ai-machine-learning-fuel-retail-operations">AI & Machine Learning in Fuel Retail: 2026 Operator's Guide | Gas Station Compliance Hub</a></li>
-<li><a href="https://www.rapidpricer.com/post/ai-driven-pricing-for-gas-stations-transforming-fuel-and-in-store-strategies">AI-Driven Pricing for Gas Stations: Transforming Fuel and In-Store Strategies</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#price fixing`, `#lawsuit`, `#California`, `#gas prices`
-
----
-
-<a id="item-30"></a>
-## [Nvidia cuts data center water use but misses AI's bigger water footprint](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/) ⭐️ 6.0/10
-
-Nvidia announced a new cooling system that reduces water consumption inside data centers by operating at higher temperatures, but it does not address the substantial water used by fossil fuel power plants that supply electricity to AI workloads. As AI demand grows, data center water efficiency is critical, but ignoring the water footprint of electricity generation means the overall environmental impact of AI remains unaddressed. This highlights a blind spot in sustainable AI infrastructure discussions. The cooling system uses liquid cooling and higher temperature operation to cut on-site water use, but thermal power plants consume approximately 190 billion gallons of water daily in the US alone. Nvidia's solution improves Water Usage Effectiveness (WUE) but does not affect the upstream water consumption from energy generation.
-
-rss · TechCrunch · Jun 22, 20:08
-
-**Background**: Data centers use water mainly for cooling IT equipment, measured by WUE (liters per kWh). However, the electricity powering data centers often comes from fossil fuel plants, which require vast amounts of water for cooling and steam generation. This indirect water use far exceeds on-site consumption, yet it is rarely included in data center sustainability metrics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/">Nvidia wants to cut data center water use, but that's not the ...</a></li>
-<li><a href="https://blogs.nvidia.com/blog/blackwell-platform-water-efficiency-liquid-cooling-data-centers-ai-factories/">NVIDIA Blackwell Platform Boosts Water Efficiency by Over ...</a></li>
-<li><a href="https://qz.com/1351279/the-hidden-water-footprint-of-fossil-fuel-and-nuclear-power-plants">You probably have no idea just how much water is needed to produce...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#data center`, `#water usage`, `#Nvidia`, `#sustainability`
-
----
-
-<a id="item-31"></a>
-## [Anthropic updates Claude's privacy policy for identity verification](https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/) ⭐️ 6.0/10
-
-Anthropic changed Claude's privacy policy to allow the chatbot to ask users for identity verification, such as with a passport or driver's license, in certain circumstances. This shift towards stronger user verification in AI chatbots could affect user privacy and trust, raising questions about data collection and ethical use of personal information. The policy change specifies that Claude may request age or identity verification using documents like passports or driver's licenses 'in certain circumstances,' but the exact circumstances are not detailed.
-
-rss · TechCrunch · Jun 22, 18:05
-
-**Background**: Identity verification is common in online services to prevent fraud and comply with regulations, but its application in AI chatbots is relatively new. Anthropic aims to balance safety with user privacy, and this update may help prevent misuse of the chatbot for illegal activities.
-
-**Tags**: `#AI Ethics`, `#Privacy`, `#Identity Verification`, `#Anthropic`, `#Chatbots`
-
----
-
-<a id="item-32"></a>
-## [Instagram TV app to expand with long-form, episodic, live content](https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/) ⭐️ 6.0/10
-
-Instagram announced plans to introduce longer-form, episodic, and live video formats on its TV app, aiming to compete directly with streaming services like Netflix and Amazon Prime Video. This move signals Instagram's ambition to become a destination for living room viewing, challenging established streaming platforms and potentially changing how creators monetize content beyond short-form Reels. The expansion builds on Instagram for TV, launched in February 2026 with only Reels, and follows comments from Instagram's head suggesting that short-form content alone is insufficient for TV success.
-
-rss · TechCrunch · Jun 22, 14:14
-
-**Background**: Instagram for TV was initially launched as a way to watch Reels on the big screen, but the platform now sees an opportunity to attract creators who produce longer content. Streaming services like Netflix dominate long-form viewing, while social platforms have focused on short-form. By adding episodic and live formats, Instagram hopes to keep users engaged for longer periods and capture advertising revenue from TV audiences.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://about.instagram.com/blog/announcements/instagram-tv-app/">Introducing Instagram for TV: Watch Reels | About Instagram</a></li>
-<li><a href="https://www.socialmediatoday.com/news/instagram-eyes-long-form-content-on-ctv/819793/">Instagram eyes long-form content on CTV | Social Media Today</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Instagram`, `#streaming`, `#social media`, `#TV app`, `#content strategy`
-
----
-
-<a id="item-33"></a>
-## [Chinese universities cut language majors, expand AI programs](https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds) ⭐️ 6.0/10
-
-Chinese universities are discontinuing programs in translation and foreign languages while introducing new degrees in embodied intelligence, artificial intelligence, and robotics. This shift reflects the growing influence of AI on academic priorities and may reduce the availability of human language skills in the workforce, while boosting AI talent cultivation. The article reports a trend across Chinese universities, but does not list specific institutions or number of programs affected. Embodied intelligence, a new field combining AI with physical robotics, is among the new degrees being added.
-
-rss · Rest of World · Jun 22, 10:00
-
-**Background**: Chinese universities are reallocating resources from traditional humanities to emerging technology fields, driven by government priorities and industry demand. Embodied intelligence focuses on AI systems that interact with the physical world through sensors and actuators, as opposed to purely software-based AI.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Embodied_intelligence">Embodied intelligence</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#education`, `#policy`, `#society`, `#technology trends`
-
----
-
-<a id="item-34"></a>
-## [South Korea's AI chip boom risks inequality](https://www.scmp.com/week-asia/economics/article/3357950/why-south-koreas-ai-chip-boom-serious-concern-its-economy?utm_source=rss_feed) ⭐️ 6.0/10
-
-South Korea's AI-driven semiconductor boom has driven exports, corporate profits, and stock prices to record highs, but senior policymaker Kim Yong-beom warns it could fuel property speculation and deepen inequality. If the gains from the AI chip boom remain narrowly concentrated, it could exacerbate economic inequality and destabilize the property market, posing a systemic risk to South Korea's economy despite the apparent success. The warning comes from Kim Yong-beom, chief of the Presidential Policy Office, who expressed mixed feelings about the export-driven growth, noting that the benefits are not widely shared.
-
-rss · SCMP · Jun 23, 00:00
-
-**Background**: South Korea is a global leader in semiconductor manufacturing, particularly memory chips used in AI systems. The recent AI boom has massively increased demand for these chips, boosting the country's economy. However, such growth can lead to asset inflation and income disparity if the wealth generated is not distributed evenly.
-
-**Tags**: `#AI`, `#semiconductors`, `#South Korea`, `#economy`
-
----
-
-<a id="item-35"></a>
-## [China's rare earth export curbs test US-China truce](https://www.scmp.com/news/china/diplomacy/article/3357974/us-china-rare-earth-clash-20-fragile-truce-tested-tit-tat-moves-return?utm_source=rss_feed) ⭐️ 6.0/10
-
-China imposed export controls on 10 US entities, including MP Materials and USA Rare Earth, escalating rare earth tensions despite a fragile truce reached in October. This move threatens global rare earth supply chains, which are critical for high-tech manufacturing and defense industries, and could disrupt the recent US-China trade détente. The restrictions target US national giants MP Materials and USA Rare Earth, marking one of the most significant escalations since the October Busan truce.
-
-rss · SCMP · Jun 22, 20:42
-
-**Background**: Rare earth elements are essential for manufacturing electronics, magnets, and military equipment. China dominates global rare earth production and processing, giving it leverage in geopolitical disputes. The current controls respond to the Pentagon designating Chinese firms as military-linked.
-
-**Tags**: `#geopolitics`, `#rare earth`, `#supply chain`, `#trade war`, `#tech manufacturing`
-
----
-
-<a id="item-36"></a>
-## [Singaporean man traumatized by AI deepfake family photos](https://www.scmp.com/week-asia/people/article/3357916/singaporean-man-traumatised-over-ex-schoolmates-ai-photos-them-family?utm_source=rss_feed) ⭐️ 6.0/10
-
-A Singaporean man was traumatized after discovering that an ex-schoolmate used AI to generate deepfake photos portraying them as a married couple with a child, without his consent. This incident highlights the growing ethical risks of generative AI, particularly the misuse of deepfakes for non-consensual and emotionally harmful content, raising urgent questions about privacy, consent, and regulation. The victim was alerted by a friend in December 2024 and did not know about the images until then; the photos included fake dating, pregnancy, and newborn pictures that were entirely AI-generated and depicted a non-existent family.
-
-rss · SCMP · Jun 22, 08:36
-
-**Background**: Deepfakes are synthetic media created using deep learning techniques such as Generative Adversarial Networks (GANs) or autoencoders, which can realistically swap faces or generate lifelike images. While the technology has creative applications, its misuse for non-consensual pornography, fraud, and harassment has raised serious concerns. In this case, the victim is seeking legal recourse, highlighting the lack of specific laws against deepfake creation in Singapore.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Deepfake">Deepfake - Wikipedia</a></li>
-<li><a href="https://www.ibm.com/think/topics/generative-adversarial-networks">What are Generative Adversarial Networks (GANs)? | IBM</a></li>
-<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained">Deepfakes, explained | MIT Sloan</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI ethics`, `#deepfakes`, `#privacy`, `#social impact`
-
----
-
-<a id="item-37"></a>
-## [House Democrats and GOP Reach Deal on Kids Online Safety Bill](https://www.reddit.com/r/technology/comments/1ucou15/kids_online_safety_bill_deal_reached_by_house/) ⭐️ 6.0/10
-
-House Democrats and Republicans have reached a bipartisan deal on the Kids Online Safety Act (KOSA), a bill that would require online platforms to take steps to protect minors from harmful content and addictive design features. If enacted, KOSA would impose significant compliance requirements on tech platforms, potentially altering how they design products for minors. It represents a major step in U.S. federal online safety regulation. The bill defines a child as an individual under age 13 and applies to online platforms likely to be used by minors. It had been introduced in previous Congresses but not enacted; this deal signals renewed momentum.
-
-reddit · r/technology · /u/Anoth3rDude · Jun 22, 16:07
-
-**Background**: The Kids Online Safety Act (KOSA) is a bipartisan federal bill aimed at protecting minors online. It requires platforms to implement design safeguards and transparency measures. Similar laws have been debated in state legislatures and in the EU, but federal action in the U.S. has been slow.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.govtrack.us/congress/bills/118/hr7891/text/ih">Text of H.R. 7891 (118th): Kids Online Safety Act (Introduced ...</a></li>
-<li><a href="https://www.congress.gov/bill/119th-congress/senate-bill/1748/text">Congress.gov A BILL What Is KOSA? The Kids Online Safety Act Explained Text of S. 1409 (118th): Kids Online Safety Act (Reported by ... H.R. 7891 (IH) - Kids Online Safety Act - Content Details - Bill Text: US SB1748 | 2025-2026 | 119th Congress - LegiScan</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#tech policy`, `#online safety`, `#legislation`, `#privacy`
+**Tags**: `#AI`, `#geopolitics`, `#China`, `#US restrictions`, `#technology policy`
 
 ---
