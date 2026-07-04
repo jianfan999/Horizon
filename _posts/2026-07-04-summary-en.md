@@ -5,249 +5,111 @@ date: 2026-07-04
 lang: en
 ---
 
-> From 125 items, 20 important content pieces were selected
+> From 133 items, 23 important content pieces were selected
 
 ---
 
-1. [Politician investigating spyware hacked with Pegasus](#item-1) ⭐️ 9.0/10
-2. [Costco as the Anti-Amazon: Warehouse vs Delivery](#item-2) ⭐️ 8.0/10
-3. [SearXNG: A Free Privacy-Focused Metasearch Engine](#item-3) ⭐️ 7.0/10
-4. [Jamesob's guide to running SOTA LLMs locally](#item-4) ⭐️ 7.0/10
-5. [Factories are just rooms](#item-5) ⭐️ 7.0/10
-6. [SiliconFlow Files for HK IPO with Negative Gross Margin](#item-6) ⭐️ 7.0/10
-7. [Shengshu Tech Releases Vidu S1 Real-Time Interactive Model](#item-7) ⭐️ 7.0/10
-8. [Peng Ding Holdings Plans $1.35B Raise for AI Server and Optical Module PCBs](#item-8) ⭐️ 7.0/10
-9. [South Korea Plans 'Korean Starlink' by 2035, Moon Landing by 2030](#item-9) ⭐️ 7.0/10
-10. [ByteDance discovers new scaling law for AI agents](#item-10) ⭐️ 7.0/10
-11. [Alibaba bans Claude Code over spyware risks](#item-11) ⭐️ 7.0/10
-12. [China's satellite engine sets record, surpasses US rival](#item-12) ⭐️ 7.0/10
-13. [UN official warns of machine warfare, urges US-China dialogue on military AI](#item-13) ⭐️ 7.0/10
-14. [BYD overtakes Tesla to reclaim global EV crown](#item-14) ⭐️ 7.0/10
-15. [Li Auto restructures to cut layers, merging product definition into R&D](#item-15) ⭐️ 6.0/10
-16. [Qihang Hydrogen Energy Raises Funding for Electric-Hydrogen Coupling](#item-16) ⭐️ 6.0/10
-17. [Kleiner Perkins Partner on AI Investing and Lessons from Slack, Figma](#item-17) ⭐️ 6.0/10
-18. [AI skills needed for 4 in 10 graduate jobs in China](#item-18) ⭐️ 6.0/10
-19. [Experts urge fines for Hong Kong data breaches](#item-19) ⭐️ 6.0/10
-20. [Hong Kong employee training hits 14-year high amid AI push](#item-20) ⭐️ 6.0/10
+1. [World's First Neuromorphic Dynamic Chip Achieves 478x GPU Speedup](#item-1) ⭐️ 9.0/10
+2. [Anna's Archive offers $200k bounty for all Google Books scans](#item-2) ⭐️ 8.0/10
+3. [Prompt Injection Leaks YouTube Creators' Private Videos](#item-3) ⭐️ 8.0/10
+4. [Potential Session Leakage in Claude Code Under Investigation](#item-4) ⭐️ 8.0/10
+5. [Zig Moves Package Management from Compiler to Build System](#item-5) ⭐️ 8.0/10
+6. [Huawei's He Tingbo Publishes V2 of 'Tao's Law' Paper](#item-6) ⭐️ 8.0/10
+7. [Yaghi leaves US to lead AI materials center at Tsinghua](#item-7) ⭐️ 8.0/10
+8. [C&C Generals Natively Ported to Apple Devices via Fable](#item-8) ⭐️ 7.0/10
+9. [GPT-5.5 Codex Quality Regression Linked to Reasoning-Token Clustering](#item-9) ⭐️ 7.0/10
+10. [JWST's 'Little Red Dots' Puzzle Astrophysicists](#item-10) ⭐️ 7.0/10
+11. [Alibaba bans Claude Code; Microsoft forms $2.5B AI company](#item-11) ⭐️ 7.0/10
+12. [Changguang Satellite completes nearly 5B yuan equity financing](#item-12) ⭐️ 7.0/10
+13. [Indian Government Probes Data Breach at Apple Supplier Tata Electronics](#item-13) ⭐️ 7.0/10
+14. [Samsung Foundry Begins Allocation for Advanced Nodes Due to AI Demand](#item-14) ⭐️ 7.0/10
+15. [China's port influence in Africa extends to software, AI: study](#item-15) ⭐️ 7.0/10
+16. [Deep Dive into htop and top on Linux](#item-16) ⭐️ 6.0/10
+17. [Verizon App Migration Threatens Gizmo Watch Users](#item-17) ⭐️ 6.0/10
+18. [How Aoshuai Exoskeletons Redefine Human-Machine Relations](#item-18) ⭐️ 6.0/10
+19. [Cambridge startup secures $14M for silicon photonics spectrometers](#item-19) ⭐️ 6.0/10
+20. [Embodied AI startup Guangxiang raises hundreds of millions in angel funding](#item-20) ⭐️ 6.0/10
+21. [Qianwen Agent Platform to Shut Down on July 15, 2026](#item-21) ⭐️ 6.0/10
+22. [Midjourney Seeks Hollywood AI Disclosure in Lawsuit](#item-22) ⭐️ 6.0/10
+23. [Mistral AI: The Open-Source Challenger to OpenAI](#item-23) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Politician investigating spyware hacked with Pegasus](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/) ⭐️ 9.0/10
+## [World's First Neuromorphic Dynamic Chip Achieves 478x GPU Speedup](https://36kr.com/newsflashes/3880779651248391?f=rss) ⭐️ 9.0/10
 
-A European politician serving on an EU committee investigating spyware abuses had his iPhone infected with NSO Group's Pegasus spyware in October 2022 and March 2023, according to a forensic analysis by Citizen Lab. This incident demonstrates that even those tasked with investigating spyware are not immune to surveillance, raising serious concerns about the unchecked power of government surveillance and the ethical implications of commercial spyware. The infections were detected by Citizen Lab, which found evidence linking the first infection to a Pegasus campaign targeting Russian- and Belarusian-speaking exiled journalists in Europe. The politician's phone contained both confidential medical information and government documents.
+Researchers from Peking University and the Chinese Academy of Sciences have developed the world's first neuromorphic dynamic system chip based on phase-change memristors, reducing single-step delay to 2.12 milliseconds and achieving up to 478× speedup over GPUs in cortical reconstruction tasks. This breakthrough overcomes a half-century-old real-time computing bottleneck in neural dynamics, enabling unprecedented speed for brain simulation, brain-computer interfaces, and potential diagnostics for neurodegenerative diseases like Alzheimer's. The chip leverages the natural conductance drift of phase-change memristors as a functional feature rather than a limitation, and was validated in a peer-reviewed study published in Science on March 3, 2025.
 
-rss · TechCrunch · Jul 3, 05:05
+rss · 36氪 · Jul 4, 05:20
 
-**Background**: Pegasus is spyware developed by Israeli company NSO Group, marketed for crime and terrorism prevention but widely used to target journalists, activists, and politicians. The sale of Pegasus requires approval from the Israeli Ministry of Defense. It can be installed remotely via zero-click exploits and can access messages, calls, passwords, and device sensors.
+**Background**: Neuromorphic computing mimics the brain's structure and function using artificial neurons. Phase-change memristors are non-volatile memory devices that change resistance via phase transitions, and their inherent drift can be exploited for analog computation. Neural dynamics involves modeling brain activity over time, which is computationally intensive on conventional hardware.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Pegasus_(spyware)">Pegasus (spyware)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/NSO_Group">NSO Group</a></li>
+<li><a href="https://www.science.org/doi/10.1126/science.aee6277">A sub-10-millisecond neural dynamical system based on phase-change ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Phase-change_memory">Phase-change memory - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neuromorphic_computing">Neuromorphic computing</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters noted that the infection timeline overlaps with a known Pegasus campaign in Europe, and some pointed out that Greece and Poland have been implicated in spyware abuse. Others questioned why the politician used a single device for both personal and government work, highlighting poor security practices.
-
-**Tags**: `#cybersecurity`, `#Pegasus`, `#NSO Group`, `#surveillance`, `#privacy`
+**Tags**: `#neuromorphic computing`, `#memristor`, `#brain-computer interface`, `#hardware`, `#AI chip`
 
 ---
 
 <a id="item-2"></a>
-## [Costco as the Anti-Amazon: Warehouse vs Delivery](https://phenomenalworld.org/analysis/the-anti-amazon/) ⭐️ 8.0/10
+## [Anna's Archive offers $200k bounty for all Google Books scans](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234) ⭐️ 8.0/10
 
-A new analysis article contrasts Costco's warehouse club model with Amazon's home delivery model, highlighting the logistical and societal trade-offs between bulk store purchases and single-item door delivery. This comparison challenges the dominance of on-demand delivery by re-evaluating the hidden costs of last-mile logistics, such as increased vehicle trips and packaging waste, and raises questions about the social value of extreme convenience. The article notes that Costco deliberately avoids the last-mile shipping problem by having customers transport goods themselves, while Amazon relies on a complex delivery network for individual packages. This difference leads to entirely different cost structures and environmental impacts.
+Anna's Archive, a shadow library metasearch engine, has announced a $200,000 bounty for a complete set of all Google Books digitized scans, aiming to preserve and provide open access to the collection. This bounty could dramatically accelerate the archiving of a vast trove of digitized books, potentially reshaping access to knowledge and sparking intense copyright debates. It highlights the ongoing tension between open access advocates and copyright holders. The bounty is for the entire corpus of Google Books scans, which includes millions of books digitized from library collections. Anna's Archive operates as a non-profit project focused on preservation and access, and it emerged from the Pirate Library Mirror project.
 
-hackernews · bookofjoe · Jul 3, 15:14 · [Discussion](https://news.ycombinator.com/item?id=48776044)
+hackernews · Cider9986 · Jul 4, 16:51 · [Discussion](https://news.ycombinator.com/item?id=48786838)
 
-**Background**: Costco operates as a membership-only warehouse club where customers buy in bulk at low prices and transport items home themselves. Amazon, on the other hand, offers vast product selection with rapid home delivery, often of single items. The article argues that the convenience of home delivery comes with hidden logistical complexity and social costs.
+**Background**: Anna's Archive is an anonymous shadow library metasearch engine that provides access to book resources via IPFS, launched in response to law enforcement actions against similar projects. Google Books is a long-running initiative to digitize books from major libraries, but access is often restricted by copyright. The $200k bounty reflects the high value placed on this data by open access advocates.
 
-**Discussion**: Comments offer diverse perspectives: some compare the environmental efficiency of a single delivery truck vs individual car trips; others praise Costco's avoidance of the last-mile problem as wise engineering. One commenter notes that in the UK, Costco membership is technically restricted to businesses and certain professions. The discussion is largely US-centric but includes international viewpoints.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Anna's_Archive">Anna's Archive - Wikipedia</a></li>
+<li><a href="https://monoskop.org/Anna's_Archive">Anna's Archive - Monoskop</a></li>
 
-**Tags**: `#retail`, `#logistics`, `#Amazon`, `#Costco`, `#engineering philosophy`
+</ul>
+</details>
+
+**Discussion**: Community members expressed gratitude for Anna's Archive's role in providing access to books in regions with limited availability, with one user noting it shaped their love of learning. Others shared related projects like SourceLibrary.org, while a commenter wondered about future bounties for internet scrapes due to Cloudflare restrictions.
+
+**Tags**: `#open access`, `#digital preservation`, `#books`, `#bounty`, `#copyright`
 
 ---
 
 <a id="item-3"></a>
-## [SearXNG: A Free Privacy-Focused Metasearch Engine](https://github.com/searxng/searxng) ⭐️ 7.0/10
+## [Prompt Injection Leaks YouTube Creators' Private Videos](https://javoriuski.com/post/youtube) ⭐️ 8.0/10
 
-SearXNG is a free and open-source metasearch engine that aggregates results from multiple search services and databases while ensuring users are neither tracked nor profiled. It has gained significant attention as a self-hostable alternative for privacy-conscious users and as a backend for AI agents. SearXNG provides a practical solution for users seeking to reduce dependency on single search engines and improve privacy by distributing queries across multiple providers. It also enables integration with local AI models and RAG applications, extending its utility beyond simple web search. It is a fork of the discontinued Searx project and supports JSON output for programmatic use, making it suitable for integration with tools like TinySearch and YaCY. Users may experience slower results and occasional CAPTCHAs from certain backends like DuckDuckGo.
+A security researcher discovered that a prompt injection attack on YouTube's AI-powered comment suggestion feature can trick the model into revealing the URLs of creators' unlisted or private videos. This vulnerability threatens the privacy of YouTube creators, as attackers could expose content that was meant to be hidden. It also highlights the growing security risks of integrating large language models into widely-used platforms without robust safeguards against prompt injection. The attack works by an attacker leaving a crafted comment on a creator's video; when the creator uses YouTube Studio's comment tab and clicks a suggested AI prompt, the injection fires and attacker-controlled content appears in the response. A former Google employee noted that internal classification of such bugs is complex, potentially delaying fixes.
 
-hackernews · theanonymousone · Jul 3, 20:15 · [Discussion](https://news.ycombinator.com/item?id=48779454)
+hackernews · javxfps · Jul 4, 16:45 · [Discussion](https://news.ycombinator.com/item?id=48786781)
 
-**Background**: A metasearch engine acts as an aggregator, sending a single query to multiple underlying search engines (like Google, Bing, DuckDuckGo) and combining their results. Unlike traditional search engines, metasearch engines typically do not maintain their own index or collect user data, offering enhanced privacy. SearXNG is server-side software that can be hosted on a local network or public instance, giving users full control over their search data.
+**Background**: Prompt injection is a cybersecurity exploit where malicious inputs cause large language models (LLMs) to behave unexpectedly, bypassing intended safeguards. In this case, the LLM used for summarizing YouTube comments is manipulated to include forbidden information, such as video URLs, in its output. The attack exploits the model's inability to distinguish between system instructions and user-provided content.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/SearXNG">SearXNG - Wikipedia</a></li>
-<li><a href="https://github.com/searxng/searxng">GitHub - searxng/searxng: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. · GitHub</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Metasearch_engine">Metasearch engine</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prompt_injection_attack">Prompt injection attack</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community shows mixed sentiment: asciimoo, the original Searx creator, points out limitations of the metasearch concept and promotes his new project Hister—a full-text indexer. Others comment on privacy trade-offs (sending queries to many engines) and practical issues like speed and CAPTCHAs. Several users highlight its usefulness as a search backend for local AI agents and RAG applications.
+**Discussion**: Community commenters expressed concern about YouTube's handling of the bug, with one former Google employee explaining internal prioritization challenges. Another commenter attempted to reproduce the attack but noted it didn't work for them with limited setup, while others praised the article's clear presentation. The overall sentiment suggests the vulnerability is real but requires specific conditions to exploit.
 
-**Tags**: `#metasearch`, `#privacy`, `#open-source`, `#search-engine`
+**Tags**: `#security`, `#youtube`, `#prompt-injection`, `#vulnerability`
 
 ---
 
 <a id="item-4"></a>
-## [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) ⭐️ 7.0/10
+## [Potential Session Leakage in Claude Code Under Investigation](https://github.com/anthropics/claude-code/issues/74066) ⭐️ 8.0/10
 
-Jamesob published a comprehensive guide on running state-of-the-art large language models (LLMs) locally, detailing build configurations ranging from $3,000 to $40,000 and beyond. This guide is valuable for enthusiasts and developers seeking to run LLMs privately without cloud reliance, but the high costs and quantization trade-offs revealed in community discussion underscore that local setups remain impractical for most users compared to cloud subscription services. The flagship ~$40K build includes four $12K GPUs, but commenters note the actual cost is more like $50-55K, and running models like 'almost Opus' may require $400K in H200s; alternatives like 2x RTX 3090s ($3K) or Apple M5 Max with 48GB unified memory ($3K) can run capable quantized models.
+A GitHub report (#74066) alleges potential session or cache leakage between Claude Code workspace instances or consumer accounts. The Claude Code team is investigating but currently believes it is likely a hallucination. If real, this could lead to serious security breaches in LLM-powered applications, exposing user data across sessions. The incident also highlights the challenge of distinguishing between hallucinations and actual infrastructure bugs in AI systems. The report has high community engagement (265 points, 125 comments) with both skeptical and corroborating voices. An official response from Claude Code team member Thariq states they are confident it is a hallucination but take reports seriously and are investigating.
 
-hackernews · livestyle · Jul 3, 15:03 · [Discussion](https://news.ycombinator.com/item?id=48775921)
+hackernews · chatmasta · Jul 4, 14:03 · [Discussion](https://news.ycombinator.com/item?id=48785485)
 
-**Background**: Local LLM inference requires significant GPU VRAM to store model weights and handle context. Quantization techniques reduce model memory footprint by converting 32-bit parameters to 8-bit or 4-bit integers, enabling larger models to fit on consumer hardware with minor quality loss. The guide and comments explore trade-offs between cost, quality, and hardware complexity.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://medium.com/@nageshchauhanc4/quantization-in-large-language-models-llms-8850b0b0395a">Quantization in Large Language Models (LLMs) | Medium</a></li>
-<li><a href="https://overchat.ai/ai-hub/llm-hardware-requirements">Local LLM Hardware Requirements in 2026 | AI Hub</a></li>
-<li><a href="https://llm-stats.com/blog/research/hardware-requirements-running-llms-locally">How to Calculate Hardware Requirements for Running LLMs Locally</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters express caution: Aurornis warns about hidden costs and reliance on quantization; GTP suggests 128GB unified memory setups as a mid-range compromise; jacobgold calculates $40K equals 16.8 years of Claude Opus subscription, calling local models wildly expensive and possibly dangerous; datadrivenangel recommends cloud hosting over expensive builds.
-
-**Tags**: `#local-llm`, `#hardware`, `#cost`, `#quantization`, `#alternatives`
-
----
-
-<a id="item-5"></a>
-## [Factories are just rooms](https://interconnected.org/home/2026/07/03/factories) ⭐️ 7.0/10
-
-The article reflects on the idea that factories can be simple, room-like spaces, sharing personal anecdotes about hands-on manufacturing. It challenges the assumption that manufacturing requires large-scale infrastructure, potentially inspiring more individuals to engage in small-scale production. The post received high engagement with 178 points and 73 comments, indicating strong community interest in the topic.
-
-hackernews · arbesman · Jul 3, 15:13 · [Discussion](https://news.ycombinator.com/item?id=48776035)
-
-**Background**: The maker movement and hacker culture have long promoted the idea that individuals can create physical goods in small workshops, echoing the 'factory as a room' concept discussed in the article.
-
-**Discussion**: Commenters shared mixed experiences: some found joy in small-scale manufacturing, while others noted business sustainability challenges (e.g., rm445's company struggled to win consistent business).
-
-**Tags**: `#manufacturing`, `#entrepreneurship`, `#hacker-culture`, `#discussion`
-
----
-
-<a id="item-6"></a>
-## [SiliconFlow Files for HK IPO with Negative Gross Margin](https://36kr.com/p/3879814941437956?f=rss) ⭐️ 7.0/10
-
-SiliconFlow, a Chinese AI token supply platform founded in August 2023, filed for an IPO on the Hong Kong Stock Exchange under Chapter 18C for pre-commercial companies. Despite rapid user growth reaching over 10 million registered users, its gross margin turned negative at -24% in 2025, meaning it costs 1.24 yuan to generate 1 yuan of token revenue. As the largest independent token supplier in China by 2025 throughput, SiliconFlow's IPO reveals the intense price war and profitability challenges in AI inference infrastructure. Its negative gross margin highlights the difficulty of monetizing rapidly growing token traffic, which could influence investor sentiment toward AI infrastructure startups. In 2025, SiliconFlow's revenue was 55.33 million yuan while cost of sales was 68.63 million yuan, resulting in a gross loss of 13.30 million yuan. Computing resource rental accounted for 86.9% of sales costs, and R&D expenses were 209 million yuan, or 378% of revenue.
-
-rss · 36氪 · Jul 3, 11:12
-
-**Background**: SiliconFlow operates as an AI inference infrastructure company that aggregates heterogeneous computing resources (NVIDIA, AMD, Huawei Ascend, etc.) and supplies standardized token services via a self-built inference engine and orchestration system. The Hong Kong Stock Exchange's Chapter 18C listing rules, introduced in 2023, provide a pathway for specialist technology companies that may not yet meet traditional financial eligibility tests, allowing pre-commercial firms to list.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://app.dealroom.co/news/note/siliconflow-raises-2b-yuan-series-b-for-its-ai-token-factory">SiliconFlow raises 2B+ yuan Series B for its AI 'token factory' | Dealroom.co</a></li>
-<li><a href="https://www.hkex.com.hk/Listing/Rules-and-Resources/Guidance/IPO/Listing-of-Specialist-Technology-Companies?sc_lang=en">Listing of Specialist Technology Companies - HKEX</a></li>
-<li><a href="https://www.hkexgroup.com/Media-Centre/Insight/Insight/2026/HKEX-Insight/18C-Explained?sc_lang=en">18C, Explained - hkexgroup.com</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#IPO`, `#token supply`, `#startup`, `#SiliconFlow`
-
----
-
-<a id="item-7"></a>
-## [Shengshu Tech Releases Vidu S1 Real-Time Interactive Model](https://36kr.com/newsflashes/3879857819201798?f=rss) ⭐️ 7.0/10
-
-Shengshu Technology has officially released the Vidu S1 real-time interactive model, enabling live video calls and voice-controlled video generation. Users can quickly create personalized interactive characters based on real humans, anime, and other initial images. This marks a significant step toward real-time interactive video generation, moving beyond static or pre-rendered AI video. It could revolutionize applications in virtual avatars, customer service, and entertainment by allowing natural conversational interaction. Vidu S1 supports 540P (960x540) resolution at 25 FPS (up to 42 FPS), and uses an autoregressive diffusion model (AR + Diffusion) to continuously predict and generate video content based on historical frames and voice commands. It also supports personalized voice cloning for consistent character identity.
-
-rss · 36氪 · Jul 3, 11:55
-
-**Background**: Traditional video generation models like Sora or Runway produce short clips offline with no user interaction during generation. Vidu S1 breaks this paradigm by enabling real-time, interactive video generation where the model responds to voice commands and can generate infinite-length continuous streams. Shengshu Technology is a Chinese AI startup focused on multimodal generative models, and Vidu is their video generation series.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.163.com/dy/article/L0UPP1210511AQHO.html">刚刚，Vidu S1 重磅来袭，视频生成迈入实时交互时代！|全模态|vidu_网易订阅</a></li>
-<li><a href="https://www.163.com/dy/article/L0URU4RA05118HA4.html">生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代|大模型|vidu_网易订阅</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI视频生成`, `#实时交互`, `#多模态`, `#生数科技`
-
----
-
-<a id="item-8"></a>
-## [Peng Ding Holdings Plans $1.35B Raise for AI Server and Optical Module PCBs](https://36kr.com/newsflashes/3879823039901697?f=rss) ⭐️ 7.0/10
-
-Peng Ding Holdings (鹏鼎控股) announced a private placement to raise up to 9.6 billion yuan (approximately $1.35 billion) for its Qing Ding AI server and high-speed optical module high-density interconnect (HDI) build-up board project. This significant investment highlights the growing demand for advanced PCB substrates critical for AI servers and high-speed optical communication, reflecting the industry's shift toward high-performance computing and data transmission infrastructure. The funds will be used specifically for the Qing Ding project, which focuses on HDI build-up boards—a key technology enabling miniaturization and high-speed signal integrity in AI servers and 800G/1.6T optical modules.
-
-rss · 36氪 · Jul 3, 11:20
-
-**Background**: High-Density Interconnect (HDI) PCBs use finer lines and spaces, smaller vias, and sequential lamination to pack more circuitry into a smaller footprint. HDI build-up boards are essential for AI servers that require high-speed data processing and for high-speed optical modules used in data centers. As AI and cloud computing drive demand for faster, denser interconnects, PCB manufacturers like Peng Ding are scaling up advanced substrate production.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.pcbonline.com/blog/high-density-interconnect-pcb-for-ai-high-speed.html">High - Density Interconnect PCB for AI, High -Speed Network, etc.</a></li>
-<li><a href="https://www.linkedin.com/pulse/high-density-interconnect-hdi-printed-circuit-boards-antti-rayming-mamwc">High - Density Interconnect ( HDI ) Printed Circuit Boards</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI servers`, `#optical modules`, `#PCB`, `#semiconductor`, `#fundraising`
-
----
-
-<a id="item-9"></a>
-## [South Korea Plans 'Korean Starlink' by 2035, Moon Landing by 2030](https://36kr.com/newsflashes/3879815486025993?f=rss) ⭐️ 7.0/10
-
-South Korea announced plans to build a low-Earth orbit satellite communication network consisting of hundreds of satellites by 2035, and to advance its lunar landing target from 2032 to 2030. This initiative aims to enhance South Korea's national security and communication sovereignty while supporting the 6G era, positioning the country as a competitive player in global space technology. The low-orbit satellite network is considered core infrastructure for national security and the 6G era, and will also boost South Korea's satellite and launch vehicle development capabilities.
-
-rss · 36氪 · Jul 3, 11:12
-
-**Background**: South Korea established the Korea AeroSpace Administration (KASA) on May 27, 2024, to lead space policy and foster a private-sector-driven space industry. The country has been accelerating its space ambitions, including previous plans for a moon landing by 2032 and a Mars mission by 2045. Low-Earth orbit satellite constellations, like SpaceX's Starlink, are already commercially deployed for global broadband, and South Korea aims to create its own version to ensure independent communication infrastructure.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://readhub.cn/topic/8ZvVm4MoK42">韩 国 宇 宙 航 空 厅 正式成立 将打造以民间为主的太 空 产业生态圈</a></li>
-<li><a href="https://www.163.com/dy/article/J3SBNP9V05566R1T.html">163.com/dy/article/J3SBNP9V05566R1T.html</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#satellite communication`, `#6G`, `#space technology`, `#South Korea`, `#low-earth orbit`
-
----
-
-<a id="item-10"></a>
-## [ByteDance discovers new scaling law for AI agents](https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom?utm_source=rss_feed) ⭐️ 7.0/10
-
-ByteDance's Seed AI team published a paper revealing a new scaling law for AI agents, showing they can double their learning speed every three months through real-world task interaction. This discovery could sustain AI progress as traditional scaling laws based on model size and data are hitting limits, offering a new direction for continued improvement in AI capabilities. The scaling law was derived using a new benchmark called EdgeBench, which includes 134 tasks lasting 12 to 72 hours, with over 38,000 hours of agent runtime logged across five frontier models.
-
-rss · SCMP · Jul 3, 22:00
-
-**Background**: Scaling laws in AI are empirical rules that predict how model performance improves with increased compute, data, or parameters. OpenAI's 2020 scaling law showed that larger models consistently perform better. ByteDance's new law applies to AI agents, which are autonomous systems that perform tasks on behalf of humans, and focuses on learning from interaction rather than static training.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom">China’s ByteDance discovers new scaling law that could sustain AI ...</a></li>
-<li><a href="https://researchaudio.io/p/test-time-compute-as-a-scaling-dimension">Test-time compute as a scaling dimension</a></li>
-<li><a href="https://digg.com/tech/7gby8q0r">ByteDance - Seed releases EdgeBench, showing AI agent ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#scaling laws`, `#ByteDance`, `#AI agents`
-
----
-
-<a id="item-11"></a>
-## [Alibaba bans Claude Code over spyware risks](https://www.scmp.com/tech/big-tech/article/3359375/alibaba-bans-staff-using-claude-code-over-anthropic-spyware-concerns?utm_source=rss_feed) ⭐️ 7.0/10
-
-Alibaba Group has banned its employees from using Anthropic's Claude Code for work, citing security risks related to hidden code that tracks users. This policy decision highlights growing security concerns in AI tool adoption by large enterprises, potentially influencing industry-wide usage restrictions. Claude Code was added to Alibaba's list of high-risk software after being discovered to carry backdoor vulnerabilities. The ban follows Anthropic's alleged prior use of hidden code to track Chinese users.
-
-rss · SCMP · Jul 3, 14:15
-
-**Background**: Claude Code is an AI coding agent developed by Anthropic that reads codebases, edits files, and runs commands in terminals and IDEs. The tool has faced scrutiny after allegations that its code included hidden tracking features targeting Chinese users, which raised concerns about backdoor risks and data privacy.
+**Background**: Claude Code is an AI coding agent by Anthropic that can read codebases, edit files, and run commands. Large language models like Claude are known to produce hallucinations—plausible but incorrect outputs. The reported behavior could stem from a hallucination or from a real caching/routing bug, which is hard to distinguish externally.
 
 <details><summary>References</summary>
 <ul>
@@ -257,166 +119,384 @@ rss · SCMP · Jul 3, 14:15
 </ul>
 </details>
 
-**Tags**: `#AI`, `#security`, `#corporate policy`, `#Anthropic`, `#Claude`
+**Discussion**: Community sentiment is mixed: many users lean toward it being a hallucination, noting that even leading LLMs produce such errors. Some users share anecdotal evidence of similar cross-session leaks with other providers, including a postmortem about an API gateway bug. The official response is seen as reassuring but careful.
+
+**Tags**: `#security`, `#hallucination`, `#claude`, `#session-leakage`, `#LLM`
+
+---
+
+<a id="item-5"></a>
+## [Zig Moves Package Management from Compiler to Build System](https://ziglang.org/devlog/2026/#2026-06-30) ⭐️ 8.0/10
+
+Zig has relocated all package management functionality from the compiler into the build system, achieving a clean separation of concerns as announced on June 30, 2026. This architectural decision improves maintainability and allows the compiler to focus solely on compilation, while the build system handles dependencies and package resolution, which could influence other language ecosystems. The move means that package management commands and dependency fetching are now part of the build system, which may eventually run inside a WebAssembly VM as a long-term goal.
+
+hackernews · tosh · Jul 4, 16:30 · [Discussion](https://news.ycombinator.com/item?id=48786638)
+
+**Background**: Zig is a systems programming language that emphasizes simplicity and control. Traditionally, compilers often integrate package management, but this blurs the lines between compilation and dependency resolution. Separating these concerns allows each component to evolve independently. The Zig build system already supports cross-compilation and caching, and now it also handles package management.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ziglang.org/learn/build-system/">Zig Build System ⚡ Zig Programming Language</a></li>
+<li><a href="https://ziglang.org/learn/overview/">Overview ⚡ Zig Programming Language</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community praised the move, with vitaminCPP noting a long-term goal of moving the build system into a WebAssembly VM. malkia expressed concern about language-specific package systems complicating multi-language projects. Overall sentiment is positive, seeing it as a well-reasoned separation of concerns.
+
+**Tags**: `#Zig`, `#package management`, `#build systems`, `#programming languages`, `#software architecture`
+
+---
+
+<a id="item-6"></a>
+## [Huawei's He Tingbo Publishes V2 of 'Tao's Law' Paper](https://36kr.com/newsflashes/3880931591254019?f=rss) ⭐️ 8.0/10
+
+On July 3, Huawei semiconductor chief He Tingbo released Version 2 of the 'Tao's Law' paper on ChinaXiv, adding engineering details, measured data, and a product roadmap to the theoretical framework introduced in May. This update provides concrete engineering validation for a post-Moore scaling theory that could help Huawei overcome EUV restrictions and continue advancing chip performance through 3D integration. V2 elaborates on the LogicFolding gear ratio concept, enabling unit-level continuous optimization when hybrid bonding pitch approaches top metal interconnect dimensions, and includes measured parameters for Kirin 2026 versus the baseline Kirin 9030 Pro.
+
+rss · 36氪 · Jul 4, 06:35
+
+**Background**: Moore's Law, the observation that transistor count doubles every two years, is slowing down due to physical and economic limits. 'Tao's Law' proposes a new scaling metric based on the time constant τ, shifting focus from transistor size to system-level speed. LogicFolding is a 3D chip architecture that stacks logic circuits to increase density and efficiency, with gear ratio defining the scaling between layers.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.tomshardware.com/tech-industry/semiconductors/huawei-claims-sanctions-busting-breakthrough-with-1-4nm-class-chips-by-2031-claims-55-percent-higher-transistor-density-firm-claims-new-logicfolding-chip-architecture-can-bypass-euv-restrictions-introduces-tau-scaling-law-to-replace-moores-law">Huawei claims sanctions-busting breakthrough with 1.4nm-class chips by 2031, claims 55% higher transistor density — firm claims new LogicFolding chip architecture can bypass EUV restrictions, introduces 'Tau Scaling Law' to replace Moore's Law | Tom's Hardware</a></li>
+<li><a href="https://www.globaltimes.cn/page/202605/1361994.shtml">The Tau Scaling Law comes out: Chinese innovation is rewriting the post-Moore era - Global Times</a></li>
+<li><a href="https://www.geopolitechs.org/p/version-2-of-huaweis-tao-law">Version 2 of Huawei’s "Tao Law" - Geopolitechs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductor`, `#scaling theory`, `#3D integration`, `#Huawei`, `#post-Moore`
+
+---
+
+<a id="item-7"></a>
+## [Yaghi leaves US to lead AI materials center at Tsinghua](https://www.scmp.com/news/china/science/article/3359430/nobel-prize-winning-materials-scientist-omar-yaghi-joins-tsinghua-university-us?utm_source=rss_feed) ⭐️ 8.0/10
+
+Omar Yaghi, the 2024 Nobel Prize in Chemistry winner, has left the United States to head a new AI-driven materials research center at Tsinghua University in China. This move highlights the shifting global science landscape and China's significant investment in AI for materials discovery, potentially accelerating the development of novel materials and altering the competitive balance between US and Chinese research institutions. Yaghi will lead a team focused on using AI to transform material design and synthesis, aiming to shorten development cycles by orders of magnitude, as announced at his appointment ceremony at Tsinghua University.
+
+rss · SCMP · Jul 4, 13:00
+
+**Background**: Omar Yaghi is a pioneer in metal-organic frameworks (MOFs) and covalent organic frameworks (COFs). His move reflects a broader trend of top scientists relocating to countries with robust research funding. AI-driven materials science leverages machine learning to predict material properties and accelerate discovery.
+
+**Tags**: `#AI-driven materials`, `#geopolitics of science`, `#Omar Yaghi`, `#Tsinghua University`, `#materials discovery`
+
+---
+
+<a id="item-8"></a>
+## [C&C Generals Natively Ported to Apple Devices via Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) ⭐️ 7.0/10
+
+Command and Conquer: Generals has been natively ported to macOS, iPhone, and iPad using the Fable project, based on EA's GPL v3 source release via the GeneralsX fork. This port extends a classic RTS to modern Apple platforms, demonstrating the potential of open-source game code and community-driven porting efforts. It also showcases AI-assisted conversion techniques. The port is built on fbraz3/GeneralsX, which did the heavy lifting for macOS/Linux; this fork adds iOS/iPadOS support and engine fixes. The project is licensed under GPL v3, and users must own the game via Steam to play.
+
+hackernews · asronline · Jul 4, 19:41 · [Discussion](https://news.ycombinator.com/item?id=48788283)
+
+**Background**: Command & Conquer: Generals is a real-time strategy game released in 2003 by Westwood Studios and now owned by Electronic Arts. In 2021, EA released the source code under GPL v3, enabling community ports. The Fable project provides tools to port games to Apple platforms, and GeneralsX was an earlier port for macOS/Linux.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Command_&_Conquer">Command & Conquer - Wikipedia</a></li>
+<li><a href="https://www.playgenerals.online/">GeneralsOnline - A Modern, re-implementation of C&C Generals Zero...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community generally welcomes the port, with some praising the AI-assisted conversion approach as a good use case, though others note the AI-generated documentation style is grating. There is curiosity about applying similar techniques to other games like Emperor: Battle for Dune.
+
+**Tags**: `#game porting`, `#open source`, `#C&C Generals`, `#macOS`, `#iOS`
+
+---
+
+<a id="item-9"></a>
+## [GPT-5.5 Codex Quality Regression Linked to Reasoning-Token Clustering](https://github.com/openai/codex/issues/30364) ⭐️ 7.0/10
+
+Users report degraded performance in GPT-5.5 Codex, with reasoning-token clustering observed at fixed intervals of 516, 1034, and 1552 tokens, potentially causing quality regression. This regression impacts developers relying on Codex for coding tasks, eroding trust and prompting users to switch to alternatives like Claude. It highlights challenges in optimizing reasoning token allocation for large language models. The clustering pattern is specific to GPT-5.5 and much weaker in other models; community reports indicate excessive token consumption compared to version 5.3. The issue appears related to batching reasoning inference in multiples of 512 tokens as a throughput optimization.
+
+hackernews · maille · Jul 4, 21:51 · [Discussion](https://news.ycombinator.com/item?id=48789428)
+
+**Background**: GPT-5.5 is OpenAI's frontier model designed for complex professional workloads, but this regression suggests a trade-off between throughput optimization and output quality. Reasoning-token clustering refers to output tokens being concentrated at specific counts, typically indicating batching or quantization artifacts in transformer models. The GitHub issue and Hacker News discussion have brought attention to the pattern.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/openai/codex/issues/30364">GPT-5.5 Codex reasoning - token clustering at 516/1034/1552 may be...</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48789428">GPT-5.5 Codex reasoning - token clustering may be... | Hacker News</a></li>
+<li><a href="https://openai.com/index/introducing-gpt-5-5/">Introducing GPT - 5 . 5 | OpenAI</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Multiple users corroborate the degradation, with one stating they switched to Claude after months of unresolved issues. Another noted that version 5.3 was more token-efficient, and a comment suggests batching reasoning inference in multiples of 512 tokens explains the clustering.
+
+**Tags**: `#GPT-5.5`, `#Codex`, `#performance regression`, `#AI coding`
+
+---
+
+<a id="item-10"></a>
+## [JWST's 'Little Red Dots' Puzzle Astrophysicists](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) ⭐️ 7.0/10
+
+The James Webb Space Telescope has discovered numerous 'little red dots' in deep field images that do not fit existing models, and may represent a new class of object: black hole stars, where a black hole is enveloped in thick gas emitting light like a stellar atmosphere. If confirmed, this would reveal a previously unknown phase of black hole growth and star formation in the early universe, challenging current theories of cosmic evolution and potentially rewriting textbooks. The little red dots are extremely compact, have high redshifts, and appear in the first few hundred million years after the Big Bang; one leading hypothesis is that they are black holes surrounded by gas so dense it initiates nuclear fusion, creating a 'quasi-star'.
+
+hackernews · jnord · Jul 4, 09:08 · [Discussion](https://news.ycombinator.com/item?id=48783948)
+
+**Background**: The James Webb Space Telescope (JWST) observes in infrared, allowing it to see the earliest galaxies. Since its launch, it has spotted many small, red objects that appear unexpectedly early. A quasi-star or black hole star is a theoretical object where a black hole is embedded in a massive envelope of gas that mimics a star.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.space.com/james-webb-space-telescope-little-red-dots-galaxies-black-hole-growth">James Webb Space Telescope sees little red dots feeding... | Space</a></li>
+<li><a href="https://news.colby.edu/story/webb-telescope-sharpens-understanding-little-red-dots/">Webb Telescope Sharpens Understanding of “ Little Red Dots ”</a></li>
+<li><a href="https://phys.org/news/2026-01-mystery-universe-red-dots.html">Researchers solve mystery of universe's ' little red dots '</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Comments highlight that some red dots may be accounted for by brown dwarfs, but a recent arXiv paper confirms that correction is already applied. Others express excitement about the 'black hole star' concept, calling it mind-blowing, while some debate whether existing books like Hawking's still hold up.
+
+**Tags**: `#astrophysics`, `#JWST`, `#black holes`, `#cosmology`, `#little red dots`
+
+---
+
+<a id="item-11"></a>
+## [Alibaba bans Claude Code; Microsoft forms $2.5B AI company](https://36kr.com/p/3880629882679301?f=rss) ⭐️ 7.0/10
+
+Alibaba has internally banned the use of Claude Code due to potential backdoor risks, effective July 10, and recommends Qoder as an alternative. Meanwhile, Microsoft announced the formation of Microsoft Frontier Company, a new AI deployment firm with a $2.5 billion investment and 6,000 employees. These moves highlight the growing security concerns around AI coding tools and the escalating investment race among tech giants to deploy enterprise AI. Alibaba's ban underscores the risk of supply chain attacks in AI-assisted development, while Microsoft's large-scale commitment signals a strategic push to dominate the AI deployment market. Claude Code is an agentic coding tool by Anthropic that edits files and runs commands in the terminal. Alibaba recommends its own Qoder (formerly Tongyi Lingma) as a replacement. Microsoft's new entity will integrate existing FDE engineers, technical consultants, and sales teams, and will offer AI technology selection and system integration services using both Microsoft and third-party models.
+
+rss · 36氪 · Jul 4, 01:03
+
+**Background**: Claude Code is an AI coding assistant developed by Anthropic that integrates into the terminal, IDE, and browser to help developers write and edit code. Alibaba's Qoder is a similar AI-powered coding tool built on a forked version of VS Code, offered via Alibaba Cloud. Microsoft Frontier Company, announced on July 2, 2026, is a dedicated AI deployment entity aimed at helping enterprise clients implement AI projects effectively, following similar moves by Amazon, OpenAI, and Anthropic.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://docs.anthropic.com/en/docs/claude-code/overview">Claude Code overview - Anthropic</a></li>
+<li><a href="https://www.alibabacloud.com/en/marketplace/qoder?_p_lc=1">Qoder for Enterprise - Alibaba Cloud</a></li>
+<li><a href="https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/">Microsoft launches its own AI deployment company ... | TechCrunch</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#cybersecurity`, `#Microsoft`, `#Alibaba`, `#tech industry`
 
 ---
 
 <a id="item-12"></a>
-## [China's satellite engine sets record, surpasses US rival](https://www.scmp.com/news/china/science/article/3359363/chinas-satellite-engine-smashes-record-leaves-us-rival-far-behind?utm_source=rss_feed) ⭐️ 7.0/10
+## [Changguang Satellite completes nearly 5B yuan equity financing](https://36kr.com/newsflashes/3880783434149893?f=rss) ⭐️ 7.0/10
 
-China tested an upgraded satellite engine that fired for 11,617 seconds (3.2 hours) across five orbit-raising maneuvers, a record-breaking operating life that surpasses a US rival. This achievement demonstrates China's progress in electric propulsion technology, which is critical for efficient station-keeping and orbit-raising of large communications, military, and deep-space spacecraft. The engine, developed by the China Academy of Aerospace Propulsion Technology, produces 750 newtons of thrust and was tested in multiple maneuvers totaling over 3 hours of continuous operation.
+Changguang Satellite Technology Co., Ltd. has completed an equity financing round of nearly 5 billion yuan. The round was co-led by Changfa Group and Lushi Investment, with participation from well-known institutions such as Chengtong Fund and Oriental Assets. This significant funding underscores the rapid growth of China's commercial satellite industry. It will accelerate the mass production of satellites and the expansion of the Jilin-1 constellation, enhancing China's capabilities in high-resolution remote sensing. Proceeds will be invested in three core areas: boosting satellite batch production capacity, advancing the Jilin-1 constellation deployment to strengthen high-resolution data acquisition, and deepening remote sensing application development for multi-industry solutions.
 
-rss · SCMP · Jul 3, 14:00
+rss · 36氪 · Jul 4, 04:35
 
-**Background**: Electric propulsion uses electrical power to ionize and accelerate propellant, offering higher efficiency than chemical rockets but lower thrust. Orbit-raising maneuvers use such engines to gradually change a satellite's altitude, reducing fuel consumption and enabling longer missions.
+**Background**: Changguang Satellite operates the Jilin-1 constellation, China's first self-developed commercial remote sensing satellite system. Launched in 2015, the constellation now comprises multiple high-resolution satellites capable of imaging any location on Earth every 10 minutes. This funding marks a major step toward building a world-class satellite manufacturing and service ecosystem.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Spacecraft_electric_propulsion">Spacecraft electric propulsion - Wikipedia</a></li>
-<li><a href="https://control.asu.edu/Classes/MAE462/462Lecture08.pdf">Spacecraft Dynamics and Control - Lecture 8: Impulsive Orbital ...</a></li>
-<li><a href="https://economictimes.indiatimes.com/news/science/chandrayaan-3-a-timeline-and-all-the-milestones/orbit-raising-maneuvers/slideshow/102983654.cms">Orbit - raising maneuvers - Chandrayaan-3: A timeline and all the...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jilin-1">Jilin - 1 - Wikipedia</a></li>
+<li><a href="https://www.eoportal.org/satellite-missions/jilin-con">Jilin / Gaofen Constellation - eoPortal</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#aerospace`, `#satellite`, `#propulsion`, `#China`, `#technology`
+**Tags**: `#commercial space`, `#satellite`, `#remote sensing`, `#equity financing`, `#Chinese tech`
 
 ---
 
 <a id="item-13"></a>
-## [UN official warns of machine warfare, urges US-China dialogue on military AI](https://www.scmp.com/news/china/diplomacy/article/3359277/machine-warfare-coming-us-china-urged-address-military-ai-global-rules-stall?utm_source=rss_feed) ⭐️ 7.0/10
+## [Indian Government Probes Data Breach at Apple Supplier Tata Electronics](https://36kr.com/newsflashes/3880789908631558?f=rss) ⭐️ 7.0/10
 
-Robin Geiss, director of the United Nations Institute for Disarmament Research (UNIDIR), warned that machine warfare is imminent and called on the US and China to engage in pragmatic dialogue on military artificial intelligence, as global efforts to regulate lethal autonomous weapons systems (LAWS) remain stalled. This warning highlights the urgent need for international regulation of autonomous weapons, especially as the US and China are leaders in AI development. The lack of global rules increases the risk of an unregulated arms race in military AI. Geiss made the remarks during a lecture at Tsinghua University in Beijing. He emphasized the need for industry and the international community to shift from stalled multilateral convention talks to concrete dialogue on the safe and ethical use of AI in warfare.
+The Indian government has announced an investigation into a massive data breach at Tata Electronics, an Apple supplier, involving leaked unreleased iPhone 18 Pro components. This breach exposes serious cybersecurity vulnerabilities in Apple's supply chain and risks compromising the intellectual property of future products, affecting both Apple and its manufacturing partners in India. The breach, reported by Reuters, involved a group stealing confidential data including iPhone 18 Pro parts and testing materials and uploading them to the dark web; the Indian Computer Emergency Response Team (CERT-In) has been notified.
 
-rss · SCMP · Jul 3, 11:00
+rss · 36氪 · Jul 4, 04:12
 
-**Background**: The United Nations Institute for Disarmament Research (UNIDIR) is a research institute focused on disarmament and international security. Lethal autonomous weapons systems (LAWS) are weapon systems that can identify and engage targets without human control. The UN Secretary-General has called for a legally binding instrument to prohibit LAWS by 2026.
+**Background**: Apple has been expanding its manufacturing in India through partners like Tata Electronics. Data breaches at suppliers can expose unreleased product details, potentially harming competitiveness and security.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/UNIDIR">UNIDIR</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lethal_autonomous_weapon">Lethal autonomous weapon - Wikipedia</a></li>
-<li><a href="https://disarmament.unoda.org/en/our-work/emerging-challenges/lethal-autonomous-weapon-systems">Lethal Autonomous Weapon Systems | United Nations Office for Disarmament Affairs</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#military`, `#regulation`, `#geopolitics`, `#ethics`
+**Tags**: `#data breach`, `#Apple`, `#India`, `#cybersecurity`, `#supply chain`
 
 ---
 
 <a id="item-14"></a>
-## [BYD overtakes Tesla to reclaim global EV crown](https://www.scmp.com/business/china-business/article/3359287/chinas-byd-surpasses-tesla-regain-lead-global-ev-race?utm_source=rss_feed) ⭐️ 7.0/10
+## [Samsung Foundry Begins Allocation for Advanced Nodes Due to AI Demand](https://36kr.com/newsflashes/3880717381382148?f=rss) ⭐️ 7.0/10
 
-BYD has surpassed Tesla to become the world's largest EV manufacturer, fueled by strong overseas shipments despite an 8.2% year-on-year drop in domestic deliveries. This signals China's growing dominance in the EV market and increasing global recognition of Chinese EV brands, challenging Tesla's leadership and reshaping the competitive landscape. BYD's achievement is driven by a surge in overseas shipments, while its domestic deliveries saw an 8.2% decline year-on-year. Tesla reported lower-than-expected deliveries in the same period.
+Samsung Electronics' foundry division has implemented an allocation mechanism for certain process nodes, prioritizing existing customers and selectively accepting new orders as AI-driven demand surges. This move signals tightening supply in advanced semiconductor nodes due to AI demand, potentially leading to longer lead times for new customers and highlighting the strategic importance of securing capacity with major foundries. Reports indicate that Samsung's 4nm process is nearly sold out, and some 8nm processes are approaching full capacity, triggering the allocation mechanism to prioritize existing clients.
 
-rss · SCMP · Jul 3, 10:00
+rss · 36氪 · Jul 4, 03:16
 
-**Background**: BYD, a Chinese automaker, has been a major player in the EV market, previously holding the top spot before Tesla overtook it. The EV industry is highly competitive, with both companies vying for global leadership amid shifting market dynamics.
+**Background**: Foundries typically operate on a first-come-first-served basis, but allocation is used when demand exceeds supply to ration capacity among key customers. Advanced nodes like 4nm and 8nm are crucial for AI accelerators and high-performance computing. Samsung competes with TSMC in leading-edge foundry services, and this allocation reflects the intense demand from companies like NVIDIA and AMD.
 
-**Tags**: `#EV`, `#automotive`, `#BYD`, `#Tesla`, `#business`
+**Tags**: `#semiconductor`, `#foundry`, `#Samsung`, `#AI`, `#supply chain`
 
 ---
 
 <a id="item-15"></a>
-## [Li Auto restructures to cut layers, merging product definition into R&D](https://36kr.com/p/3877919172047111?f=rss) ⭐️ 6.0/10
+## [China's port influence in Africa extends to software, AI: study](https://www.scmp.com/news/china/diplomacy/article/3359378/chinas-influence-african-ports-extends-software-automation-and-ai-study?utm_source=rss_feed) ⭐️ 7.0/10
 
-Li Auto is splitting its product department's core functions—electric vehicle definition and autonomous driving terminal product teams—and merging them into the R&D departments led by Liu Liguo and Zhan Kun, respectively, to shorten product decision cycles. This move streamlines decision-making, reducing three-layer approvals to two, which could accelerate product iteration and help Li Auto regain competitiveness in the increasingly crowded EV market. The reorganization specifically dismantles the platform product definition layer previously headed by Fan Haoyu, merging its core teams into the vehicle R&D and foundation model R&D groups, while the product line department under Liu Jie remains focused on commercial success.
+A new study reveals that Chinese firms not only operate or finance about one third of African ports, but also now control the software, automation, and AI systems that run those ports, as well as the connected road, rail, and warehousing networks. This expansion of control from physical infrastructure to digital systems gives Beijing significant influence over African trade logistics and data, potentially integrating African trade flows deeply with China's own systems. The study indicates that China's involvement goes beyond the docks, encompassing the entire logistics chain that connects ports to inland networks, and includes ownership of Terminal Operating Systems (TOS) and AI-based planning tools.
 
-rss · 36氪 · Jul 3, 10:45
+rss · SCMP · Jul 4, 10:00
 
-**Background**: Li Auto had adopted a three-layer product decision structure inspired by Huawei in 2022, but this led to slow decision-making. CEO Li Xiang acknowledged the efficiency problem in late 2024, vowing to return to a startup management style. The restructuring is part of a series of organizational changes in 2025–2026 aimed at boosting agility amid intense competition from NIO, Xpeng, and Xiaomi.
+**Background**: Terminal Operating Systems (TOS) are software platforms that manage container movements, vessel scheduling, and yard operations in ports. Chinese companies like Shanghai International Port Group have been developing automated ports domestically, and are now exporting these technologies to Africa. The trend reflects a broader push by China to digitize infrastructure along its Belt and Road Initiative corridors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://m.21jingji.com/article/20260703/herald/094484a41c67c2623d8f17a4418f5b74.html">理想汽车“ 动 刀”产品部 - 21财经</a></li>
-<li><a href="https://36kr.com/p/3728358954564999">36kr.com/p/3728358954564999</a></li>
+<li><a href="https://loadmaster.ai/integrating-tos-with-ai-optimization-layers-in-container-ports/">Maritime port AI terminal TOS optimisation - loadmaster.ai</a></li>
+<li><a href="https://www.indexbox.io/store/china-port-automation-technologies-market-analysis-forecast-size-trends-and-insights/">Port Automation Technologies Market in China | Report - IndexBox...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Li Auto`, `#organizational restructuring`, `#automotive`, `#product development`, `#smart driving`
+**Tags**: `#China`, `#Africa`, `#ports`, `#artificial intelligence`, `#geopolitics`
 
 ---
 
 <a id="item-16"></a>
-## [Qihang Hydrogen Energy Raises Funding for Electric-Hydrogen Coupling](https://36kr.com/p/3879274157928449?f=rss) ⭐️ 6.0/10
+## [Deep Dive into htop and top on Linux](https://peteris.rocks/blog/htop/) ⭐️ 6.0/10
 
-Xiamen Qihang Hydrogen Energy Technology Co., Ltd., spun off from Jiageng Innovation Laboratory, completed a new funding round led by Xiamen Gaoxin Investment. The funds will support R&D on key electric-hydrogen coupling equipment and off-grid hydrogen production technologies. This investment highlights growing interest in electric-hydrogen coupling solutions that can improve the efficiency and cost of green hydrogen production, a critical enabler for integrating variable renewable energy into the energy system. Qihang Hydrogen Energy has developed three product lines: IGBT hydrogen production power supplies, off-grid/microgrid hydrogen production solutions, and fuel cell inverters. Its power supplies span 30 kW to 20 MW, covering liquid-cooled and air-cooled routes, and it has partnered with over 50 electrolyzer manufacturers.
+A 2019 blog post provides a comprehensive explanation of every indicator and field in the htop and top process viewers on Linux. This resource helps Linux users better understand system resource usage and troubleshoot performance issues, as evidenced by high community engagement with practical tips and tool recommendations. The article covers memory metrics (virtual vs. resident), process states, and configuration settings, while community comments highlight disabling user threads, enabling tree view, and using the '>' key to sort by memory.
 
-rss · 36氪 · Jul 3, 02:02
+hackernews · theanonymousone · Jul 4, 12:00 · [Discussion](https://news.ycombinator.com/item?id=48784777)
 
-**Background**: Electric-hydrogen coupling refers to the integration of power electronics and electrolysis to efficiently convert renewable electricity into hydrogen. Off-grid hydrogen production systems operate independently from the main grid, using renewable sources and storage to produce hydrogen locally, which is especially useful in remote areas or for reducing grid dependency.
+**Background**: htop and top are command-line process viewers for Linux that display real-time information about running processes and system resource usage. htop offers a more user-friendly interface with color coding and mouse support, while top is the traditional tool pre-installed on most distributions.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.researchgate.net/publication/383444047_Hydrogen_Energy_in_Electrical_Power_Systems_A_Review_and_Future_Outlook">(PDF) Hydrogen Energy in Electrical Power Systems: A Review and...</a></li>
-<li><a href="https://arxiv.org/pdf/2203.13951">Research on Flexibility Margin of Electric - Hydrogen Coupling Energy</a></li>
-<li><a href="https://www.hovogen.com/post/off-grid-hydrogen-production-systems-powering-the-future-with-industrial-hydrogen-generators">Off - Grid Hydrogen Production Systems: Powering the Future with...</a></li>
+**Discussion**: Commenters shared practical tips: disabling user threads reduces clutter, enabling tree view helps track process origins, and btop was recommended as a modern alternative with GPU and disk monitoring. One user noted that virtual memory reporting can be misleading, recommending resident size instead.
 
-</ul>
-</details>
-
-**Tags**: `#hydrogen energy`, `#power electronics`, `#green hydrogen`, `#startups`, `#renewable energy`
+**Tags**: `#htop`, `#top`, `#Linux`, `#system monitoring`, `#process management`
 
 ---
 
 <a id="item-17"></a>
-## [Kleiner Perkins Partner on AI Investing and Lessons from Slack, Figma](https://www.bloomberg.com/news/videos/2026-07-03/masters-in-business-with-mamoon-hamid-video) ⭐️ 6.0/10
+## [Verizon App Migration Threatens Gizmo Watch Users](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches) ⭐️ 6.0/10
 
-In a Bloomberg interview, Kleiner Perkins partner Mamoon Hamid shares his approach to early-stage AI investing and reflects on his successful investments in Slack and Figma. This interview provides valuable insights into how a top venture capital firm evaluates AI startups, which is crucial for entrepreneurs and investors navigating the AI revolution. Hamid discusses both the investments Kleiner Perkins made and those they missed, offering a candid look at the decision-making process in early AI investing.
+Verizon's forced migration to a new app is rendering Gizmo watches unusable for many users, as accounts are not properly transferred and contacts are lost. This highlights the fragility of carrier-dependent IoT devices and the risks of technical debt, potentially affecting families who rely on these watches for child safety. The migration requires starting over from scratch, losing all contacts; even successful attempts may require multiple retries. Users with Google Fi phone numbers face additional 2FA issues.
 
-rss · Bloomberg Markets · Jul 3, 21:13
+hackernews · jefftk · Jul 4, 17:52 · [Discussion](https://news.ycombinator.com/item?id=48787329)
 
-**Background**: Kleiner Perkins is a prominent Silicon Valley venture capital firm. Mamoon Hamid is a partner known for early investments in companies like Slack and Figma. This interview explores his perspective on AI as the next major technological shift.
-
-**Tags**: `#AI`, `#venture capital`, `#investing`, `#Kleiner Perkins`
-
----
-
-<a id="item-18"></a>
-## [AI skills needed for 4 in 10 graduate jobs in China](https://www.scmp.com/economy/china-economy/article/3359328/ai-skills-required-4-out-10-graduate-jobs-china-says-recruitment-portal?utm_source=rss_feed) ⭐️ 6.0/10
-
-According to Maimai, a Chinese recruitment portal, nearly 40% of job postings for fresh graduates in the first five months of 2025 mentioned AI skills, up from about 30% in the same period of 2024. This trend reflects the rapid integration of AI into Chinese businesses, making AI literacy a critical differentiator for new graduates entering the job market and reshaping hiring priorities across industries. Maimai, the platform that reported this data, has 120 million users in mainland China and is often compared to LinkedIn. The data covers job postings from January to May 2025.
-
-rss · SCMP · Jul 3, 12:00
-
-**Background**: Maimai is a professional networking and recruitment platform in China, similar to LinkedIn, with over 110 million verified professionals. As AI adoption accelerates across sectors such as manufacturing, finance, and tech, employers increasingly seek graduates who can work with AI tools, leading to a surge in job postings requiring AI-related skills.
+**Background**: Gizmo watches are Verizon-exclusive kids' smartwatches that allow limited calling and GPS tracking via a dedicated 'watch-only' account. The app migration is part of Verizon's broader system modernization, but has broken account linkages and contact syncing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://teamedupchina.com/maimai-the-closest-thing-to-linkedin-in-china/">Maimai (脉脉): The Closest Thing to LinkedIn in China - TeamedUp China</a></li>
-<li><a href="https://www.octoplusmedia.com/china-linkedin-maimai-advertise-b2b-social-network-app/">Maimai: Market on China Version of Linkedin, Career and Social Networking Platform for B2B Collaboration</a></li>
+<li><a href="https://www.safewise.com/kids-safety/smartwatches/gizmowatch/">Best Gizmo Watch Review for Parents in 2026... | SafeWise</a></li>
+<li><a href="https://www.amazon.com/Verizon-Gizmo-Watches/s?k=Verizon+Gizmo+Watches&page=3">Amazon.com: Verizon Gizmo Watches</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#job market`, `#China`, `#skills`, `#recruitment`
+**Discussion**: Commenters note that technical debt makes carrier watch functionality fragile, with one user reporting a struggle to migrate and another suggesting Verizon might find it cheaper to issue refunds than fix the problem.
+
+**Tags**: `#Verizon`, `#smartwatches`, `#2FA`, `#Google Fi`, `#technical debt`
+
+---
+
+<a id="item-18"></a>
+## [How Aoshuai Exoskeletons Redefine Human-Machine Relations](https://36kr.com/p/3880770270425089?f=rss) ⭐️ 6.0/10
+
+Aoshuai (ULS) has launched its first consumer-grade exoskeleton, the VIATRIX, which uses AI to learn users' gaits and provide adaptive assistance, moving from industrial to outdoor consumer applications. This marks a significant step in making exoskeletons accessible to everyday consumers, potentially transforming hiking, trekking, and other outdoor activities by enhancing human endurance without replacing human decision-making. The VIATRIX features a Float360 floating hip joint architecture with 4 degrees of freedom, a car-grade response motor that delivers 46 Nm of torque in both legs, and AI-driven gait algorithms that learn and adapt in real time.
+
+rss · 36氪 · Jul 4, 03:25
+
+**Background**: Exoskeletons are wearable robotic devices that augment human strength and endurance. Previously used mainly in industrial and medical settings, recent advances in lightweight materials and AI have enabled consumer-focused designs. Aoshuai's VIATRIX is one such product, aiming to make outdoor activities less strenuous.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.eetrend.com/content/2026/100597892.html">CES2026创新奖得主：傲鲨 VIATRIX...</a></li>
+<li><a href="https://news.ikanchai.com/2026/0108/647577.shtml">CES2026创新奖得主：傲鲨 VIATRIX...</a></li>
+<li><a href="https://c.m.163.com/news/a/K6H7HFE90512D3VJ.html">帮你爬山带你飞， 外 骨 骼 机器人、飞行器等亮相世界机器人博览会</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#exoskeleton`, `#robotics`, `#human-machine interaction`, `#consumer tech`, `#AI`
 
 ---
 
 <a id="item-19"></a>
-## [Experts urge fines for Hong Kong data breaches](https://www.scmp.com/news/hong-kong/society/article/3359358/fine-firms-data-breaches-hong-kong-cybersecurity-experts-urge?utm_source=rss_feed) ⭐️ 6.0/10
+## [Cambridge startup secures $14M for silicon photonics spectrometers](https://36kr.com/p/3879991356157952?f=rss) ⭐️ 6.0/10
 
-Cybersecurity experts in Hong Kong have called for authorities to impose fines on companies that suffer data breaches, following a ransomware attack that encrypted personal data of over 1 million individuals linked to Shun Hing Group, a major appliance distributor. This push for financial penalties could lead to stronger data protection regulations in Hong Kong, potentially setting a precedent for holding companies accountable for security failures and better protecting consumer privacy. The breach was initially reported by Shun Hing Group on March 23, and the Office of the Privacy Commissioner for Personal Data has launched an investigation. The experts made their comments on Friday, the day after the investigation was announced.
+Guangyin Technology, a silicon photonics startup from Cambridge University, completed a 1 billion yuan Pre-A funding round. The company integrates precision optics onto a rice-grain-sized chip using computational spectrometry, claiming wavelength coverage of 600-2500 nm and resolution down to 0.01 nm, with mass-production cost below $20. The micro-spectrometer market is projected to grow from $4.6 billion in 2024 to $8.22 billion by 2031. Guangyin's technology could drastically reduce spectrometer costs and enable widespread wearable health monitoring. Additionally, the company is entering the silicon photonics optical switching market as a second growth driver. The computational spectrometer uses on-chip sampling units to encode incident light and reconstruct spectra via algorithms, eliminating physical dispersive elements. The company faces incomplete supply chain — about 20% of processes require self-built equipment. Compared to PPG modules, the cost is 2-5x higher but offers more parameters (collagen, glucose, etc.) and higher accuracy.
 
-rss · SCMP · Jul 3, 11:50
+rss · 36氪 · Jul 4, 01:00
 
-**Background**: Data breach fines are common in other jurisdictions like the EU under GDPR, but Hong Kong currently lacks such penalties. The call from experts highlights gaps in the city's data protection framework, which relies on voluntary compliance and corrective actions rather than punitive measures.
+**Background**: Silicon photonics integrates photonic components (waveguides, modulators, detectors) onto silicon substrates, enabling low-cost, miniaturized optical systems. Traditional spectrometers rely on prisms or gratings, requiring bulky optics and mechanical parts. Computational spectrometers achieve miniaturization by using algorithms to reconstruct spectra from encoded measurements, a rapidly advancing field.
 
-**Tags**: `#data breach`, `#cybersecurity`, `#regulation`, `#Hong Kong`, `#privacy`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Silicon_photonics">Silicon photonics</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11502016/">Computational spectrometers enabled by nanophotonics and deep...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#silicon photonics`, `#spectroscopy`, `#startup`, `#funding`, `#optoelectronics`
 
 ---
 
 <a id="item-20"></a>
-## [Hong Kong employee training hits 14-year high amid AI push](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359315/employee-training-hours-hong-kong-hit-14-year-high-amid-ai-push-survey?utm_source=rss_feed) ⭐️ 6.0/10
+## [Embodied AI startup Guangxiang raises hundreds of millions in angel funding](https://36kr.com/newsflashes/3881013448683785?f=rss) ⭐️ 6.0/10
 
-According to a survey by the Hong Kong Institute of Human Resource Management, average annual training hours per employee reached 19.4 in 2023, a 6.8% increase from the previous year and the highest in 14 years. The rise reflects a strategic push by Hong Kong companies to upgrade employee skills in AI and technology, signaling a response to rapid digital transformation. This trend could enhance workforce competitiveness and adaptability in a changing economy. The survey, conducted by the Hong Kong Institute of Human Resource Management, recorded 19.4 average annual training hours per employee, marking the second consecutive year of increase and the highest since at least 2010.
+Guangxiang Technology announced completing hundreds of millions yuan in angel funding, with the latest round led by Zhuhai Technology Industry Group, CICC Capital, and other investors, to develop physical foundation models and commercialize embodied intelligence robots. This significant funding signals strong investor confidence in embodied intelligence, a field combining AI with physical robots, and may accelerate the development and deployment of general-purpose robots across industries. The funds will be primarily used for R&D iteration of physical foundation models and advancing commercial delivery of embodied intelligence robots; previous investors like Zero One VC and L2F Light Source Entrepreneurs Fund also participated.
 
-rss · SCMP · Jul 3, 08:54
+rss · 36氪 · Jul 4, 08:25
 
-**Background**: Hong Kong, as a global financial hub, is increasingly emphasizing technology adoption to maintain its competitive edge. The push for AI skills is part of wider efforts to reskill workers for the digital economy. The survey highlights the tangible impact of these initiatives on training investment.
+**Background**: Embodied intelligence refers to AI systems that perceive and act in the physical world through sensors and actuators, often powering robots. Physical foundation models are large AI models trained on physical-world data to enable robots to understand and interact with their environment more flexibly. This funding round reflects growing interest in bridging the gap between AI software and real-world robotic applications.
 
-**Tags**: `#AI`, `#training`, `#workforce`, `#Hong Kong`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Embodied_intelligence">Embodied intelligence</a></li>
+<li><a href="https://www.adlittle.com/en/insights/viewpoints/physical-ai">Physical AI | Arthur D. Little</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#embodied intelligence`, `#funding`, `#robotics`, `#startup`, `#AI`
+
+---
+
+<a id="item-21"></a>
+## [Qianwen Agent Platform to Shut Down on July 15, 2026](https://36kr.com/newsflashes/3880777666703621?f=rss) ⭐️ 6.0/10
+
+The Qianwen platform announced that its agent functions and services will be officially discontinued on July 15, 2026, after which users will lose access to agent configurations and historical conversation records. This shutdown impacts users who rely on Qianwen agents for automated tasks and conversations, forcing them to migrate or lose functionality; it also signals a possible strategic shift or consolidation in China's AI agent platform market. The closure is set for July 15, 2026, and includes all agent configurations and chat histories; users are advised to back up any critical data before that date.
+
+rss · 36氪 · Jul 4, 03:51
+
+**Background**: Qianwen is an AI platform developed by Alibaba Cloud (Tongyi Qianwen) that provides large language model capabilities and agent services. Agent platforms allow users to create customized AI assistants for tasks like customer support, content generation, and workflow automation. The shutdown likely reflects a product consolidation or pivot within Alibaba's AI ecosystem.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.aibase.com/news/28167">Tongyi Qianwen Evolves Again! Alibaba Cloud Qianwen Cloud...</a></li>
+<li><a href="https://www.baguaai.com/sites/874.html">Tongyi Qianwen - Essential AI Tools</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Chinese tech`, `#AI agent`, `#platform shutdown`, `#product announcement`
+
+---
+
+<a id="item-22"></a>
+## [Midjourney Seeks Hollywood AI Disclosure in Lawsuit](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) ⭐️ 6.0/10
+
+In an ongoing legal dispute with three Hollywood studios, Midjourney is asking the court to compel those studios to disclose details of their own internal AI usage. This legal maneuver could set a precedent for transparency around AI usage in the entertainment industry, affecting how studios and AI companies handle intellectual property and trade secrets. The specific studios involved are not named in the article, but the request for disclosure is part of the discovery phase in a copyright dispute.
+
+rss · TechCrunch · Jul 4, 18:00
+
+**Background**: Midjourney is an AI image generation platform that has faced legal challenges over its training data. Hollywood studios are increasingly using AI in creative processes, raising questions about fair use and compensation.
+
+**Tags**: `#AI`, `#legal`, `#entertainment`, `#transparency`, `#Midjourney`
+
+---
+
+<a id="item-23"></a>
+## [Mistral AI: The Open-Source Challenger to OpenAI](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) ⭐️ 6.0/10
+
+Mistral AI, a French AI startup founded in 2023, has emerged as a significant competitor to OpenAI by offering open-weight and open-source large language models alongside proprietary ones, and has raised substantial funding, reaching a valuation of over US$14 billion by 2025. The rise of Mistral AI demonstrates the growing demand for open-source AI alternatives, potentially increasing competition and accelerating innovation in the AI industry while offering more accessible and transparent model options for developers and researchers. Mistral AI was founded by prominent AI researchers and is headquartered in Paris, France. It offers both open-source models (like Mistral 7B) and commercial models, and has quickly raised large funding rounds from investors including Andreessen Horowitz and Microsoft.
+
+rss · TechCrunch · Jul 4, 15:51
+
+**Background**: Large language models (LLMs) like those from OpenAI are typically proprietary, closed-source, and require paid access. Mistral AI differentiates itself by releasing some models under open weights or open-source licenses, allowing broader use and modification. The company's mission is to put frontier AI in the hands of everyone, aligning with the open-source AI movement.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mistral_AI">Mistral AI</a></li>
+<li><a href="https://huggingface.co/mistralai">Org profile for Mistral AI _ on Hugging Face, the AI community building...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Mistral AI`, `#open source`, `#AI`, `#startup`
 
 ---
