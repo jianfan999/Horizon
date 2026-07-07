@@ -5,788 +5,772 @@ date: 2026-07-07
 lang: en
 ---
 
-> From 146 items, 38 important content pieces were selected
+> From 142 items, 36 important content pieces were selected
 
 ---
 
-1. [OpenWrt One: Community-Driven Open Hardware Router](#item-1) ⭐️ 8.0/10
-2. [Anthropic Finds a Global Workspace in Language Models](#item-2) ⭐️ 8.0/10
-3. [2026 Tech Layoffs Linked to AI](#item-3) ⭐️ 8.0/10
-4. [Canada spy agency hacked drug traffickers, extremists, ransomware gang](#item-4) ⭐️ 8.0/10
-5. [Chinese web novel platforms curb AI-generated fiction](#item-5) ⭐️ 8.0/10
-6. [Microsoft Lays Off 4,800 Employees](#item-6) ⭐️ 8.0/10
-7. [Supreme Court allows Texas to require age verification for mobile apps](#item-7) ⭐️ 8.0/10
-8. [SpaceX deorbits 260 Starlink satellites, raising environmental and regulatory issues](#item-8) ⭐️ 8.0/10
-9. [CoMaps: A FOSS Offline Maps Fork with Auto Updates](#item-9) ⭐️ 7.0/10
-10. [Xbox Restructuring Amid Profit Margin Concerns](#item-10) ⭐️ 7.0/10
-11. [OfficeCLI: CLI Office Suite for AI Agents](#item-11) ⭐️ 7.0/10
-12. [Chinese eVTOL Electric Drive Startup Raises Millions](#item-12) ⭐️ 7.0/10
-13. [AI-Driven Layoffs Hit Chinese Tech Firms, Junior Devs First](#item-13) ⭐️ 7.0/10
-14. [Quantum Computing's 2026 Surge: Orders, IPOs, Billions in Market Cap](#item-14) ⭐️ 7.0/10
-15. [UK Regulator Urges Oversight of LLMs in Finance to Mitigate Systemic Risks](#item-15) ⭐️ 7.0/10
-16. [Glass Substrate Hits Key Verification Phase; Yield Decides Commercialization](#item-16) ⭐️ 7.0/10
-17. [First AI-run ransomware attack still needed a human](#item-17) ⭐️ 7.0/10
-18. [Google Uses Your Data for AI Training; Here's How to Opt Out](#item-18) ⭐️ 7.0/10
-19. [Reddit uses LLMs to fight spam created by LLMs](#item-19) ⭐️ 7.0/10
-20. [Even Realities hits $1B valuation with $150M from Meituan, Tencent](#item-20) ⭐️ 7.0/10
-21. [FCC to end ISP fee disclosure rule](#item-21) ⭐️ 7.0/10
-22. [Illinois Governor Signs Landmark AI Bill SB 315](#item-22) ⭐️ 7.0/10
-23. [Nationwide Backlash Against Vehicle Surveillance Cameras](#item-23) ⭐️ 7.0/10
-24. [AI Bills Baffle C-Suite After Shift to Usage-Based Pricing](#item-24) ⭐️ 7.0/10
-25. [AMD Ryzen AI Halo Dev Kit: $4k, No New Hardware, Criticized](#item-25) ⭐️ 6.0/10
-26. [Alibaba Qwen Upgrades Real-Time ASR; Youjia Innovation Unveils Four-Wheeled Robot](#item-26) ⭐️ 6.0/10
-27. [APTSell Raises Millions from DCM to Become AI Chief Sales Officer](#item-27) ⭐️ 6.0/10
-28. [Cross-Border E-Commerce: Young Entrepreneurs Shift from Price Wars to Pricing Power](#item-28) ⭐️ 6.0/10
-29. [Samsung Profit Surges 19-Fold on AI Memory Demand](#item-29) ⭐️ 6.0/10
-30. [Broadcom and Apple Extend Chip Partnership to 2031](#item-30) ⭐️ 6.0/10
-31. [Vercel CEO on Separating Models from Agents for Production](#item-31) ⭐️ 6.0/10
-32. [Station F boosts AI accelerator with industry giants](#item-32) ⭐️ 6.0/10
-33. [Trump hints at AI company public contribution requirement](#item-33) ⭐️ 6.0/10
-34. [Huawei Kirin 2026 uses LogicFolding for 55% density boost](#item-34) ⭐️ 6.0/10
-35. [Beijing opens lithium futures to foreign traders to cement pricing power](#item-35) ⭐️ 6.0/10
-36. [Cop Stalks Woman Using License Plate Reader](#item-36) ⭐️ 6.0/10
-37. [Microsoft Confirms Windows 11 Bug Wasting Up to 500GB](#item-37) ⭐️ 6.0/10
-38. [YouTubers Help Uncover $65M Elder Fraud Scheme](#item-38) ⭐️ 6.0/10
+1. [EU Chat Control Proposals: Mass Surveillance vs. Child Safety](#item-1) ⭐️ 8.0/10
+2. [ByteDance's Seedance 2.0 Breakthrough in AI Video Generation](#item-2) ⭐️ 8.0/10
+3. [New Algorithm Greatly Boosts Dark Energy Measurement Precision](#item-3) ⭐️ 8.0/10
+4. [Worst breaches of 2026: DOGE hack, critical infrastructure attacks](#item-4) ⭐️ 8.0/10
+5. [First American autonomous ground vehicles deployed in Ukraine](#item-5) ⭐️ 8.0/10
+6. [Chinese researchers identify apps via leaked phone EM signals](#item-6) ⭐️ 8.0/10
+7. [Local CPU-Friendly High-Quality TTS with Kokoro](#item-7) ⭐️ 7.0/10
+8. [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](#item-8) ⭐️ 7.0/10
+9. [Davit: A Native macOS UI for Apple Containers](#item-9) ⭐️ 7.0/10
+10. [EU mandates driver monitoring cameras in all new cars](#item-10) ⭐️ 7.0/10
+11. [Jim's TrueType Font Generates Scannable QR Codes](#item-11) ⭐️ 7.0/10
+12. [pgdog: A New Postgres Connection Pooler for State Leak and NOTIFY Issues](#item-12) ⭐️ 7.0/10
+13. [Former DJI Engineer Raises Millions for Smart Knitting Machine](#item-13) ⭐️ 7.0/10
+14. [Microsoft Begins Using In-House AI Models in Office Apps](#item-14) ⭐️ 7.0/10
+15. [AI System Translates Protein Sequences into Text](#item-15) ⭐️ 7.0/10
+16. [Amazon Plans $25 Billion Bond Raise for AI Infrastructure](#item-16) ⭐️ 7.0/10
+17. [Meta launches Muse Image AI model for image generation](#item-17) ⭐️ 7.0/10
+18. [AI takes over stock market, bond market next](#item-18) ⭐️ 7.0/10
+19. [Figma acquires YC-backed vibe coding team](#item-19) ⭐️ 7.0/10
+20. [First AI-run ransomware attack still needed human help](#item-20) ⭐️ 7.0/10
+21. [China unveils carbon-14 nuclear battery with SiC transducer](#item-21) ⭐️ 7.0/10
+22. [China's crude demand to peak within five years on EV push](#item-22) ⭐️ 7.0/10
+23. [30papers.com: Ilya's 30 Essential ML Papers for Beginners](#item-23) ⭐️ 6.0/10
+24. [Autonomous Mining Truck Firm YikongTech to List on HKEX at $130B Valuation](#item-24) ⭐️ 6.0/10
+25. [AI Virtual Cell Startup Huayuan Zhiyin Raises Seed Funding](#item-25) ⭐️ 6.0/10
+26. [Legal AI Startup Norm Ai Raises $120M at $1.2B Valuation](#item-26) ⭐️ 6.0/10
+27. [GM-Backed Momenta Raises $752M in Hong Kong IPO](#item-27) ⭐️ 6.0/10
+28. [Open Source AI and Anthropic: A Complementary Lifecycle](#item-28) ⭐️ 6.0/10
+29. [Discord AI Moderation Bug Wrongfully Bans Users](#item-29) ⭐️ 6.0/10
+30. [Claude Cowork expands to mobile and web](#item-30) ⭐️ 6.0/10
+31. [Savi app fights AI voice cloning scams](#item-31) ⭐️ 6.0/10
+32. [China's State-Backed AI Entrepreneurs Reshape Innovation](#item-32) ⭐️ 6.0/10
+33. [Singapore-Indonesia energy deal could ignite ASEAN power grid](#item-33) ⭐️ 6.0/10
+34. [India's UPI may shape Indonesia's digital payments](#item-34) ⭐️ 6.0/10
+35. [Huawei showcases Atlas 950 SuperPoD and AI agent phone at WAIC](#item-35) ⭐️ 6.0/10
+36. [Big Tech data centers drive up power costs for Rust Belt factories](#item-36) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [OpenWrt One: Community-Driven Open Hardware Router](https://openwrt.org/toh/openwrt/one) ⭐️ 8.0/10
+## [EU Chat Control Proposals: Mass Surveillance vs. Child Safety](https://fightchatcontrol.eu/chat-control-overview) ⭐️ 8.0/10
 
-The OpenWrt project has launched the OpenWrt One, an open-source single-board router designed to natively run OpenWrt firmware and serve as a reference hardware platform. This device provides a fully open, developer-friendly router alternative, enabling users to avoid commercial router limitations and extend hardware lifespan with community-supported firmware. Priced at $106 USD with a case and antennas, or $84 without, the OpenWrt One comes pre-flashed with the latest OpenWrt release firmware and features 1GB RAM. Community discussion hints at a future OpenWrt Two with Wi-Fi 7 support.
+The EU's Chat Control proposal (CSAR) seeks to mandate scanning of private communications for Child Sexual Abuse Material (CSAM), including encrypted messages, sparking intense debate over privacy and surveillance. The most controversial aspect—forced scanning of encrypted messages—was blocked by the European Parliament in April 2026, but voluntary scanning continues by major tech companies. If enacted, Chat Control would undermine end-to-end encryption and set a precedent for mass surveillance of private communications worldwide. This directly affects privacy rights of all EU citizens and could influence similar legislation globally. Chat Control 1.0 allowed voluntary scanning under a derogation from the ePrivacy Directive, which has expired. Chat Control 2.0 would mandate scanning and require platforms to break encryption, but the European Parliament rejected that version. Major companies like Google, Meta, Microsoft, and Snap continue scanning voluntarily despite the expiration.
 
-hackernews · peter_d_sherman · Jul 6, 18:23 · [Discussion](https://news.ycombinator.com/item?id=48808482)
+hackernews · gasull · Jul 7, 14:23 · [Discussion](https://news.ycombinator.com/item?id=48818311)
 
-**Background**: OpenWrt is a popular open-source Linux-based operating system for embedded devices, widely used to replace proprietary router firmware. The OpenWrt One is an official reference board, built with open hardware principles, allowing full control and customization.
+**Background**: CSAM refers to any visual content showing child sexual abuse or exploitation. The EU's Chat Control proposal (formally the Child Sexual Abuse Regulation) was introduced in May 2022 to combat online child abuse, but critics argue it amounts to mass surveillance and would break encryption. The proposal has faced significant opposition from privacy advocates and tech companies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openwrt.org/toh/openwrt/one">[ OpenWrt Wiki] OpenWrt One</a></li>
-<li><a href="https://grokipedia.com/page/OpenWrt_One">OpenWrt One</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Chat_Control">Chat Control - Wikipedia</a></li>
+<li><a href="https://www.eff.org/deeplinks/2026/04/eu-parliament-blocks-mass-scanning-our-chats-whats-next">EU Parliament Blocks Mass-Scanning of Our Chats—What's Next? | Electronic Frontier Foundation</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Hacker News comments highlight ongoing development of an 'OpenWrt Two' with Wi-Fi 7, and users share positive experiences with the OpenWrt One as a reliable alternative to commercial routers. Some note the ease of extending router life, while others compare it to other open-source firewall solutions like OPNSense.
+**Discussion**: The Hacker News community comments show a general consensus that while combating CSAM is important, the Chat Control proposal is overly broad and threatens privacy and encryption. Users express concern about the implications for end-to-end encryption and fear it could lead to a surveillance state. One commenter noted that the proposal is a 'grant me dictatorial powers so I can do good' play.
 
-**Tags**: `#OpenWrt`, `#Open Hardware`, `#Networking`, `#Router`, `#FOSS`
+**Tags**: `#privacy`, `#encryption`, `#surveillance`, `#EU legislation`, `#CSAM`
 
 ---
 
 <a id="item-2"></a>
-## [Anthropic Finds a Global Workspace in Language Models](https://www.anthropic.com/research/global-workspace) ⭐️ 8.0/10
+## [ByteDance's Seedance 2.0 Breakthrough in AI Video Generation](https://36kr.com/p/3885177884078083?f=rss) ⭐️ 8.0/10
 
-Anthropic researchers identified a 'J-space' in large language models (LLMs) that acts as a global workspace, enabling higher-order reasoning and interpretability. This subspace is shared across diverse contexts and supports flexible information integration. This discovery bridges cognitive science and AI interpretability, potentially leading to more transparent and capable models. It also offers a concrete neural correlate for global workspace theory in artificial systems. The J-space exhibits five functional properties of a global workspace: ignition, broadcasting, internal broadcasting, limited capacity, and context-dependence. Preventing Claude from using its J-space impaired higher-order cognition but left basic fluency intact.
+ByteDance researcher Zeng Yan insisted on scaling the Seedance 2.0 video generation model to over 200 billion parameters, leading to a breakthrough that made it ByteDance's first absolutely leading AI model and a highly profitable business. This demonstrates that large-scale AI models can be highly profitable (Seedance 2.0's estimated gross margin reaches up to 90%), and marks ByteDance's first undisputed lead in AI, potentially reshaping competition in video generation and short-form content production. Seedance 2.0 switched from a UNet architecture to a DiT (Diffusion Transformer) architecture, enabling better scaling with data and compute. The model achieved a breakthrough despite ByteDance using relatively weaker GPUs compared to overseas competitors, relying on superior data and model structure.
 
-hackernews · in-silico · Jul 6, 17:44 · [Discussion](https://news.ycombinator.com/item?id=48808002)
+rss · 36氪 · Jul 7, 07:30
 
-**Background**: Global workspace theory (GWT) is a cognitive architecture proposed by Bernard Baars to explain consciousness, where a global workspace integrates information from specialized modules. Mechanistic interpretability aims to reverse-engineer neural networks to understand their internal computations. This research applies GWT concepts to transformer-based LLMs.
+**Background**: Video generation models like Sora use diffusion transformers to create videos from text prompts. ByteDance's earlier video models (PixelDance, Seaweed) lagged behind competitors like Kuaishou's Kling. Scaling to larger parameters (200B+) follows the scaling law that bigger models with more data and compute yield better performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/research/global-workspace">A global workspace in language models \ Anthropic</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Global_workspace_theory">Global workspace theory - Wikipedia</a></li>
-<li><a href="https://transformer-circuits.pub/2026/workspace/index.html">Verbalizable Representations Form a Global Workspace in Language Models</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Seedance_2.0">Seedance 2.0 - Wikipedia</a></li>
+<li><a href="https://seed.bytedance.com/en/models">Seed Models</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters related the J-space to earlier experiments on layer duplication for math reasoning and questioned the consciousness analogy, preferring more direct mechanistic explanations. Some highlighted the significance for interpretability research.
-
-**Tags**: `#mechanistic interpretability`, `#language models`, `#Anthropic`, `#AI research`
+**Tags**: `#AI`, `#video generation`, `#ByteDance`, `#large language models`, `#Seedance`
 
 ---
 
 <a id="item-3"></a>
-## [2026 Tech Layoffs Linked to AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) ⭐️ 8.0/10
+## [New Algorithm Greatly Boosts Dark Energy Measurement Precision](https://36kr.com/newsflashes/3886178602348809?f=rss) ⭐️ 8.0/10
 
-TechCrunch published a running list of major tech layoffs in 2026 where companies explicitly cited AI as a contributing factor, organized in reverse chronological order. This trend underscores AI's growing impact on employment, as companies restructure to automate tasks, potentially displacing workers while also creating new AI-related roles. The list focuses on larger tech companies and includes only layoffs where AI was explicitly named as a reason, providing a curated view of a key industry narrative.
+An international team led by the University of Barcelona has developed a new cosmology data analysis framework called CIGaRS, which significantly improves the precision of measuring dark energy using Type Ia supernovae. Their findings were published in Nature Astronomy. This advancement allows scientists to extract richer information from the growing number of discovered supernovae, potentially leading to a better understanding of dark energy and the expansion of the universe. It represents a significant methodological breakthrough in observational cosmology. The CIGaRS algorithm improves measurement precision compared to traditional methods, enabling more accurate constraints on dark energy parameters. The team's work specifically targets Type Ia supernovae, which are standard candles for cosmological distance measurements.
 
-rss · TechCrunch · Jul 6, 18:35
+rss · 36氪 · Jul 7, 23:11
 
-**Background**: AI automation enables companies to reduce headcount by replacing certain human tasks. This list tracks a significant 2026 trend where firms attribute job cuts to AI adoption, reflecting broader shifts in the tech labor market.
+**Background**: Type Ia supernovae are exploding stars that have a consistent peak brightness, making them standard candles for measuring cosmic distances. Dark energy is a mysterious force thought to drive the accelerated expansion of the universe, and precise measurements of supernovae are crucial for studying its properties. The CIGaRS framework provides a new way to analyze supernova data more effectively.
 
-**Tags**: `#layoffs`, `#AI`, `#tech industry`, `#employment`, `#trends`
+**Tags**: `#cosmology`, `#dark energy`, `#algorithm`, `#supernovae`, `#research`
 
 ---
 
 <a id="item-4"></a>
-## [Canada spy agency hacked drug traffickers, extremists, ransomware gang](https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/) ⭐️ 8.0/10
+## [Worst breaches of 2026: DOGE hack, critical infrastructure attacks](https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/) ⭐️ 8.0/10
 
-The Communications Security Establishment (CSE), Canada's spy agency, disclosed in its annual report that it conducted offensive cyber operations against drug traffickers, extremists, and a ransomware gang in the past year. This revelation underscores the growing use of offensive cyber capabilities by intelligence agencies to tackle criminal and national security threats, potentially reshaping public debate on state-sponsored hacking. The annual report did not name the specific groups targeted or provide operational details, but it highlighted the broad scope of CSE's offensive activities.
+TechCrunch published a mid-year retrospective covering the most damaging cybersecurity incidents of 2026, including a massive DOGE data breach involving Social Security data, ransomware attacks on critical energy and water systems, and the compromise of an FBI surveillance system. These breaches demonstrate that both government systems and critical infrastructure remain highly vulnerable to sophisticated attacks, with potentially catastrophic consequences for national security, public safety, and personal privacy. The DOGE breach allegedly involved copying the entire NUMIDENT database, the Social Security Administration's master file of all cardholders, to a private cloud server and also exfiltrating data on a thumb drive; the critical infrastructure attacks targeted industrial control systems in energy and water sectors.
 
-rss · TechCrunch · Jul 6, 14:43
+rss · TechCrunch · Jul 7, 16:45
 
-**Background**: CSE is Canada's national cryptologic agency, responsible for foreign signals intelligence, cybersecurity, and conducting offensive cyber operations in support of national security. Such operations are typically classified, making this disclosure notable.
+**Background**: In 2025 and 2026, the U.S. government agency DOGE (Department of Government Efficiency) has been at the center of multiple lawsuits over mishandling of sensitive data, while ransomware attacks on critical infrastructure have been rising globally, prompting warnings from CISA and FBI. The term 'critical infrastructure' refers to sectors like energy, water, healthcare, and transportation whose disruption would have severe national consequences.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Communications_Security_Establishment">Communications Security Establishment</a></li>
-<li><a href="https://www.cyber.gc.ca/en/comsec">COMSEC - Canadian Centre for Cyber Security</a></li>
+<li><a href="https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/">DOGE member took Social Security data on a thumb drive, whistleblower alleges - The Washington Post</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2025/02/largest-data-breach-in-us-history-three-more-lawsuits-try-to-stop-doge/">“Largest data breach in US history”: Three more lawsuits try to stop DOGE - Ars Technica</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#intelligence`, `#national security`, `#ransomware`, `#hacking`
+**Tags**: `#cybersecurity`, `#data breach`, `#critical infrastructure`, `#ransomware`, `#hacking`
 
 ---
 
 <a id="item-5"></a>
-## [Chinese web novel platforms curb AI-generated fiction](https://restofworld.org/2026/china-ai-web-novels/?utm_source=rss&utm_medium=rss&utm_campaign=feeds) ⭐️ 8.0/10
+## [First American autonomous ground vehicles deployed in Ukraine](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/) ⭐️ 8.0/10
 
-Major Chinese web novel platforms from Tencent, ByteDance, and Baidu have introduced daily word limits and stricter quality standards to combat an influx of low-quality AI-generated fiction. This marks a significant shift from early adoption of AI to active regulation, highlighting the challenge platforms face in balancing content volume with quality, and setting a precedent for AI content moderation in the digital publishing industry. The curbs include daily word limits for individual authors and stricter review standards specifically targeting automated fiction, which has proliferated since generative AI tools became widely accessible.
+Forterra has revealed that it deployed 105 autonomous Lancer ATVs in Ukraine over the past nine months, marking the first large-scale use of American autonomous ground vehicles in an active conflict. This deployment demonstrates the operational viability of autonomous ground vehicles in real combat, potentially accelerating military adoption and raising important ethical and tactical questions about autonomy in warfare. The Lancer vehicles are ATV-based autonomous systems produced rapidly using commercial off-the-shelf components, and they have been used for logistics resupply and medical evacuation missions.
 
-rss · Rest of World · Jul 6, 10:00
+rss · TechCrunch · Jul 7, 09:00
 
-**Background**: Chinese web novel platforms, originating in the late 1990s, have become a major cultural industry, with serialized fiction published on apps like Qidian (Tencent) and Jinjiang. In recent years, authors began using AI tools like GPT to generate content rapidly, flooding platforms with low-quality works. Detection methods, such as analyzing narrative structure, have reached 93% accuracy, but the sheer volume of AI-generated content remains a challenge.
+**Background**: Autonomous ground vehicles (UGVs) are uncrewed vehicles that navigate without human intervention, often used for dangerous tasks like logistics or reconnaissance. The U.S. Army has been exploring UGVs for 'last tactical mile' missions, and Forterra's TerraLink platform enables command-and-control of multiple autonomous systems. This Ukraine deployment is a major real-world test for military robotics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Chinese_online_literature">Chinese online literature - Wikipedia</a></li>
-<li><a href="https://www.techtimes.com/articles/319753/20260705/ai-fiction-detection-reaches-93-structure-alone-style-edits-can-no-longer-fool-it.htm">AI Fiction Detection Reaches 93% on Structure Alone: Style Edits...</a></li>
+<li><a href="https://www.forterra.com/posts/forterra-reveals-it-rapidly-manufactured-and-deployed-autonomous-systems-to-ukraine-at-scale-in-russo-ukrainian-war">Forterra Reveals It Rapidly Manufactured and Deployed ...</a></li>
+<li><a href="https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/">The first American autonomous ground vehicles are fighting in ...</a></li>
+<li><a href="https://defensescoop.com/2026/04/17/army-ugv-autonomous-unmanned-ground-vehicle-last-tactical-mile/">Army wants unmanned ground vehicle for ‘last tactical mile’ | DefenseScoop</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#content moderation`, `#web novels`, `#China`, `#tech industry`
+**Tags**: `#autonomous vehicles`, `#defense`, `#robotics`, `#AI`, `#Ukraine conflict`
 
 ---
 
 <a id="item-6"></a>
-## [Microsoft Lays Off 4,800 Employees](https://www.reddit.com/r/technology/comments/1up32f6/microsoft_is_laying_off_4800_employees/) ⭐️ 8.0/10
+## [Chinese researchers identify apps via leaked phone EM signals](https://www.scmp.com/news/china/science/article/3359688/chinese-researchers-find-peephole-any-smartphone-its-leaked-radio-signal?utm_source=rss_feed) ⭐️ 8.0/10
 
-Microsoft has announced a reduction of 4,800 jobs, marking a significant workforce adjustment for the tech giant. This layoff reflects ongoing cost-cutting and restructuring in the tech industry, affecting thousands of workers and signaling potential further downsizing. The layoffs amount to approximately 4% of Microsoft's global workforce, and the company cited a need to align its cost structure with revenue growth as the reason.
+Researchers at the People's Public Security University of China developed a method that can identify smartphone applications and user actions by analyzing low-frequency electromagnetic radiation, even when the device is offline or locked. This side-channel attack technique poses significant privacy risks as it allows monitoring of app usage without any network access or device access, potentially enabling mass surveillance. The method works by capturing low-frequency electromagnetic emanations from the smartphone and matching them against known signatures of popular apps. It was published in the peer-reviewed journal Radioengineering in May.
 
-reddit · r/technology · /u/serene_sketch · Jul 6, 16:53
+rss · SCMP · Jul 7, 12:00
 
-**Background**: Microsoft, one of the world's largest software companies, has previously undergone layoffs in response to economic shifts. Recent tech industry trends have seen many firms reduce headcount to improve efficiency after pandemic-era hiring sprees.
+**Background**: Side-channel attacks exploit information leaked from a device's physical operation, such as power consumption, timing, or electromagnetic emissions. Electromagnetic attacks, a type of side-channel attack, have been studied for decades, but this work applies them to smartphone app identification for the first time at a practical level.
 
-**Tags**: `#layoffs`, `#Microsoft`, `#tech industry`, `#employment`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.scmp.com/news/china/science/article/3359688/chinese-researchers-find-peephole-any-smartphone-its-leaked-radio-signal">Chinese researchers find a peephole to any smartphone in its ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Electromagnetic_attack">Electromagnetic attack - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Side-channel_attack">Side-channel attack - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#security`, `#privacy`, `#side-channel attack`, `#electromagnetic radiation`, `#smartphone`
 
 ---
 
 <a id="item-7"></a>
-## [Supreme Court allows Texas to require age verification for mobile apps](https://www.reddit.com/r/technology/comments/1up8pc9/supreme_court_allows_texas_to_require_age/) ⭐️ 8.0/10
+## [Local CPU-Friendly High-Quality TTS with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) ⭐️ 7.0/10
 
-The U.S. Supreme Court declined to block a Texas law that requires mobile app developers to verify users' ages before granting access. This ruling allows Texas to enforce the law, which is designed to protect minors from harmful content. This ruling sets a precedent for state-level age verification mandates, potentially leading to a patchwork of different requirements across the US. Tech companies and app developers face increased compliance costs and privacy concerns due to the need for identity verification. The Texas law, House Bill 18, applies to apps that sell products or services harmful to minors, such as dating apps or gambling platforms. It does not cover all apps but requires age gates for content deemed potentially harmful. Critics argue it may violate free speech rights and burden anonymous speech.
+Kokoro (Kokoro-82M) is an open-source text-to-speech model with 82 million parameters that can generate high-quality speech on CPU without requiring a GPU, as demonstrated in a recent blog post. This is significant because it makes high-quality TTS accessible to users without expensive GPU hardware, enabling local, privacy-preserving speech synthesis for accessibility tools, content consumption, and voice interfaces on a wider range of devices. Kokoro supports manual IPA pronunciation guides to handle homographs but may struggle with single words or homograph disambiguation. It is compatible with Apple Silicon via the mlx-audio library and can serve as a local alternative to cloud-based TTS services.
 
-reddit · r/technology · /u/habichuelacondulce · Jul 6, 20:10
+hackernews · speckx · Jul 7, 18:24 · [Discussion](https://news.ycombinator.com/item?id=48821576)
 
-**Background**: Age verification is the process of confirming a user's age online, often through uploading a government ID, facial analysis, or using third-party services like Yoti. Many US states have proposed or enacted similar laws to protect minors, but these face legal challenges over privacy and free speech. The Supreme Court's decision not to block Texas's law signals a potential shift toward more state-level regulation of online age verification.
+**Background**: Text-to-speech (TTS) systems convert written text into spoken words. Many high-quality TTS models rely on powerful GPUs for inference, limiting local deployment. Kokoro is a lightweight 82M parameter model that runs efficiently on CPUs, making it suitable for accessibility and edge applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Age_verification">Age verification - Wikipedia</a></li>
-<li><a href="https://www.yoti.com/business/age-verification/">Age checks for online users and custom-built apps - Yoti</a></li>
-<li><a href="https://www.newamerica.org/insights/age-verification-the-complicated-effort-to-protect-youth-online/age-assurance-and-age-verification/">Age Assurance and Age Verification - New America</a></li>
+<li><a href="https://grokipedia.com/page/Kokoro_TTS">Kokoro TTS</a></li>
+<li><a href="https://kokorottsai.com/">Kokoro TTS: Advanced AI Text-to-Speech Model with 82M parameters</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#regulation`, `#age verification`, `#legal`
+**Discussion**: Community comments express enthusiasm for Kokoro, especially from users without NVIDIA GPUs. One user integrated it into an accessibility product and appreciated IPA support but noted issues with homographs and single-word utterances. Others shared alternative solutions or extensions for easier use.
+
+**Tags**: `#TTS`, `#CPU`, `#accessibility`, `#local AI`, `#open source`
 
 ---
 
 <a id="item-8"></a>
-## [SpaceX deorbits 260 Starlink satellites, raising environmental and regulatory issues](https://www.reddit.com/r/technology/comments/1uorxgc/spacex_vaporizes_260_starlink_satellites_in_six/) ⭐️ 8.0/10
+## [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) ⭐️ 7.0/10
 
-SpaceX has deorbited and vaporized 260 Starlink satellites over the past six months using controlled atmospheric reentry, as part of its strategy to mitigate orbital debris risks. This massive deorbiting operation raises environmental concerns because each satellite contains materials that may deplete the ozone layer upon reentry, and the FCC is considering exempting satellites from certain regulations that could affect future oversight. The decommissioned satellites weighed approximately 2,700 pounds (about 1,225 kg) each, and their deliberate burn-up in the atmosphere adds to growing questions about the cumulative environmental impact of megaconstellations.
+StreetComplete is an Android app that presents small, location-specific quests to users, allowing anyone to contribute to OpenStreetMap without prior knowledge. The app simplifies data collection by asking simple questions about surroundings. By lowering the barrier to entry, StreetComplete significantly increases the pool of potential contributors to OpenStreetMap, enhancing the quality and density of geodata. This is crucial for maintaining an up-to-date, free map alternative to proprietary services. The app focuses on answering existing quests rather than creating new features from scratch, which can be limiting for advanced users. It also relies on on-site visits, making it unsuitable for remote mapping.
 
-reddit · r/technology · /u/Logical_Welder3467 · Jul 6, 09:01
+hackernews · kls0e · Jul 7, 12:38 · [Discussion](https://news.ycombinator.com/item?id=48816883)
 
-**Background**: Starlink is a satellite internet megaconstellation operated by SpaceX, currently consisting of thousands of small satellites in low Earth orbit. To keep space safe and sustainable, SpaceX proactively deorbits older satellites before they lose control authority. However, the atmospheric reentry of satellites generates extreme heat and can release pollutants that threaten the ozone layer, as noted in recent studies.
+**Background**: OpenStreetMap (OSM) is a volunteer-driven, open-license map database of the world. Traditional editing requires understanding complex tagging schemes, which deters casual contributors. StreetComplete bridges this gap by presenting simple, multiple-choice quests based on missing data.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://satnews.com/2026/07/05/spacex-controlled-deorbit-report-discloses-decommissioning-of-260-starlink-satellites-over-six-months/">SpaceX Controlled-Deorbit Report Discloses Decommissioning of 260 Starlink Satellites Over Six Months – SatNews</a></li>
-<li><a href="https://www.rfsafe.com/articles/cell-phone-radiation/how-satellite-reentry-could-threaten-the-ozone-layer-in-the-age-of-mega-constellations.html">How Satellite Reentry Could Threaten the Ozone Layer in the Age of...</a></li>
-<li><a href="https://www.space.com/spacex-starlink-satellites-deorbit-space-sustainability">SpaceX deorbiting 100 older Starlink satellites to 'keep space safe and sustainable' | Space</a></li>
+<li><a href="https://en.wikipedia.org/wiki/StreetComplete">StreetComplete - Wikipedia</a></li>
+<li><a href="https://streetcomplete.app/">StreetComplete</a></li>
+<li><a href="https://wiki.openstreetmap.org/wiki/StreetComplete">StreetComplete - OpenStreetMap Wiki</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#space debris`, `#Starlink`, `#environmental impact`, `#satellite regulation`, `#FCC`
+**Discussion**: Community members generally praise StreetComplete for its beginner-friendly interface and fun way to contribute. However, some users express frustration with duplicate data entry and limited editing capabilities, wishing for more advanced features like adding simple roads or footpaths. There is also a discussion about data licensing and concerns that Google may use OSM data without reciprocity.
+
+**Tags**: `#openstreetmap`, `#mapping`, `#open-source`, `#geodata`, `#crowdsourcing`
 
 ---
 
 <a id="item-9"></a>
-## [CoMaps: A FOSS Offline Maps Fork with Auto Updates](https://www.comaps.app/) ⭐️ 7.0/10
+## [Davit: A Native macOS UI for Apple Containers](https://davit.app/) ⭐️ 7.0/10
 
-CoMaps is a free and open-source offline navigation app forked from Organic Maps, featuring automatic map updates and using OpenStreetMap data. It addresses privacy-conscious users who need offline navigation without tracking, but user feedback highlights search quality as a remaining challenge for OSM-based apps. Users receive notifications to download updated maps every two weeks, but timing estimates can be off by 5-15 minutes compared to Apple Maps on longer drives.
+Davit is a newly released, native macOS front-end for Apple Containers, built using AI assistance (Claude) in just 3 days with 28 commits and 5,015 lines of Swift. It provides a lightweight graphical interface for managing Linux containers on Apple Silicon Macs. Davit offers a free, open-source alternative to paid tools like Orbstack, filling a gap for a native UI for Apple's official container tool. Its small size (17 MB) and direct use of ContainerAPIClient showcase a streamlined approach that could encourage more developers to adopt Apple Containers. The app is 17 MB in zip form but the binary is 56 MB, likely due to assets. It is signed and notarized, and on first launch it downloads the required container runtime. The project is fully vibe-coded with every commit co-authored by Claude.
 
-hackernews · basilikum · Jul 6, 18:55 · [Discussion](https://news.ycombinator.com/item?id=48808928)
+hackernews · xinit · Jul 7, 18:44 · [Discussion](https://news.ycombinator.com/item?id=48821848)
 
-**Background**: CoMaps is a community-driven fork of Organic Maps, which itself is based on the OpenStreetMap (OSM) data set. OSM is a collaborative project to create a free editable map of the world, enabling offline navigation without data collection. The fork arose due to concerns over governance and proprietary components in Organic Maps.
+**Background**: Apple Containers is an open-source command-line tool introduced by Apple at WWDC 2025 for running Linux containers on macOS using lightweight VMs, optimized for Apple Silicon. Before Davit, users relied on command-line interfaces or third-party GUI tools like OrbStack. Davit provides a native macOS UI built directly against Apple's ContainerAPIClient library.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/CoMaps">CoMaps</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Organic_Maps">Organic Maps</a></li>
-<li><a href="https://www.comaps.app/">Hike, Bike, Drive Offline – Navigate with Privacy | CoMaps</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apple_container">Apple container - Wikipedia</a></li>
+<li><a href="https://github.com/apple/container">GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. · GitHub</a></li>
+<li><a href="https://orbstack.dev/">OrbStack · Fast, light, simple Docker & Linux</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Users appreciate the auto-update feature and find the app useful, but many criticize the search functionality as poor, making it hard to find destinations. Some also inquire about missing features like bus route overlays and mention the fork's background from a previous HN discussion.
+**Discussion**: Commenters generally praised the app for its solid design and native feel, with one user noting it worked perfectly for running nginx. There was curiosity about the binary compression ratio and a suggestion to add a getting-started tutorial. Some compared it favorably to OrbStack, appreciating its free and open-source nature.
 
-**Tags**: `#FOSS`, `#offline maps`, `#OpenStreetMap`, `#navigation`, `#open-source`
+**Tags**: `#Apple Containers`, `#macOS`, `#UI`, `#Docker alternative`, `#vibe-coding`
 
 ---
 
 <a id="item-10"></a>
-## [Xbox Restructuring Amid Profit Margin Concerns](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/) ⭐️ 7.0/10
+## [EU mandates driver monitoring cameras in all new cars](https://allaboutcookies.org/eu-mandatory-distracted-driver-system) ⭐️ 7.0/10
 
-Xbox announced a restructuring plan to address thin profit margins, despite generating $5 billion in revenue per quarter, leading to layoffs and studio independence. This restructuring highlights ongoing challenges in Microsoft's gaming strategy, raising questions about the sustainability of Game Pass and the impact on the industry as competitors like Nintendo and Sony take different approaches. The company reported $5 billion quarterly revenue but only $150-160 million profit, prompting cost-cutting measures and allowing studios to regain independence where possible.
+Starting July 7, 2026, all new cars sold in the European Union must include a driver monitoring camera system as part of the General Safety Regulation (EU) 2019/2144. This regulation aims to reduce accidents caused by driver distraction and drowsiness, potentially saving thousands of lives annually, but it also raises significant privacy concerns and could degrade the user experience if implemented poorly. The camera systems use infrared sensors and computer vision to track eye gaze, head position, and eyelid movements; they issue alerts when distraction or drowsiness is detected. Some existing systems, such as Ford's Blue Cruise, have already demonstrated high accuracy in real-world use.
 
-hackernews · dijksterhuis · Jul 6, 14:18 · [Discussion](https://news.ycombinator.com/item?id=48804993)
+hackernews · nickslaughter02 · Jul 7, 20:50 · [Discussion](https://news.ycombinator.com/item?id=48823557)
 
-**Background**: Xbox is Microsoft's gaming division, competing with Sony's PlayStation and Nintendo. Despite high revenue, profit margins have been thin, partly due to heavy investments in Game Pass and acquisitions. The restructuring aims to return to growth by trimming operations.
+**Background**: Driver monitoring systems (DMS) have been available in premium vehicles for years, using cameras and AI to assess driver alertness. The EU's General Safety Regulation (GSR) makes them mandatory to address the fact that distracted driving is a leading cause of road fatalities. The regulation applies to all new type approvals from July 7, 2026, and to all new cars from July 7, 2027.
 
-**Discussion**: Commenters expressed frustration, with rockyj calling the situation a mess despite large revenue, and hbn arguing Microsoft's engineering culture clashes with game development's artistic nature. speak_plainly contrasted Nintendo's success with simpler games, while dagmx sympathized with affected employees but appreciated the transparency about corporate blame.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Driver_monitoring_system">Driver monitoring system - Wikipedia</a></li>
+<li><a href="https://smarteye.se/blog/the-general-safety-regulations-gsr-and-driver-monitoring-systems-dms/">How Driver Monitoring Systems (DMS) Are Being Made Mandatory ...</a></li>
+<li><a href="https://www.autonext.co/news/eu-new-car-safety-features-mandatory-july-2026">New EU car safety rules start today, cameras included</a></li>
 
-**Tags**: `#Xbox`, `#Microsoft`, `#Gaming Industry`, `#Business Strategy`, `#Console Wars`
+</ul>
+</details>
+
+**Discussion**: Commenters express mixed feelings: some find modern car UX intrusive with constant beeping and unwanted lane assist, while one user praises Ford's Blue Cruise for accurately detecting real distractions without false alerts. The debate highlights the tension between safety benefits and user annoyance.
+
+**Tags**: `#automotive`, `#regulation`, `#privacy`, `#safety`, `#driver-monitoring`
 
 ---
 
 <a id="item-11"></a>
-## [OfficeCLI: CLI Office Suite for AI Agents](https://github.com/iOfficeAI/OfficeCLI) ⭐️ 7.0/10
+## [Jim's TrueType Font Generates Scannable QR Codes](https://github.com/jimparis/qr-font) ⭐️ 7.0/10
 
-OfficeCLI is an open-source, single-binary command-line tool that enables AI agents to read, edit, and automate Word, Excel, and PowerPoint files without requiring Microsoft Office to be installed. 该工具弥合了AI代理与广泛使用的Office文档格式之间的差距，支持直接从命令行接口自动执行数据提取、报告生成和内容操作等工作流程。 OfficeCLI provides full control over Office files via a single line of code, but community comments note it may not be the first of its kind and that ECMA-376 compliance testing is not prominently featured.
+A new open-source TrueType font called 'QR Font' converts text inside brackets into a valid, scannable QR code when rendered, while leaving surrounding text readable. This creative hack turns font rendering into a QR code generator, enabling QR codes to be embedded directly in documents via font selection, though it currently supports only Basic Latin characters. The font supports three QR versions based on payload size, but has issues with spaces which can break the QR code on platforms like Safari iOS; it also only covers Basic Latin (English-only).
 
-hackernews · maxloh · Jul 6, 16:47 · [Discussion](https://news.ycombinator.com/item?id=48807225)
+hackernews · arantius · Jul 7, 16:30 · [Discussion](https://news.ycombinator.com/item?id=48820119)
 
-**Background**: AI agents are software programs that can perform tasks autonomously, often by interacting with APIs or tools. Command-line interfaces (CLI) allow text-based commands to control software. OfficeCLI aims to give AI agents programmatic access to Microsoft Office file formats, which are complex binary or XML-based formats.
+**Background**: QR codes are two-dimensional barcodes that store data such as text or URLs and are scanned by smartphones. TrueType fonts define glyph shapes; by exploiting OpenType features, Jim Paris created a font where each character maps to a QR pattern, thereby generating codes from typed text. This is an experimental project, not a replacement for standard QR code generators.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/iOfficeAI/OfficeCLI">GitHub - iOfficeAI/ OfficeCLI : OfficeCLI is the first and best Office suite...</a></li>
-<li><a href="https://officecli.io/">OfficeCLI | External and Hosted AI PPTX, DOCX, XLSX, REPORT...</a></li>
+<li><a href="https://github.com/jimparis/qr-font">GitHub - jimparis/qr-font: A QR code generator in a TrueType ...</a></li>
+<li><a href="https://bizfonts.com/free-qr-code/">Free Barcode Font for QR Code Download - bizfonts.com</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Reactions are mixed: some users appreciate the utility and found immediate use cases, while others point to existing similar projects and raise concerns about trademark compliance with the name 'OfficeCLI'. One commenter recommends alternative approaches like generating HTML slides and converting to PDF for simpler tasks.
+**Discussion**: Commenters praised the cleverness of the hack, with one calling it 'amazing' despite being impractical for daily use. Several noted limitations: spaces break the code and only Basic Latin characters are supported. A positive aspect highlighted is the ability to copy the original text by selecting the QR code image.
 
-**Tags**: `#AI agents`, `#office suite`, `#CLI tool`, `#open source`, `#Microsoft Office`
+**Tags**: `#qr-code`, `#font`, `#hack`, `#typography`, `#opensource`
 
 ---
 
 <a id="item-12"></a>
-## [Chinese eVTOL Electric Drive Startup Raises Millions](https://36kr.com/p/3883721315971078?f=rss) ⭐️ 7.0/10
+## [pgdog: A New Postgres Connection Pooler for State Leak and NOTIFY Issues](https://pgdog.dev/blog/why-yet-another-connection-pooler) ⭐️ 7.0/10
 
-Kaipu Dongneng (开普动能) has completed seed and angel rounds totaling millions of RMB, led by Zero Capital with follow-on investment from New Ding Capital, for developing aviation electric drive systems. The company plans to deliver a first-generation technology demonstrator in 2025 and a flight-capable prototype by early 2026. This funding highlights growing investor confidence in China's eVTOL supply chain, particularly in high-barrier electric drive systems. With a team experienced at Siemens and Rolls-Royce, the startup could accelerate domestic substitution for core aviation electric propulsion components. The aviation electric drive system accounts for 30-40% of eVTOL cost and must meet stringent airworthiness standards including DO-178C/DO-254. Kaipu Dongneng's team has participated in over 20 electric flight platforms and accumulated 1,500+ flight sorties, and is targeting both UAM and RAM markets.
+PgDog is a new open-source connection pooler, load balancer, and sharding proxy for PostgreSQL, written in Rust, that aims to solve state leaking between reused connections and improve NOTIFY performance. State leaking can cause subtle bugs in multi-tenant applications, and poor NOTIFY performance limits real-time features; pgdog's approach could improve reliability and scalability for Postgres deployments. PgDog is licensed under AGPL, which community members prefer over BSL variants. It includes NOTIFY handling optimizations, but questions remain about whether those break transactional semantics.
 
-rss · 36氪 · Jul 6, 05:26
+hackernews · levkk · Jul 7, 15:36 · [Discussion](https://news.ycombinator.com/item?id=48819308)
 
-**Background**: eVTOL (electric vertical takeoff and landing) aircraft rely on electric drive systems for propulsion, similar to electric vehicles but with much higher safety and reliability requirements. DO-178C and DO-254 are certification standards for airborne software and hardware, respectively, ensuring safety in aviation. The electric drive system is considered the 'heart' of electric aircraft, with high technical barriers.
+**Background**: Connection poolers reuse database connections across clients to reduce overhead. However, this reuse can cause state leaking, where settings like session variables or prepared statements from one client affect another. Existing poolers like PgBouncer and Pgpool-II have limitations in handling these issues and NOTIFY/listen performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/DO-178C">DO-178C</a></li>
-<li><a href="https://en.wikipedia.org/wiki/DO-254">DO-254</a></li>
+<li><a href="https://github.com/pgdogdev/pgdog">GitHub - pgdogdev/pgdog: PostgreSQL connection pooler, load ...</a></li>
+<li><a href="https://pgdog.dev/">PgDog - Horizontal scaling for PostgreSQL</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#eVTOL`, `#electric aviation`, `#electric drive systems`, `#funding`, `#China`
+**Discussion**: The community praised the AGPL license choice over BSL variants. There were questions about state leaking severity, plans for query caching, and concerns about schema switching for multi-tenancy. One comment asked whether the NOTIFY optimization compromises transactional guarantees.
+
+**Tags**: `#postgres`, `#connection-pooling`, `#database`, `#open-source`, `#AGPL`
 
 ---
 
 <a id="item-13"></a>
-## [AI-Driven Layoffs Hit Chinese Tech Firms, Junior Devs First](https://36kr.com/p/3883456791163138?f=rss) ⭐️ 7.0/10
+## [Former DJI Engineer Raises Millions for Smart Knitting Machine](https://36kr.com/p/3876837605585160?f=rss) ⭐️ 7.0/10
 
-A wave of layoffs at Chinese internet giants like Ctrip, Meituan, and Alibaba is being attributed to AI-driven efficiency, with junior developers and even high-performers being let go. The term '630' has become a buzzword on social media, referring to the end of Q2 2025 as the common last day for affected employees. This trend signals a structural shift in the tech industry where AI tools are reducing the need for human labor, especially for routine coding tasks. It highlights the growing pressure on employees to adopt AI or risk being replaced, and raises concerns about job security for young and mid-level workers. A Stanford paper, 'Canaries in the Coal Mine?', found that employment for young software developers aged 22-25 dropped nearly 20% from its 2022 peak by September 2025. Companies like Meituan are pushing internal AI tools (e.g., 'lobster') and tracking token usage, leading to a culture of 'token competition' and performance anxiety.
+CLAWLAB, founded by a former DJI engineer, has raised over 100 million RMB in multiple rounds from Sequoia, Shunwei Capital, and miHoYo to develop a consumer-level smart knitting machine and a textile Station platform. This marks a rare attempt to modernize the long-neglected home textile machine market with AI and robotics, potentially unlocking a massive DIY crafting community. If successful, it could create a new hardware platform akin to 3D printing but for textiles. The company has developed proprietary algorithms to convert knitting patterns into machine instructions, and an AI Agent that generates designs from photos or natural language. Their first product, an automatic tufting gun, generated nearly 100 million RMB in revenue over two years.
 
-rss · 36氪 · Jul 6, 02:26
+rss · 36氪 · Jul 7, 02:29
 
-**Background**: The integration of AI coding assistants (e.g., GitHub Copilot, Claude Code) has dramatically increased developer productivity, allowing product demos that once took months to be built in weeks. However, this efficiency gain also reduces the need for large engineering teams. Companies face pressure to invest in AI while cutting costs in mature businesses, leading to layoffs even among high-performing employees.
+**Background**: Traditional home knitting machines rely on purely mechanical structures and require skilled operators to read patterns and adjust tension. Tufting guns are electric tools used for DIY carpet making, but most lack automation and software integration. The global textile DIY community is large, with billions of views on platforms like TikTok and Xiaohongshu, yet no integrated hardware-software solution exists for home use.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf">Canaries in the Coal Mine ? Six Facts about the Recent Employment ...</a></li>
-<li><a href="https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/">Canaries in the Coal Mine ? Six Facts about the Recent Employment ...</a></li>
-<li><a href="https://www.linkedin.com/pulse/9-canaries-coal-mine-ais-impact-young-workers-real-werchota-ai-wkptc">#9 Canaries in the coal mine : AI 's impact on young workers is real</a></li>
+<li><a href="https://wenku.baidu.com/view/28bcbadeb3717fd5360cba1aa8114431b90d8e93.html">簇绒枪原理 - 百度文库</a></li>
+<li><a href="https://bk.taobao.com/k/zhenzhijixie_12679/5446d8e54af9996a249f09cdef24fabd.html">Tufting Gun：DIY织毯新宠悄然崛起-针织机械-淘宝百科网</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/475734853">万物皆可Tufting，今天你搞了什么毛线？ - 知乎</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#layoffs`, `#tech industry`, `#employment`, `#efficiency`
+**Tags**: `#consumer hardware`, `#textile`, `#DIY`, `#startup`, `#funding`
 
 ---
 
 <a id="item-14"></a>
-## [Quantum Computing's 2026 Surge: Orders, IPOs, Billions in Market Cap](https://36kr.com/p/3883513899380744?f=rss) ⭐️ 7.0/10
+## [Microsoft Begins Using In-House AI Models in Office Apps](https://36kr.com/newsflashes/3886185002823686?f=rss) ⭐️ 7.0/10
 
-In 2026, the quantum computing industry accelerated commercialization: Quantinuum went public on Nasdaq with a market cap exceeding $15 billion, while Chinese startup Origin Quantum closed a nearly 30 billion RMB Pre-IPO round. Domestic quantum financing in Q1 2026 reached 32.04 billion RMB, surpassing the total for all of 2025. This marks a turning point as quantum computing moves from research to real-world revenue and public markets, signaling that the technology is finally approaching practical deployment. It impacts investors, technology companies, and national security interests, especially in cryptography and AI. Quantinuum, despite having only $30.9 million in revenue and a $193 million net loss, achieved a market cap over $15 billion. Origin Quantum's pre-IPO valuation reached 210 billion RMB. However, many orders still come from research institutions, and true commercial applications remain limited.
+Microsoft has started using its own MAI models in Excel and Outlook, handling tens of thousands of AI tasks weekly, replacing models from OpenAI and Anthropic. This move reduces Microsoft's dependence on external AI providers and lowers costs, signaling a strategic shift toward in-house AI capabilities that could reshape the competitive landscape. The MAI models used in Office tasks are part of a broader family that includes text, image, voice, and speech models, recently announced in Microsoft Foundry. The specific models deployed in Excel and Outlook have not been disclosed.
 
-rss · 36氪 · Jul 6, 02:15
+rss · 36氪 · Jul 7, 23:25
 
-**Background**: Quantum computing has been in the NISQ (Noisy Intermediate-Scale Quantum) era, where qubits are error-prone and machines act more like lab instruments. Recent breakthroughs in logical qubits and error correction, such as Microsoft and Quantinuum's 12-logical-qubit record in 2024, have enabled more stable computation. Google's Willow chip also demonstrated speedups. China's 15th Five-Year Plan (2025) listed quantum technology as a top future industry, driving policy-driven capital.
+**Background**: Microsoft has been a major investor in OpenAI, but is now developing its own models to cut costs and gain more control over its AI stack. The MAI series, available via Microsoft Foundry, aims to provide world-class quality at competitive prices across multiple modalities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Quantinuum">Quantinuum - Wikipedia</a></li>
-<li><a href="https://am.linkedin.com/company/origin-quantum">Origin Quantum | LinkedIn</a></li>
-<li><a href="https://freshfromchina.com/chinas-fourth-generation-superconducting-quantum-computer-just-went-live-heres-what-it-means-for-investors/">China 's Fourth-Generation Superconducting Quantum Computer Just...</a></li>
+<li><a href="https://microsoft.ai/models/">Models - Microsoft AI</a></li>
+<li><a href="https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/">Announcing 3 new world class MAI models, available in Foundry ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#量子计算`, `#商业化`, `#融资`, `#IPO`
+**Tags**: `#微软`, `#AI模型`, `#自研`, `#Office`, `#成本控制`
 
 ---
 
 <a id="item-15"></a>
-## [UK Regulator Urges Oversight of LLMs in Finance to Mitigate Systemic Risks](https://36kr.com/newsflashes/3884784672763906?f=rss) ⭐️ 7.0/10
+## [AI System Translates Protein Sequences into Text](https://36kr.com/newsflashes/3886178922541318?f=rss) ⭐️ 7.0/10
 
-The UK Financial Conduct Authority (FCA) has released an assessment recommending that large language models (LLMs) such as ChatGPT, Claude, and Gemini be brought under regulatory oversight to address systemic risks and consumer harm in financial services. This marks a significant step toward regulating AI in finance, potentially setting a precedent for other jurisdictions. It highlights concerns that heavy reliance on a few LLM providers could create single points of failure in the financial system. The report was commissioned by the FCA and authored by external assessors; FCA Executive Director Sheldon Mills emphasized that dependency on a handful of technology vendors could introduce system-wide risks. The assessment specifically mentions LLMs like ChatGPT, Claude, and Gemini.
+Researchers from Technion and Tel Aviv University developed BetaDescribe, an AI system that translates protein sequences into natural-language descriptions of their functions and properties. The work was published in the Proceedings of the National Academy of Sciences (PNAS). This approach provides a new way to understand protein functions without relying solely on sequence similarity, potentially accelerating drug discovery and the design of novel materials. It bridges biological sequence data and human-readable text, making protein analysis more accessible. BetaDescribe integrates biological knowledge with natural language models to capture functional signals beyond sequence homology, and it can highlight regions critical for protein activity. The system ensures description reliability through an integrated approach combining multiple AI components.
 
-rss · 36氪 · Jul 6, 23:27
+rss · 36氪 · Jul 7, 23:05
 
-**Background**: The Financial Conduct Authority (FCA) is the UK's financial regulatory body, independent of government and funded by industry fees. Large language models are AI systems trained on vast text data to generate human-like text; they are increasingly used in financial advisory, customer service, and trading. Systemic risk refers to the vulnerability of the entire financial system to the failure of a single entity, a key concern since the 2008 financial crisis.
+**Background**: Proteins are molecules that perform a vast array of functions in living organisms, and their function is determined by their amino acid sequence. Traditionally, predicting protein function relies on comparing sequences to known databases, which is limited for novel sequences. BetaDescribe uses AI to directly generate textual descriptions of function from sequence alone, representing a paradigm shift in bioinformatics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Financial_Conduct_Authority">Financial Conduct Authority - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Large_language_model_emergent_abilities">Large language model emergent abilities</a></li>
+<li><a href="https://phys.org/news/2026-07-ai-protein-sequences-text-reveal.html">AI system translates protein sequences into text, helping ...</a></li>
+<li><a href="https://www.pnas.org/doi/10.1073/pnas.2537345123">BetaDescribe: Providing rich descriptions from protein ... - PNAS</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI regulation`, `#financial services`, `#LLM`, `#systemic risk`
+**Tags**: `#AI`, `#蛋白质`, `#药物研发`, `#生物信息学`
 
 ---
 
 <a id="item-16"></a>
-## [Glass Substrate Hits Key Verification Phase; Yield Decides Commercialization](https://36kr.com/newsflashes/3884779328696323?f=rss) ⭐️ 7.0/10
+## [Amazon Plans $25 Billion Bond Raise for AI Infrastructure](https://36kr.com/newsflashes/3886177762078721?f=rss) ⭐️ 7.0/10
 
-Glass substrates for semiconductor advanced packaging are entering a critical verification phase, with TGV (Through Glass Via) process yield being the decisive factor for scaling from samples to mass production. As traditional organic substrates approach performance and reliability limits, glass substrates offer superior electrical performance, low CTE matching silicon, and high flatness, potentially revolutionizing high-density packaging. Successful yield ramp could accelerate adoption in AI chips, HPC, and 5G/6G devices. The TGV process, including via formation (laser ablation, electrochemical discharge machining, etc.) and metallization, is the core challenge; current yield levels are not disclosed but must meet customer qualification standards. Glass substrate stocks have been trending up in A-share markets due to this narrative.
+Amazon plans to raise at least $25 billion through an eight-tranche bond issuance to fund its massive AI infrastructure expansion, and has told underwriters it will not issue any new bonds for the remainder of the year. This move underscores the immense capital investment required for AI infrastructure, signaling a major trend among tech giants to secure funding for competitive advantage in AI. The bond issuance is structured in eight tranches, and the information was shared by anonymous sources as the details are not public. Amazon's commitment to avoid further bond sales this year suggests it aims to lock in current favorable rates.
 
-rss · 36氪 · Jul 6, 23:21
+rss · 36氪 · Jul 7, 23:04
 
-**Background**: Glass substrates are ultra-flat, dimensionally stable materials used in semiconductor packaging, offering advantages over organic substrates: lower dielectric loss for high-speed signals, coefficient of thermal expansion (CTE) close to silicon to reduce warpage, and ability to support fine-line patterning. TGV is the key enabling technology that creates electrical interconnections through the glass panel, analogous to TSV in silicon interposers. The semiconductor industry is under pressure to improve packaging density and performance as Moore's Law slows, making glass substrates a promising candidate for 2.5D/3D integration.
+**Background**: Bond issuance is a common debt capital-raising method for large companies. Amazon's massive raise reflects the heavy investment needed for AI infrastructure, including data centers and specialized hardware, as the company competes with rivals like Microsoft and Google in the AI space.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.corning.com/media/worldwide/cdt/documents/IMAPs_Corning_TGV_FINAL.pdf">PROGRESS AND APPLICATION OF THROUGH GLASS ...</a></li>
-<li><a href="https://pcbmake.com/glass-substrate/">Glass Substrate in Semiconductor Packaging : Pros and Cons</a></li>
-<li><a href="https://ontoinnovation.com/resources/through-the-glass-why-the-rapid-development-of-tgv-demands-rigorous-analysis/">Through the Glass: Why the Rapid Development of TGV Demands Rigorous Analysis - Onto Innovation</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#glass substrate`, `#advanced packaging`, `#semiconductor manufacturing`, `#TGV`
+**Tags**: `#Amazon`, `#AI infrastructure`, `#bond issuance`, `#investment`
 
 ---
 
 <a id="item-17"></a>
-## [First AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/) ⭐️ 7.0/10
+## [Meta launches Muse Image AI model for image generation](https://36kr.com/newsflashes/3886176091320325?f=rss) ⭐️ 7.0/10
 
-An AI agent executed a real-world ransomware attack for the first known time, but new details reveal a human selected the victim, set up the infrastructure, and supplied stolen credentials, contradicting earlier claims of full autonomy. This incident clarifies the current limitations of AI autonomy in cybercrime, showing that human involvement remains critical for key attack decisions. The findings have important implications for cybersecurity research, policy-making, and how organizations assess AI-driven threats. The AI agent handled technical execution, but the human attacker chose the target, prepared the attack environment, and provided stolen login credentials. This means the attack was not fully autonomous, debunking sensationalist headlines about the first fully AI-run cybercrime.
+Meta has unveiled Muse Image, its first image generation model from Meta Superintelligence Labs, integrated into Meta AI chatbot and social apps like Instagram and WhatsApp starting July 7, 2026. This marks Meta's major push into generative AI for consumers and advertisers, leveraging its massive user base across multiple platforms to compete with offerings from OpenAI and Google. Users can generate images from text prompts or edit existing images using the model, and advertisers will soon be able to create marketing materials with it.
 
-rss · TechCrunch · Jul 6, 23:56
+rss · 36氪 · Jul 7, 23:02
 
-**Background**: Agentic AI refers to systems that can perceive, reason, and act autonomously to solve complex problems. In cybersecurity, AI agents are increasingly used for both defense and offense, with predictions that autonomous ransomware attacks will become common by 2030. However, this case demonstrates that current AI still requires human oversight for critical attack components.
+**Background**: AI image generation models use deep learning to create or modify images based on textual descriptions. Meta restructured its AI lab last year with a multi-billion dollar investment and appointed Alexandr Wang as Chief AI Officer, leading to the development of Muse Image.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/the-next-phase-of-cybercrime-agentic-ai-and-the-shift-to-autonomous-criminal-operations">The Next Phase of Cybercrime: Agentic AI and the Shift to Autonomous Criminal Operations | Trend Micro (US)</a></li>
-<li><a href="https://www.cybersecuritydive.com/news/cybercrime-ai-ransomware-mcp-malwarebytes/811360/">Autonomous attacks ushered cybercrime into AI era in 2025 | Cybersecurity Dive</a></li>
+<li><a href="https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/">Introducing Muse Image: Image Generation Built for Your World</a></li>
+<li><a href="https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html">Meta debuts Muse Image, Superintelligence Labs' first AI ...</a></li>
+<li><a href="https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/">Meta rolls out Muse, a new AI image generator | TechCrunch</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#AI`, `#ransomware`, `#cybercrime`, `#automation`
+**Tags**: `#AI`, `#image generation`, `#Meta`
 
 ---
 
 <a id="item-18"></a>
-## [Google Uses Your Data for AI Training; Here's How to Opt Out](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/) ⭐️ 7.0/10
+## [AI takes over stock market, bond market next](https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next) ⭐️ 7.0/10
 
-Google updated its privacy settings to allow storing more user data, including images, files, and audio/video recordings, for AI model training. The article provides instructions on how to opt out of this data use. This change affects billions of Google users, raising significant privacy concerns. Opting out is crucial for those who do not want their personal media used to train AI systems. The opt-out process may involve navigating through multiple privacy settings and confirming choices. Users should be aware that opting out might limit some personalized features.
+According to a recent Economist article, AI has already dominated stock market trading and is now poised to transform bond markets, though assessing credit risk during the AI boom remains challenging. As AI expands into bond markets, it could significantly impact fixed-income investing and credit risk assessment, reshaping how institutional investors approach debt securities. The article highlights that judging credit risk of the AI boom is difficult, while separate research shows bond prices fell upon new AI model releases, indicating investor skepticism about AI's positive economic impact.
 
-rss · TechCrunch · Jul 6, 17:04
+rss · The Economist · Jul 7, 20:08
 
-**Background**: Google uses user data to improve its AI models, including services like Search, Assistant, and Photos. This practice is common among tech companies, but privacy advocates argue for more transparency and control. The recent privacy setting change expands the types of data Google can collect.
+**Background**: Credit risk assessment traditionally relies on financial ratios and models like Altman Z-score. Machine learning methods—such as Random Forest and XGBoost—are increasingly used to predict financial distress. Bond markets are less liquid than stocks, making AI's role in pricing and trading more complex.
 
-**Tags**: `#privacy`, `#Google`, `#AI`, `#data`, `#opt-out`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/what-bond-market-has-to-say-about-generative-ai">What the bond market has to say about generative AI | MIT Sloan</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S277266222500061X">An analytical approach to credit risk assessment using machine learning models - ScienceDirect</a></li>
+<li><a href="https://www.ltxtrading.com/">LTX Trading – The AI-Powered Bond Trading Platform</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#finance`, `#stock market`, `#bond market`, `#credit risk`
 
 ---
 
 <a id="item-19"></a>
-## [Reddit uses LLMs to fight spam created by LLMs](https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/) ⭐️ 7.0/10
+## [Figma acquires YC-backed vibe coding team](https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/) ⭐️ 7.0/10
 
-Reddit has deployed large language models to detect and remove spam, much of which is now generated by similar AI tools. This highlights an escalating arms race between AI-generated content and AI moderation, with platforms forced to rely on the same technology causing the problem. The approach illustrates the irony of using LLMs to solve a problem they largely created, though details on Reddit's specific implementation are not provided.
+Figma has acquired the Y Combinator-backed team behind a vibe-coding platform, which later developed an agent-creation product. This acquisition signals Figma's ambition to integrate AI-assisted coding into its design tools, potentially reshaping how developers and designers collaborate. The acquired team was backed by Y Combinator and initially built a vibe-coding platform before pivoting to an agent-creation product. The deal value has not been disclosed.
 
-rss · TechCrunch · Jul 6, 15:22
+rss · TechCrunch · Jul 7, 18:37
 
-**Background**: Large language models (LLMs) like GPT have made it easy to generate convincing text at scale, leading to a surge in automated spam on platforms like Reddit. To combat this, Reddit now uses LLM-based detectors to identify such content.
+**Background**: Vibe coding is a software development practice assisted by AI, where developers describe a project in natural language and the AI generates code automatically. The term was coined by Andrej Karpathy in February 2025 and emphasizes accepting AI-generated code without thorough review.
 
-**Tags**: `#AI`, `#spam detection`, `#content moderation`, `#Reddit`, `#LLMs`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Vibe_coding">Vibe coding</a></li>
+<li><a href="https://aistudio.google.com/vibe-code">Vibe Coding | Google AI Studio</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Figma`, `#acquisition`, `#vibe-coding`, `#AI-assisted development`, `#design tools`
 
 ---
 
 <a id="item-20"></a>
-## [Even Realities hits $1B valuation with $150M from Meituan, Tencent](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/) ⭐️ 7.0/10
+## [First AI-run ransomware attack still needed human help](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/) ⭐️ 7.0/10
 
-Even Realities, a smart glasses startup founded by former Apple engineers, raised $150 million from Meituan and Tencent at a $1 billion valuation. This funding signals strong investor confidence in camera-free AR wearables, a niche that prioritizes privacy and everyday usability. Even Realities' ex-Apple pedigree and rapid ascent could reshape the smart glasses market. The company's flagship product, Even G2, features a slim lens design and ambient AI prompts controlled via a smart ring, with no camera to address privacy concerns. Meituan and Tencent co-led the round, joining existing backers.
+An AI agent executed a real-world ransomware attack for the first time, but a human still chose the victim, set up infrastructure, and supplied stolen credentials. This contradicts earlier headlines suggesting a fully autonomous cybercrime debut. This reveals the current limitations of AI in cybercrime, showing that fully autonomous attacks are not yet a reality. It highlights the ongoing need for human oversight and raises important questions about the true capabilities of AI agents in offensive cybersecurity. The operation, dubbed JadePuffer, involved an AI agent handling technical execution end-to-end. However, human operators were still required for victim selection, infrastructure setup, and credential provision.
 
-rss · TechCrunch · Jul 6, 09:00
+rss · TechCrunch · Jul 6, 23:56
 
-**Background**: Even Realities was founded by former Apple engineers focused on creating smart glasses that avoid the privacy issues of camera-equipped models like Ray-Ban Meta. Their Even G2 uses proprietary optical technology to make lenses 30% thinner at the center. The camera-free design differentiates them in the growing wearables market, where privacy and social acceptance are key adoption barriers.
+**Background**: Ransomware is malware that encrypts a victim's files and demands payment for decryption. Traditional attacks require human hackers to manually execute steps. Recent research has shown that large language models (LLMs) can autonomously carry out such attacks, but this case demonstrates that real-world deployment still requires human input for critical tasks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.evenrealities.com/">Even Realities | Smart Glasses & Wearable Technology</a></li>
-<li><a href="https://www.evenrealities.com/smart-glasses">Smart Glasses with Display & Ambient AI Prompts | Even G2</a></li>
-<li><a href="https://www.evenrealities.com/tech">Even G2 Technology | Optical & Hardware Innovation</a></li>
+<li><a href="https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/">The 'first' AI-run ransomware attack still needed a human | TechCrunch</a></li>
+<li><a href="https://engineering.nyu.edu/news/large-language-models-can-execute-complete-ransomware-attacks-autonomously-nyu-tandon-research">Large language models can execute complete ransomware attacks autonomously, NYU Tandon research shows | NYU Tandon School of Engineering</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#smart glasses`, `#AR`, `#funding`, `#wearables`, `#Tencent`
+**Tags**: `#ransomware`, `#AI`, `#cybersecurity`, `#cybercrime`
 
 ---
 
 <a id="item-21"></a>
-## [FCC to end ISP fee disclosure rule](https://www.reddit.com/r/technology/comments/1upagpq/fcc_to_end_bidenera_rule_that_forces_isps_to_list/) ⭐️ 7.0/10
+## [China unveils carbon-14 nuclear battery with SiC transducer](https://www.scmp.com/news/china/science/article/3359748/china-achieves-microwatt-milestone-self-reliant-carbon-14-nuclear-battery?utm_source=rss_feed) ⭐️ 7.0/10
 
-The FCC is rolling back a Biden-era rule that required internet service providers to disclose all fees upfront, including surcharges and equipment costs. This change reduces consumer transparency, making it harder for subscribers to compare internet plans and identify hidden charges, potentially increasing costs for millions of broadband users. The original rule required ISPs to clearly list all recurring fees in marketing materials and bills; the FCC's decision to end it may spark debate over net neutrality and consumer protection.
+Chinese researchers from Northwest Normal University and Gansu Zhulong Technology unveiled the Qianjiyuan Tianshu carbon-14 nuclear battery with a silicon carbide (SiC) transducer, claiming it was developed without any foreign technology or parts. This achievement marks a significant step toward self-reliant, long-life power sources for applications such as IoT devices and medical implants, potentially reducing dependence on foreign batteries and enabling decades-long operation without recharging. The battery is a major upgrade from the team's previous work and achieves a microwatt-level power output. It uses carbon-14, which has a half-life of 5,700 years, combined with a silicon carbide semiconductor transducer to convert beta decay into electricity.
 
-reddit · r/technology · /u/MarvelsGrantMan136 · Jul 6, 21:15
+rss · SCMP · Jul 7, 13:00
 
-**Background**: The FCC (Federal Communications Commission) regulates interstate communications in the United States. The Biden-era rule was part of broader efforts to increase price transparency and protect consumers from surprise fees. This rollback signals a shift in regulatory approach under the current administration.
+**Background**: Nuclear batteries, specifically betavoltaic cells, generate electricity from radioactive decay without chain reactions. Carbon-14 is a radioactive isotope that emits beta particles, and silicon carbide is a wide-bandgap semiconductor with high radiation resistance, making it suitable for long-term energy conversion. The concept builds on earlier diamond battery proposals.
 
-**Tags**: `#FCC`, `#ISP`, `#internet regulation`, `#consumer protection`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Diamond_battery">Diamond battery - Wikipedia</a></li>
+<li><a href="https://www.livescience.com/technology/engineering/worlds-1st-nuclear-diamond-battery-of-its-kind-could-power-devices-for-1000s-of-years">World's 1st nuclear-diamond battery of its kind could power devices for 1000s of years | Live Science</a></li>
+<li><a href="https://interestingengineering.com/energy/nuclear-battery-radioactive-carbon-china">China's nuclear battery could last for 100 years, uses carbon isotope</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#nuclear battery`, `#carbon-14`, `#energy`, `#SiC`, `#China`
 
 ---
 
 <a id="item-22"></a>
-## [Illinois Governor Signs Landmark AI Bill SB 315](https://www.reddit.com/r/technology/comments/1up55tp/gov_pritzker_puts_signature_on_senate_bill_315/) ⭐️ 7.0/10
+## [China's crude demand to peak within five years on EV push](https://www.scmp.com/business/commodities/article/3359696/peak-oil-chinas-crude-demand-set-fall-ev-bets-ease-hormuz-fears?utm_source=rss_feed) ⭐️ 7.0/10
 
-Illinois Governor J.B. Pritzker signed Senate Bill 315 into law, enacting one of the toughest AI regulations in the United States, which requires annual third-party audits of frontier AI models. This law sets a precedent for state-level AI oversight, potentially influencing federal regulation and imposing significant compliance costs on major AI developers while increasing transparency and accountability. SB 315 mandates annual independent third-party audits of 'frontier AI models' by developers, covering safety practices and potential societal harms. The bill passed the House 110-0 and the Senate 52-5, indicating strong bipartisan support.
+China, the world's largest oil importer, is expected to see its crude oil demand peak within the next five years, driven by rapid adoption of electric vehicles and a massive push toward renewable energy. This shift could reshape global energy markets, reduce China's vulnerability to disruptions like the Strait of Hormuz crisis, and accelerate the global transition away from fossil fuels. China's oil demand has been the biggest driver of global growth since the 2000s, but the peak is now expected within five years due to Beijing's aggressive EV and renewable energy policies.
 
-reddit · r/technology · /u/NicolasCageFan492 · Jul 6, 18:05
+rss · SCMP · Jul 7, 06:00
 
-**Background**: Following New York and California, Illinois becomes the third state to pass comprehensive AI accountability legislation. Frontier AI models, like GPT-4 and similar large-scale systems, pose unique risks that require external scrutiny. The law applies to developers of highly capable AI systems, mandating audits and public reporting.
+**Background**: The Strait of Hormuz is a vital maritime chokepoint through which about 20% of global oil passes. Recent U.S.-Israeli strikes on Iran have stoked fears of prolonged disruption there. China's reduced oil demand would lessen the global impact of such crises.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.govtech.com/artificial-intelligence/illinois-landmark-ai-law-sets-a-new-standard-for-oversight">Illinois’ Landmark AI Law Sets a New Standard for Oversight</a></li>
-<li><a href="https://capitolnewsillinois.com/news/illinois-lawmakers-pass-landmark-ai-accountability-bill/">Illinois lawmakers pass landmark AI accountability bill | Capitol News Illinois</a></li>
-<li><a href="https://www.nbcnews.com/tech/tech-news/illinois-legislature-passes-historic-ai-bill-rcna347191">Illinois Legislature passes historic AI bill that would require third-party safety audits</a></li>
+<li><a href="https://www.cnbc.com/2026/03/02/strait-of-hormuz-crisis-us-iran-israel-war-shipping-trade-oil.html">Strait of Hormuz crisis explained: What it means for global ... Strait of Hormuz Crisis: Global Energy Flows at Risk Amid ... Strait of Hormuz: Location, Strategic Importance & the 2026 ... The Strait of Hormuz crisis explained: Oil, warships, and ... Special Focus: CRISIS AT THE STRAIT OF HORMUZ - EPRINC Explained: Strait of Hormuz is vital — and its crisis revives ... Strait of Hormuz Crisis Explained: UPSC Geography, IR & India ...</a></li>
+<li><a href="https://hormuzmonitor.com/what-is-strait-of-hormuz/">Strait of Hormuz: Location, Strategic Importance & the 2026 ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI regulation`, `#legislation`, `#Illinois`, `#policy`
+**Tags**: `#energy`, `#electric vehicles`, `#china`, `#oil demand`, `#renewable energy`
 
 ---
 
 <a id="item-23"></a>
-## [Nationwide Backlash Against Vehicle Surveillance Cameras](https://www.reddit.com/r/technology/comments/1up0z1g/the_nationwide_backlash_against_cameras_watching/) ⭐️ 7.0/10
+## [30papers.com: Ilya's 30 Essential ML Papers for Beginners](https://30papers.com/) ⭐️ 6.0/10
 
-Growing public opposition has emerged across the United States against the use of automated license plate readers (ALPRs) by law enforcement and private companies, citing privacy violations and lack of oversight. This backlash could lead to stricter regulations on ALPR data collection and retention, affecting surveillance practices and privacy rights for millions of drivers. ALPR cameras capture license plate images and can store data indefinitely, often without warrants, raising concerns about mass surveillance and data misuse.
+A website called 30papers.com has been launched, curating 30 machine learning papers attributed to Ilya Sutskever, presented in an interactive and beginner-friendly format. This resource lowers the barrier for newcomers to engage with seminal ML papers, but the lack of verified sourcing raises credibility concerns. The site includes features like toggles for animations and backgrounds to improve usability, and it was built by a first-year CS student as a side project.
 
-reddit · r/technology · /u/DonkeyFuel · Jul 6, 15:41
+hackernews · notmcrowley · Jul 7, 15:58 · [Discussion](https://news.ycombinator.com/item?id=48819608)
 
-**Background**: Automated license plate readers (ALPRs) are high-speed camera systems mounted on poles, vehicles, or trailers that automatically capture and read license plates. They are used for toll collection, traffic enforcement, and law enforcement investigations. Privacy advocates argue that widespread ALPR deployment enables dragnet surveillance of innocent citizens, as data is often shared across agencies and stored long-term.
+**Background**: Ilya Sutskever is a co-founder and chief scientist of OpenAI, known for his influential work in deep learning. Reading research papers is a common but challenging task for ML beginners, and curated lists can help navigate the vast literature. However, the authenticity of this particular list has not been confirmed by Sutskever or any official source.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Automatic_number-plate_recognition">Automatic number-plate recognition - Wikipedia</a></li>
-<li><a href="https://sls.eff.org/technologies/automated-license-plate-readers-alprs">Automated License Plate Readers - Street Level Surveillance</a></li>
+**Discussion**: The Hacker News community had mixed reactions: some appreciated the effort and suggested improvements, while others questioned the lack of a verified source for the paper list and the site's usability. The author, a first-year CS student, responded positively to feedback and added accessibility toggles.
 
-</ul>
-</details>
-
-**Tags**: `#privacy`, `#surveillance`, `#technology policy`, `#ethics`
+**Tags**: `#Machine Learning`, `#Papers`, `#Beginners`, `#Resources`, `#AI Education`
 
 ---
 
 <a id="item-24"></a>
-## [AI Bills Baffle C-Suite After Shift to Usage-Based Pricing](https://www.reddit.com/r/technology/comments/1uorwo1/ai_bills_are_baffling_the_csuite_after_shift_to/) ⭐️ 7.0/10
+## [Autonomous Mining Truck Firm YikongTech to List on HKEX at $130B Valuation](https://36kr.com/p/3885318981366023?f=rss) ⭐️ 6.0/10
 
-Corporate executives are struggling to understand and manage AI service costs as vendors move from fixed subscription fees to usage-based pricing models. This pricing shift creates unpredictability in budgeting and raises strategic concerns about AI adoption, affecting how companies plan their technology investments. The new pricing often depends on factors like tokens processed, API calls, or compute hours, making it harder for companies to forecast expenses without detailed usage monitoring.
+YikongTech (易控智驾), a leading Chinese autonomous mining truck company founded by former gaming entrepreneur Lan Shuisheng, is set to list on the Hong Kong Stock Exchange on July 8, 2025, with an IPO valuation of up to HKD 130 billion. The company operates 2,580 active autonomous trucks and ranks first in China's commercial vehicle intelligent driving revenue as of 2025. As one of the first autonomous driving companies focused on mining to go public under Hong Kong's Chapter 18C listing regime, YikongTech's IPO signals the growing maturity and investor interest in autonomous driving for industrial applications, especially in the harsh mining environment. The company's rapid revenue growth (130% CAGR) but persistent losses and cash flow challenges highlight both the potential and capital intensity of scaling autonomous trucking operations. YikongTech has two business segments: ZhuShan (autonomous mining truck solutions) and MuYe (digital mining solutions), with most revenue coming from ZhuShan. The company is shifting from an asset-heavy model (self-owned trucks, 1.5% gross margin in 2025) to an asset-light model (customer-owned trucks, 16% gross margin), aiming to improve profitability. However, net losses have grown to RMB 516 million in 2025, and trade receivables turnover stretched to 168.5 days, indicating cash flow pressure.
 
-reddit · r/technology · /u/Logical_Welder3467 · Jul 6, 09:00
+rss · 36氪 · Jul 7, 08:32
 
-**Background**: Traditionally, AI services like cloud-based APIs or SaaS platforms charged a flat monthly fee. The recent shift to usage-based pricing aligns with the broader cloud industry trend, but AI workloads are particularly variable, leading to cost volatility.
+**Background**: Autonomous driving in mining is considered a relatively easier application than public roads due to the controlled, low-speed environment, but it still faces challenges such as adapting to unstructured mining sites (e.g., irregular blast piles) and relying on stable network connectivity and high-frequency map updates. Chinese mining autonomous driving companies like YikongTech, Zhongke Huituo, and Tager Technology have been winning contracts for electric autonomous mining trucks, aiming to reduce costs and improve safety. YikongTech's founder Lan Shuisheng previously exited a gaming company for about RMB 1.5 billion before starting the mining truck venture.
 
-**Tags**: `#AI`, `#pricing`, `#business strategy`, `#software as a service`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/28806229204">智慧矿山无人驾驶：一场正在撕裂传统逻辑的产业革命 - 知乎</a></li>
+<li><a href="https://www.36kr.com/p/2557631196749700">披荆斩棘的「矿区无人驾驶」，能否真正打开千亿级市场？-36氪</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#autonomous driving`, `#mining`, `#IPO`, `#Chinese tech`
 
 ---
 
 <a id="item-25"></a>
-## [AMD Ryzen AI Halo Dev Kit: $4k, No New Hardware, Criticized](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo) ⭐️ 6.0/10
+## [AI Virtual Cell Startup Huayuan Zhiyin Raises Seed Funding](https://36kr.com/p/3883943959621634?f=rss) ⭐️ 6.0/10
 
-AMD has released the Ryzen AI Halo developer platform, a $4,000 dev kit based on the existing Strix Halo (Ryzen AI Max+ 395) processor, offering no new hardware and the same 256 GB/s memory bandwidth as previous boards. The high price and memory bandwidth limitations make it less competitive against Nvidia's DGX Spark or ASUS GX 10 for AI workloads, potentially hindering AMD's push into the AI developer ecosystem. The dev kit uses the same Strix Halo APU (Zen 5, RDNA 3.5, XDNA2) introduced in early 2025, with 256 GB/s memory bandwidth—a bottleneck for large AI models. AMD also released playbooks (developer guides) similar to Nvidia's, but the hardware itself offers no upgrade.
+Chinese AI virtual cell startup Huayuan Zhiyin completed a seed round of tens of millions of RMB led by Shuimu Venture Capital. The company is developing the Wise-Perturb model to predict human drug efficacy and toxicity before clinical trials by simulating cellular responses. This approach could significantly reduce the high failure rate in drug development, where only 10% of candidates pass clinical trials due to poor human efficacy predictions. By focusing on whole-body prediction rather than just target identification, it addresses a critical gap in AI-driven drug discovery. The company uses a three-layer pyramid data architecture integrating static single-cell data, perturbation experiments, and real patient clinical samples. They validated the model on cases like DS-8201 cross-indication prediction and osimertinib efficacy stratification, showing improved predictive accuracy over conventional virtual cell models.
 
-hackernews · LabsLucas · Jul 6, 15:01 · [Discussion](https://news.ycombinator.com/item?id=48805624)
+rss · 36氪 · Jul 7, 01:05
 
-**Background**: Strix Halo is an APU (Accelerated Processing Unit) announced by AMD in December 2024, integrating Zen 5 CPU cores, RDNA 3.5 graphics, and an XDNA2 AI accelerator offering up to 50 TOPS. It was initially designed for notebooks but later found use in mini PCs. The Ryzen AI Halo dev kit is a dedicated platform for AI developers, running on both Linux and Windows with AMD ROCm support.
+**Background**: AI virtual cells (AIVC) are computational models that simulate cellular behavior, but traditional models often rely on immortalized cell lines that lack patient-specific features. Huayuan Zhiyin's approach integrates multi-omics data (DNA, RNA, protein) from single cells to capture a more complete picture of cellular responses, enabling zero-shot cross-cell and cross-drug predictions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.amd.com/en/products/processors/desktops/ryzen/ryzen-ai-halo/ryzen-ai-max-plus-395.html">AMD Ryzen ™ AI Halo Developer Platform with Ryzen ™ AI Max+ 395...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors">List of AMD Ryzen processors - Wikipedia</a></li>
-<li><a href="https://itc.ua/en/news/amd-ryzen-ai-max-strix-halo-powerful-apus-with-zen-5-and-rdna-3-5-for-mobile-systems/">AMD Ryzen AI MAX ( Strix Halo ): powerful APUs with Zen 5 and...</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/13801158769">AI虚拟细胞（AIVC） - 知乎</a></li>
+<li><a href="https://www.nature.com/articles/s41592-023-02144-y">scPerturb: harmonized single-cell perturbation data - Nature</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments on the news are largely critical, highlighting the $4k price and limited 256 GB/s memory bandwidth as major drawbacks. Users note that the hardware is identical to existing Strix Halo products, and suggest that Nvidia's DGX Spark or even cheaper alternatives like the GMKtec EVO-X2 offer better value for AI. Some appreciate AMD's playbooks initiative but see the dev kit as overpriced.
-
-**Tags**: `#AMD`, `#AI dev kit`, `#Strix Halo`, `#hardware`, `#pricing`
+**Tags**: `#AI`, `#drug discovery`, `#virtual cell`, `#biotech`, `#startup`
 
 ---
 
 <a id="item-26"></a>
-## [Alibaba Qwen Upgrades Real-Time ASR; Youjia Innovation Unveils Four-Wheeled Robot](https://36kr.com/p/3884024701874183?f=rss) ⭐️ 6.0/10
+## [Legal AI Startup Norm Ai Raises $120M at $1.2B Valuation](https://36kr.com/newsflashes/3886179597463552?f=rss) ⭐️ 6.0/10
 
-Alibaba's Qwen team released Fun-ASR-Realtime, a streaming speech recognition model with first-word latency under 100ms and near-offline accuracy, supporting 30 languages and 16 dialects. Separately, Youjia Innovation launched a four-wheeled-legged robot as part of its 'Combo' logistics solution. Fun-ASR-Realtime pushes the frontier of real-time multilingual speech recognition, benefiting global voice interaction applications. The four-wheeled robot demonstrates progress in versatile logistics robots capable of navigating complex terrains. The Fun-ASR-Realtime model achieves 87.8% semantic accuracy and can be accessed via the Qwen Cloud platform and open-source repositories. The four-wheeled robot from Youjia Innovation integrates wheel and leg mechanisms for high mobility.
+Norm Ai, a legal artificial intelligence startup, announced a $120 million Series C funding round led by Khosla Ventures, valuing the company at $1.2 billion. This funding round signals strong investor confidence in AI-driven legal solutions, a sector that is rapidly growing as law firms and corporate legal departments seek to automate routine tasks. The Series C round was led by Khosla Ventures, and the startup's valuation reached $1.2 billion, marking it as a unicorn in the legal tech space.
 
-rss · 36氪 · Jul 6, 10:39
+rss · 36氪 · Jul 7, 23:14
 
-**Background**: Real-time automatic speech recognition (ASR) converts spoken language into text instantly, traditionally requiring separate models for different languages. Fun-ASR-Realtime is a single model covering 30 languages and 16 dialects, reducing deployment complexity. Four-wheeled-legged robots combine the speed of wheels with the terrain adaptability of legs, making them suitable for indoor-outdoor logistics tasks.
+**Background**: Legal AI startups use natural language processing and machine learning to automate contract analysis, legal research, and compliance tasks. Norm Ai is one of several companies aiming to reduce the time and cost of legal work, attracting significant venture capital as the industry digitizes.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.qwencloud.com/models/fun-asr-realtime">Fun - ASR - Realtime - Qwen Cloud</a></li>
-<li><a href="https://www.remio.ai/post/fun-asr-realtime-launches-single-model-for-30-languages-and-16-dialects">Fun - ASR - Realtime launches single model for 30 languages and 16...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Speech Recognition`, `#Large Language Model`, `#Apple`, `#Robotics`
+**Tags**: `#AI`, `#legaltech`, `#funding`, `#startup`
 
 ---
 
 <a id="item-27"></a>
-## [APTSell Raises Millions from DCM to Become AI Chief Sales Officer](https://36kr.com/p/3883591654895873?f=rss) ⭐️ 6.0/10
+## [GM-Backed Momenta Raises $752M in Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-07-07/gm-backed-momenta-set-for-hong-kong-debut-after-752-million-ipo) ⭐️ 6.0/10
 
-APTSell, an AI-powered sales agent startup, announced a multi-million dollar seed funding round led by DCM Ventures. The company aims to automate sales management and decision-making using a suite of AI agents. This investment signals growing interest in AI-native sales tools that can reduce reliance on experienced sales managers. If successful, APTSell could help small to mid-sized enterprises boost conversion rates and efficiency without expanding management headcount. APTSell employs four types of collaborative agents: Behavior, Project, Review, and Best Practice agents, which together create a closed-loop sales management system. The product requires a 10-workday deployment process involving interviews and training, and pricing for a 50-person sales team is approximately 250,000-300,000 RMB annually.
+Momenta Global Ltd., a Chinese autonomous-driving firm, is set to begin trading in Hong Kong after raising HK$5.9 billion ($752 million) in an IPO. This IPO tests market appetite for loss-making technology firms and highlights the growing importance of autonomous driving amid global competition. Momenta is backed by General Motors and previously formed a joint venture with BYD called DiPi Intelligent Mobility Co. for L2++ autonomous driving features.
 
-rss · 36氪 · Jul 6, 07:53
+rss · Bloomberg Markets · Jul 7, 23:00
 
-**Background**: Sales management traditionally relies on CRM and BI tools to track leads and performance, with human managers making decisions based on experience. AI agents can now automate data collection, analysis, and routine tasks, potentially making the sales process more scalable. APTSell's approach integrates with existing platforms like Feishu to extract data from IM conversations and meeting notes, filling gaps in fragmented CRM ecosystems.
+**Background**: Momenta is a Chinese autonomous driving company that uses a data flywheel approach and world models to develop both mass-production and scalable robotaxi solutions. It has partnerships with major automakers including GM, BYD, and recently announced a strategic collaboration with Grab to expand into Southeast Asia.
 
-**Tags**: `#AI`, `#Sales`, `#Startup`, `#Funding`, `#CRM`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Momenta">Momenta - Wikipedia</a></li>
+<li><a href="https://www.momenta.ai/en/">Momenta | The World's Leading Physical AI Company</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#autonomous driving`, `#IPO`, `#China`, `#GM`, `#Hong Kong`
 
 ---
 
 <a id="item-28"></a>
-## [Cross-Border E-Commerce: Young Entrepreneurs Shift from Price Wars to Pricing Power](https://36kr.com/p/3883561480876297?f=rss) ⭐️ 6.0/10
+## [Open Source AI and Anthropic: A Complementary Lifecycle](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/) ⭐️ 6.0/10
 
-A new wave of young cross-border e-commerce entrepreneurs is moving away from price competition and instead building pricing power through proprietary technology, AI-driven operations, and product innovation, as highlighted by the 2026 Forbes China New Generation Cross-Border E-Commerce 30 Under 30 list. This shift signals a maturation of Chinese cross-border e-commerce, where sustainable competitive advantage now comes from technological differentiation and brand equity rather than cost arbitrage, potentially raising the bar for the entire industry. Companies like ELEHEAR (AI hearing aids), Yarbo (smart yard robots), and BOCMAL (lightweight fireproof materials) exemplify this trend by using proprietary technology to command higher prices; over 98% of surveyed Chinese sellers use AI tools, with 16% deploying AI workflows or agents.
+The article argues that open source AI models and frontier labs like Anthropic are not in direct competition, but instead capture two distinct phases of the same AI lifecycle. This perspective clarifies the relationship between open source and proprietary AI, suggesting that both can coexist and thrive, which has implications for investment, regulation, and open source strategy. The article describes a two-phase lifecycle: frontier labs push the frontier during the R&D phase, while open source models dominate during the deployment and commoditization phase.
 
-rss · 36氪 · Jul 6, 02:43
+rss · TechCrunch · Jul 7, 20:04
 
-**Background**: Historically, Chinese cross-border e-commerce relied on low-cost manufacturing and price competition. However, rising labor costs, trade tensions, and market saturation have forced a pivot. AI and advanced manufacturing now enable smaller teams to create differentiated products and build brand loyalty, as seen with ELEHEAR's VOCCLEAR AI algorithm and Yarbo's modular yard robot.
+**Background**: Anthropic is a leading AI company known for its Claude models and a focus on safety. Frontier AI labs like Anthropic, OpenAI, and Google DeepMind build state-of-the-art models. Open source AI models, such as those from Meta and Mistral, are freely available and often used for customization and cost savings.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://elehear.com/pages/vocclear">VOCCLEAR AI Speech Clarity Technology | ELEHEAR</a></li>
-<li><a href="https://www.yarbo.com/">Yarbo – The Modular Yard Robot for Every Season</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic_AI">Anthropic AI</a></li>
+<li><a href="https://www.linkedin.com/pulse/frontier-ai-labs-what-building-why-transformation-leaders-kumar-gbuge/">Frontier AI Labs: What They Are Building — and Why ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#跨境电商`, `#定价权`, `#AI`, `#technology innovation`, `#entrepreneurship`
+**Tags**: `#open source AI`, `#Anthropic`, `#frontier labs`, `#AI lifecycle`
 
 ---
 
 <a id="item-29"></a>
-## [Samsung Profit Surges 19-Fold on AI Memory Demand](https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory) ⭐️ 6.0/10
+## [Discord AI Moderation Bug Wrongfully Bans Users](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/) ⭐️ 6.0/10
 
-Samsung Electronics reported a 19-fold surge in quarterly profit, surpassing expectations, driven by explosive demand for high-bandwidth memory (HBM) chips used in AI data centers. This underscores the critical role of memory technology in the AI hardware ecosystem, as HBM becomes as essential as GPUs for AI compute. It signals sustained growth for semiconductor manufacturers specialized in memory. The profit surge is largely attributed to Samsung's advanced HBM3E and upcoming HBM4 products, which are stacked memory architectures that provide high bandwidth for AI accelerators. This sector has become the most profitable segment for memory makers.
+Discord confirmed a bug in its AI moderation system that has wrongfully banned users for harmless images since May, with an additional 200 bans over the weekend before the fix was deployed. This incident highlights the risks of relying on automated AI moderation without sufficient safeguards, as false positives can harm user trust and disrupt communities. It underscores the need for more transparent and accurate content moderation systems. The bug affected accounts starting in May, and an additional 200 users were banned over the weekend before Discord's team identified and fixed the issue. The company admitted the fault and apologized.
 
-rss · Bloomberg Markets · Jul 6, 22:46
+rss · TechCrunch · Jul 7, 19:28
 
-**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM interface initially developed by Samsung, AMD, and SK Hynix. It is used in GPUs and AI accelerators to overcome the memory bandwidth bottleneck. In 2026, HBM has become a semiconductor hotspot, with HBM3E being the current standard and HBM4 on the horizon.
+**Background**: AI moderation systems use machine learning to automatically detect and remove content that violates platform policies. While efficient, these systems can produce false positives, flagging harmless content as harmful. Discord's incident is a recent example of such failures.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://www.utmel.com/blog/news/semiconductor/ai-compute-is-running-into-the-memory-wall-why-hbm-became-a-2026-semiconductor-hotspot">AI Compute Is Running Into the Memory Wall: Why HBM ... - Utmel</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#business`, `#AI`, `#memory chips`, `#semiconductors`
+**Tags**: `#AI`, `#moderation`, `#bug`, `#Discord`, `#AI safety`
 
 ---
 
 <a id="item-30"></a>
-## [Broadcom and Apple Extend Chip Partnership to 2031](https://www.bloomberg.com/news/videos/2026-07-06/broadcom-apple-extend-chips-partnership-to-2031-video) ⭐️ 6.0/10
+## [Claude Cowork expands to mobile and web](https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/) ⭐️ 6.0/10
 
-Apple and Broadcom have extended their partnership for chip development through 2031, focusing on building AI servers for multiple generations of Apple products. This extension ensures a stable, long-term supply of custom chips for Apple, which is critical as the company invests heavily in AI infrastructure. For Broadcom, Apple remains its biggest growth driver and revenue source, making the agreement mutually beneficial. According to Bloomberg's Mark Gurman, the partnership is expected to last for multiple product generations, despite ups and downs in the relationship over time.
+Anthropic has updated Claude Cowork to allow users to start tasks on desktop, receive status updates on mobile, and retrieve outputs later even with the laptop closed. This update enables seamless cross-device task management, making AI-assisted knowledge work more flexible and accessible for professionals who need to work on the go. Claude Cowork is an agentic AI system that executes multi-step knowledge work like research synthesis and document preparation, and the new mobile/web support expands its accessibility beyond the desktop environment.
 
-rss · Bloomberg Markets · Jul 6, 19:54
+rss · TechCrunch · Jul 7, 16:27
 
-**Background**: Apple and Broadcom have a long history of collaboration on custom chip components, including wireless connectivity and now AI server chips. This agreement extends their previous partnership, signaling Apple's commitment to developing in-house AI capabilities with Broadcom's help.
+**Background**: Claude Cowork is built by Anthropic, the company behind the Claude series of large language models. Unlike a chat assistant, Claude Cowork performs tasks such as data analysis, document formatting, and scheduling on behalf of the user, and this update adds mobile status tracking and web-based output retrieval.
 
-**Tags**: `#Apple`, `#Broadcom`, `#AI servers`, `#partnership`, `#chips`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Claude_Cowork">Claude Cowork</a></li>
+<li><a href="https://claude.com/product/cowork">Claude Cowork | Claude by Anthropic</a></li>
+<li><a href="https://www.anthropic.com/product/claude-cowork">Claude Cowork | Anthropic’s agentic AI for knowledge work</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#productivity`, `#Claude`, `#mobile`, `#web`
 
 ---
 
 <a id="item-31"></a>
-## [Vercel CEO on Separating Models from Agents for Production](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/) ⭐️ 6.0/10
+## [Savi app fights AI voice cloning scams](https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/) ⭐️ 6.0/10
 
-In an interview with TechCrunch, Vercel CEO Guillermo Rauch emphasized the importance of separating AI models from agents to optimize price/performance in production environments. This perspective highlights a key architectural decision for companies deploying AI at scale, as conflating models and agents can lead to inefficiency and higher costs. Rauch's comments suggest that for production, the focus should shift from pure model capability to how models are orchestrated within agents, balancing performance and operational cost.
+Savi launched a mobile app for iPhone and Android, backed by $7 million in seed funding, designed to protect consumers from AI-powered scams such as kidnappers using voice cloning to demand ransom. As AI voice cloning scams become more prevalent and convincing, this app provides a crucial layer of protection for consumers, addressing a growing security threat that exploits trust in familiar voices. The app likely employs verification techniques such as a pre-agreed safe word or family code to authenticate callers, aligning with advice from the FTC and security experts. No further technical specifics were disclosed.
 
-rss · TechCrunch · Jul 6, 19:49
+rss · TechCrunch · Jul 7, 12:00
 
-**Background**: AI models are specialized systems trained for specific tasks, while AI agents use models, tools, and memory to pursue broader objectives autonomously. In production, separating model selection from agent logic allows independent optimization of each component for cost and latency.
+**Background**: AI voice cloning scams use short audio samples to mimic a person's voice, making fake emergency calls seem real. Scammers often impersonate loved ones in distress to demand money. The FTC, FCC, and other authorities have warned about this rising threat and recommended using a secret family code as a countermeasure.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/jyothinookula_99-of-pms-still-confuse-ai-models-with-agents-activity-7435700769158356992-76DB">99% of PMs still confuse AI models with agents. Here's how I explain it to my students: The two are related... but not the same. An AI model is like a specialist. It's trained to perform one… | Jyothi Nookula</a></li>
-<li><a href="https://vercel.com/">Agentic Infrastructure - Vercel</a></li>
-<li><a href="https://www.moveworks.com/us/en/resources/blog/agentic-ai-vs-ai-agents-definitions-and-differences">Agentic AI vs AI Agents: Key Differences Explained</a></li>
+<li><a href="https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning">Fighting back against harmful voice cloning | Consumer Advice</a></li>
+<li><a href="https://www.cnn.com/2026/05/29/tech/ai-voice-cloning-scams-protect-yourself">AI ‘voice cloning’ scams are on the rise. Here’s how to ...</a></li>
+<li><a href="https://www.forbes.com/sites/alexvakulov/2025/03/09/deepfake-scams-are-stealing-millions-how-to-spot-one/">Deepfake Scams Are Stealing Millions—How To Spot One - Forbes</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Vercel`, `#production`, `#models`, `#agents`
+**Tags**: `#AI`, `#security`, `#scam prevention`, `#mobile app`
 
 ---
 
 <a id="item-32"></a>
-## [Station F boosts AI accelerator with industry giants](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/) ⭐️ 6.0/10
+## [China's State-Backed AI Entrepreneurs Reshape Innovation](https://restofworld.org/2026/china-ai-worker-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds) ⭐️ 6.0/10
 
-Station F, the world's largest startup campus in Paris, is launching a new edition of its F/ai accelerator program to support European AI startups, featuring partnerships with Meta, Microsoft, Google, Anthropic, OpenAI, and Mistral. This initiative brings together leading AI labs that are typically rivals, signaling a collaborative push to strengthen Europe's AI ecosystem and help startups scale globally. It provides startups with unparalleled access to mentorship, technical resources, and enterprise customers. The F/ai accelerator launched in January 2026 and is now gearing up for its next cohort; selected startups receive mentorship, access to technical teams, and opportunities to run real proofs of concept with partner companies. Applications are open for a six-month program focusing on scaling and commercialization.
+Chinese workers are leveraging AI with state support to innovate despite resource constraints, positioning themselves to compete with Silicon Valley. This trend challenges the traditional dominance of Silicon Valley by demonstrating that state-backed, resource-constrained environments can also foster significant AI-driven entrepreneurship, potentially reshaping global innovation dynamics. The article highlights that Chinese entrepreneurs are using AI to achieve more with less, leveraging government policies and infrastructure that support rapid prototyping and scaling.
 
-rss · TechCrunch · Jul 6, 13:00
+rss · Rest of World · Jul 7, 10:00
 
-**Background**: Station F is a massive 34,000-square-meter startup campus in Paris founded by billionaire Xavier Niel, housing hundreds of startups and hosting numerous accelerator programs. The F/ai accelerator is one such program specifically targeting AI startups, aiming to provide resources and mentorship to help them achieve global success. This new edition is notable for its unprecedented collaboration among major AI industry players.
+**Background**: China has heavily invested in AI through national strategies like the 'New Generation AI Development Plan,' creating a unique ecosystem where state-owned enterprises and private startups collaborate. This environment prioritizes practical applications over moonshots, enabling rapid iteration under resource constraints.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/">Station F ramps up as a launchpad for Europe’s hottest AI startups</a></li>
-<li><a href="https://www.gleap.io/blog/ai-startup-accelerator-paris">AI Industry Rivals Partner on New Startup Accelerator in... | Gleap Blog</a></li>
-<li><a href="https://encorp.ai/en/blog/ai-for-startups-europe-accelerator-f-ai-2026-02-11">AI for startups: Industry rivals launch European accelerator | encorp. ai</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#startups`, `#Europe`, `#accelerator`
+**Tags**: `#AI`, `#China`, `#entrepreneurship`, `#innovation`
 
 ---
 
 <a id="item-33"></a>
-## [Trump hints at AI company public contribution requirement](https://www.scmp.com/news/us/article/3359646/trump-hints-public-contribution-us-ai-firms?utm_source=rss_feed) ⭐️ 6.0/10
+## [Singapore-Indonesia energy deal could ignite ASEAN power grid](https://www.scmp.com/week-asia/economics/article/3359745/can-singapore-and-indonesias-energy-push-kick-start-regional-power-grid?utm_source=rss_feed) ⭐️ 6.0/10
 
-President Trump suggested that leading US AI firms will make a public 'contribution' to the country, hinting at possible government mandates or fees. This signals potential increased government involvement in AI regulation, which could reshape industry dynamics and innovation incentives. Trump provided no specific details on the contribution form, but separately mentioned establishing AI guardrails, indicating a broader regulatory push.
+Singapore and Indonesia are advancing low-carbon electricity trade deals and cross-border interconnector projects, which analysts say could serve as a practical test case for the long-delayed ASEAN Power Grid. If successful, this bilateral cooperation could demonstrate the feasibility of regional power integration in Southeast Asia, enhancing energy security, enabling renewable energy sharing, and potentially attracting investment for grid modernization. The initiative focuses on electricity-import deals and cross-border interconnectors, which are physical cables that allow electricity to flow between national grids, and is expected to strengthen Singapore's energy security and help meet its sustainability goals.
 
-rss · SCMP · Jul 6, 21:16
+rss · SCMP · Jul 7, 11:20
 
-**Background**: AI guardrails are safety mechanisms that keep AI systems operating within defined boundaries, mitigating risks like harmful outputs or bias. The concept has gained traction as governments worldwide seek to regulate AI development.
+**Background**: The ASEAN Power Grid is a longstanding initiative to connect the electricity networks of the 10 ASEAN member countries, aiming for fully integrated grid operation by 2045. However, progress has been slow due to political, financial, and technical challenges. Cross-border interconnectors are key infrastructure for such grid integration, enabling power trading and resource sharing across countries.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ibm.com/think/topics/ai-guardrails">What Are AI Guardrails? | IBM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ASEAN_Power_Grid">ASEAN Power Grid - Wikipedia</a></li>
+<li><a href="https://aseanenergy.org/apaec/asean-power-grid-apg">ASEAN Power Grid (APG) - ASEAN Centre for Energy (ACE)</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Policy`, `#US Politics`, `#Regulation`
+**Tags**: `#energy`, `#Singapore`, `#Indonesia`, `#power grid`, `#renewables`
 
 ---
 
 <a id="item-34"></a>
-## [Huawei Kirin 2026 uses LogicFolding for 55% density boost](https://www.scmp.com/tech/article/3359592/huaweis-next-smartphone-chip-taps-new-scaling-law-performance-boost-paper?utm_source=rss_feed) ⭐️ 6.0/10
+## [India's UPI may shape Indonesia's digital payments](https://www.scmp.com/week-asia/economics/article/3359736/beyond-payments-india-aims-architect-indonesias-digital-future?utm_source=rss_feed) ⭐️ 6.0/10
 
-Huawei's upcoming Kirin 2026 smartphone processor, set to power the Mate series this autumn, uses a novel LogicFolding architecture that increases transistor density by 55% compared to last year's Kirin9030 Pro, without relying on more advanced lithography nodes. This breakthrough allows Huawei to boost performance despite US export restrictions that limit access to advanced EUV lithography, potentially reshaping the competitive landscape in mobile chips and reducing reliance on cutting-edge fabrication technology. LogicFolding physically folds and stacks logic circuits into a dual-layer framework, shortening critical signal paths and reducing resistance and capacitance. Huawei also introduced the Tau Scaling Law, which targets 1.4nm-class chip density by 2031 without EUV.
+Indonesian officials are studying whether India's Unified Payments Interface (UPI) can be adapted for their own digital payments infrastructure, potentially turning India's domestic tech success into a diplomatic tool. If Indonesia adopts UPI, it would deepen India's influence in Southeast Asia's largest economy and boost fintech collaboration, potentially setting a precedent for other countries seeking low-cost digital payment solutions. UPI is a real-time inter-bank payment system developed by the National Payments Corporation of India (NPCI) in 2016, enabling peer-to-peer and person-to-merchant transactions via a single mobile app.
 
-rss · SCMP · Jul 6, 12:30
+rss · SCMP · Jul 7, 11:00
 
-**Background**: For decades, the semiconductor industry has followed Moore's Law, doubling transistor density every two years primarily by shrinking transistor sizes. As physical limits approach, alternative architectures like 3D stacking and advanced packaging have become essential. Huawei's LogicFolding exemplifies such innovation, offering density gains without requiring smaller lithography nodes.
+**Background**: The Unified Payments Interface (UPI) is an Indian instant payment system that allows users to link multiple bank accounts to a mobile app, make instant payments, and check balances. It has become wildly popular in India, processing billions of transactions monthly. India now seeks to export this technology as part of its digital diplomacy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.buildmvpfast.com/blog/huawei-logicfolding-tau-scaling-chip-breakthrough-2026">Huawei LogicFolding Tau Scaling Chip Breakthrough 2026</a></li>
-<li><a href="https://logicity.in/en/blog/huawei-claims-1-4nm-class-chips-by-2031-without-euv">Huawei Claims 1.4nm-Class Chips by 2031 Without EUV | Logicity</a></li>
-<li><a href="https://techwireasia.com/2026/05/huawei-tau-scaling-law-moores-law/">Huawei 's Tau Scaling Law: The end of Moore's Law era?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Unified_Payments_Interface">Unified Payments Interface - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/terms/u/unified-payment-interface-upi.asp">Unified Payments Interface (UPI): How It Works and Its Benefits</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Huawei`, `#chip design`, `#semiconductor`, `#Kirin`
+**Tags**: `#digital payments`, `#UPI`, `#India`, `#Indonesia`, `#diplomacy`
 
 ---
 
 <a id="item-35"></a>
-## [Beijing opens lithium futures to foreign traders to cement pricing power](https://www.scmp.com/business/commodities/article/3359596/beijing-opens-lithium-futures-foreign-traders-cement-pricing-power-over-us?utm_source=rss_feed) ⭐️ 6.0/10
+## [Huawei showcases Atlas 950 SuperPoD and AI agent phone at WAIC](https://www.scmp.com/tech/article/3359733/huaweis-new-computing-cluster-worlds-first-ai-agent-phone-debut-china-ai-summit?utm_source=rss_feed) ⭐️ 6.0/10
 
-Starting July 3, the Guangzhou Futures Exchange allowed offshore industrial players to trade lithium carbonate futures, aiming to solidify China's pricing power over the US in the EV battery supply chain. This move strengthens China's grip on lithium pricing, a critical material for EVs and energy storage, and may shift global pricing benchmarks from Western exchanges to Chinese ones. The new rule applies to lithium carbonate futures on the Guangzhou Futures Exchange, one of China's major commodity bourses, and is effective July 3.
+Huawei will physically display its next-generation AI computing cluster, the Atlas 950 SuperPoD, and launch the world's first AI agent phone at the World Artificial Intelligence Conference (WAIC) in Shanghai from July 17-20, 2026. This move signals Huawei's continued push to challenge NVIDIA's dominance in AI hardware while integrating agent-based AI directly into consumer devices, potentially accelerating AI adoption in China and globally. The Atlas 950 SuperPoD integrates 64 NPUs per cabinet and can scale to 8,192 NPUs, delivering high performance for training and inference. The AI agent phone is expected to feature on-device AI conversations and task automation.
 
-rss · SCMP · Jul 6, 12:00
+rss · SCMP · Jul 7, 09:40
 
-**Background**: Lithium carbonate is a key precursor for lithium-ion batteries used in EVs and energy storage. China dominates lithium processing and has been expanding its influence in commodity pricing through futures markets. Allowing foreign traders to participate in onshore futures can attract global liquidity and establish China as the pricing center.
+**Background**: The World Artificial Intelligence Conference (WAIC) is a major annual AI event in Shanghai. Huawei's Atlas series of computing clusters are designed to compete with high-end AI servers from NVIDIA. An AI agent phone represents a smartphone with built-in large language models and voice agents that can autonomously perform tasks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.benchmarkminerals.com/lithium/lithium-prices/lithium-futures">Trade Lithium Futures on ICE | Benchmark Mineral Intelligence</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lithium_carbonate">Lithium carbonate</a></li>
+<li><a href="https://www.huawei.com/en/news/2026/3/mwc-superpod-ai">Huawei Unveiled the Latest SuperPoD, Making an AI ...</a></li>
+<li><a href="https://www.huawei.com/en/news/2025/9/hc-lingqu-ai-superpod">Huawei Unveils World's Most Powerful SuperPoDs and ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#lithium`, `#futures`, `#EV`, `#battery supply chain`, `#China`
+**Tags**: `#Huawei`, `#AI`, `#computing cluster`, `#WAIC`, `#hardware`
 
 ---
 
 <a id="item-36"></a>
-## [Cop Stalks Woman Using License Plate Reader](https://www.reddit.com/r/technology/comments/1uoxvxo/footage_shows_cop_stalking_woman_he_met_on_a_tv/) ⭐️ 6.0/10
+## [Big Tech data centers drive up power costs for Rust Belt factories](https://www.reddit.com/r/Economics/comments/1upzi13/big_tech_data_centers_are_driving_up_power_bills/) ⭐️ 6.0/10
 
-A police officer used a license plate reader to stalk a woman he met on a TV set, as captured on footage, highlighting a serious misuse of surveillance technology. This case underscores the privacy risks and ethical concerns surrounding law enforcement's use of automated license plate readers (ALPRs), which can be repurposed for personal stalking and harassment. The officer allegedly used the ALPR system to track the woman's vehicle location over time, leveraging police resources for personal gain, which raises questions about accountability and oversight.
+The expansion of Big Tech data centers is causing electricity prices to rise for factories in America's Rust Belt, as these facilities compete for limited energy resources. This trend threatens the competitiveness of manufacturing in the Rust Belt and underscores the growing tension between industrial energy needs and the power demands of the tech industry's AI and cloud computing infrastructure. Data centers are among the largest consumers of electricity, and their rapid growth in regions with aging industrial grids is straining local energy supply, leading to higher rates for existing industrial customers.
 
-reddit · r/technology · /u/bumblebeelivinglife · Jul 6, 13:48
+reddit · r/economics · /u/Severe_County_5041 · Jul 7, 16:05
 
-**Background**: Automatic license plate readers (ALPRs) are cameras that capture and store vehicle plate numbers and locations, often used by police for law enforcement. However, they can be misused for mass surveillance or personal stalking, as privacy advocates have long warned.
+**Background**: Data centers require enormous amounts of electricity to power servers and cooling systems, especially with the rise of AI workloads. As tech companies build new facilities, they often locate near existing power infrastructure, competing directly with local industries for capacity.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/License_plate_reader">License plate reader</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#privacy`, `#surveillance`, `#ethics`, `#law enforcement`, `#technology`
-
----
-
-<a id="item-37"></a>
-## [Microsoft Confirms Windows 11 Bug Wasting Up to 500GB](https://www.reddit.com/r/technology/comments/1uoxdfw/microsoft_admits_a_windows_11_bug_is_eating_up_to/) ⭐️ 6.0/10
-
-Microsoft has acknowledged a bug in Windows 11 that causes the CapabilityAccessManager.db-wal file to bloat, consuming up to 500GB of storage. The issue affects Windows 11 versions 24H2 and 25H2, and a fix is available via update KB5095093. This bug can silently eat up a significant portion of a user's storage, potentially rendering systems unusable or unable to install updates. It highlights the importance of disk space management and prompt patching for Windows users. The culprit is the CapabilityAccessManager.db-wal (Write-Ahead Log) file, which grows uncontrollably in the WinSXS directory. The bug is specifically linked to Windows 11 24H2/25H2, and the fix is included in the KB5095093 cumulative update.
-
-reddit · r/technology · /u/Quantum-Coconut · Jul 6, 13:28
-
-**Background**: The WinSXS (Windows Side-by-Side) directory stores system components and is used for servicing and updates. A write-ahead log (WAL) is a database mechanism that ensures data integrity; normally it is managed automatically, but a bug can cause it to accumulate without bound, consuming vast amounts of disk space. Understanding this helps users grasp why a single file can grow so large.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.pcworld.com/article/3185240/a-windows-11-bug-can-eat-500gb-of-your-storage-heres-how-to-check.html">A Windows 11 bug can eat 500 GB of your storage . | PCWorld</a></li>
-<li><a href="https://windowsforum.com/threads/kb5095093-fixes-windows-11-24h2-25h2-shell-break-after-provisioning.434946/">KB5095093 Fixes Windows 11 24H2/25H2 Shell... | Windows Forum</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Windows 11`, `#bug`, `#storage`, `#Microsoft`
-
----
-
-<a id="item-38"></a>
-## [YouTubers Help Uncover $65M Elder Fraud Scheme](https://www.reddit.com/r/technology/comments/1up4q52/youtubers_help_feds_uncover_65_million_elder/) ⭐️ 6.0/10
-
-Federal authorities charged 30 defendants in connection with a $65 million elder fraud scheme that was uncovered with the help of YouTubers. This case highlights the growing role of social media influencers in assisting law enforcement, demonstrating how online communities can contribute to public safety. The charges involve a complex scheme that targeted elderly individuals, with YouTubers likely using their platforms to gather evidence or raise awareness.
-
-reddit · r/technology · /u/MarvelsGrantMan136 · Jul 6, 17:50
-
-**Background**: Elder fraud schemes often involve deceptive calls, emails, or fake investment opportunities. YouTubers sometimes expose such scams by conducting undercover investigations or sharing victim stories.
-
-**Tags**: `#fraud`, `#social media`, `#law enforcement`, `#elder fraud`, `#YouTube`
+**Tags**: `#data centers`, `#energy`, `#economics`, `#Rust Belt`, `#tech industry`
 
 ---
