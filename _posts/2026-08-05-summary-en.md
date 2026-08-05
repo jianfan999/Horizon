@@ -5,594 +5,433 @@ date: 2026-08-05
 lang: en
 ---
 
-> From 140 items, 28 important content pieces were selected
+> From 111 items, 21 important content pieces were selected
 
 ---
 
-1. [Hackers steal over $130M by exploiting Coldcard hardware wallet bug](#item-1) ⭐️ 9.0/10
-2. [Mistral releases Shieldstral, a 3B open-weights multimodal moderation model](#item-2) ⭐️ 8.0/10
-3. [DeepSeek V4 Flash Runs on Single AMD MI300X at 150+ Tokens/s](#item-3) ⭐️ 8.0/10
-4. [Troy Hunt: FedEx Emails Train Users to Accept Phishing](#item-4) ⭐️ 8.0/10
-5. [Oxide Computer Raises $445M in Series D Round](#item-5) ⭐️ 8.0/10
-6. [Chinese startup XinXiao cuts chip power sign-off from weeks to days](#item-6) ⭐️ 8.0/10
-7. [SpaceX and Nvidia Team Up to Put Data-Center AI Compute in Orbit](#item-7) ⭐️ 8.0/10
-8. [Samsung Unveils AI Memory Roadmap with zHBM and 400+ Layer V10 NAND](#item-8) ⭐️ 8.0/10
-9. [EFF warns Android apps may leak location data via third-party code](#item-9) ⭐️ 8.0/10
-10. [Open-weight AI Models Approach Frontier; Safety Gap Persists](#item-10) ⭐️ 8.0/10
-11. [Anthropic signs $10B deal with AI cloud startup Volta](#item-11) ⭐️ 8.0/10
-12. [AI fuels over half of Africa's cybercrime as scams surge, Interpol reports](#item-12) ⭐️ 7.0/10
-13. [Simple algorithm and color space for generating diverse skin tones](#item-13) ⭐️ 7.0/10
-14. [Automakers Roll Out Own Battery Brands to Challenge CATL](#item-14) ⭐️ 7.0/10
-15. [Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差](#item-15) ⭐️ 7.0/10
-16. [Apple Asks Judge to Halt OpenAI's Use of Stolen Trade Secrets](#item-16) ⭐️ 7.0/10
-17. [Waymo Opens Dallas Robotaxi Service to All](#item-17) ⭐️ 7.0/10
-18. [Spotify partners with Merlin to expand AI remix and covers tool](#item-18) ⭐️ 7.0/10
-19. [Texas Halts New Data Center Approvals Amid Power Grid Strain, Governor Orders Audits](#item-19) ⭐️ 7.0/10
-20. [US AI Leaders Embrace Chinese Open-Weight Models, Challenge Closed-Source Safety Claims](#item-20) ⭐️ 7.0/10
-21. [China's MiniMax restricts overseas use of open-source H3 video model](#item-21) ⭐️ 7.0/10
-22. [Shenzhen-Based Mathematician Yurii Nesterov Wins Top Applied Maths Prize](#item-22) ⭐️ 7.0/10
-23. [Glass Substrate Maker Xunlin Raises ¥200M Series B to Expand Capacity](#item-23) ⭐️ 6.0/10
-24. [Precision Reducer Maker Taoshi Raises ¥100M+; Valuation Tops ¥1B](#item-24) ⭐️ 6.0/10
-25. [Blackstone in Talks to Arrange $36B Debt for Anthropic AI Chips](#item-25) ⭐️ 6.0/10
-26. [SpaceX doubles revenue on Anthropic, Google compute deals, Starlink growth](#item-26) ⭐️ 6.0/10
-27. [Nvidia's Open Secure AI Alliance Proposes AI-Agent Defenses Within a Week](#item-27) ⭐️ 6.0/10
-28. [Chinese startup Spirit AI tops Nvidia on RoboArena, sparking manipulation accusations](#item-28) ⭐️ 6.0/10
+1. [Discovery Loop launches to automate scientific experimentation.](#item-1) ⭐️ 9.0/10
+2. [Hassabis Becomes DeepMind Chair as Jeff Dean Leaves Google](#item-2) ⭐️ 9.0/10
+3. [Jeff Dean and top AI researchers exit Google to launch AI-driven science startup](#item-3) ⭐️ 9.0/10
+4. [Specialized Open Model Beats GPT-5.6 Sol on Retrieval at 100x Lower Cost](#item-4) ⭐️ 8.0/10
+5. [Celld: Deno's Self-hosted Durable Objects Runtime](#item-5) ⭐️ 8.0/10
+6. [Cloudflare OS: an open AI platform for agents, apps, and work](#item-6) ⭐️ 8.0/10
+7. [Meta Launches Muse Code AI Agent for Large Code Bases](#item-7) ⭐️ 8.0/10
+8. [Atlassian Rovo Vulnerable to Prompt Injection Data Exfiltration](#item-8) ⭐️ 7.0/10
+9. [Meta Unveils Muse Code and Muse Spark 1.2 with Data-Sharing Discounts](#item-9) ⭐️ 7.0/10
+10. [Apple's Private Relay Bug Can Leak Users' Real IP Addresses](#item-10) ⭐️ 7.0/10
+11. [Zoox Begins Charging for Robotaxi Rides in Las Vegas](#item-11) ⭐️ 7.0/10
+12. [AI Revolution Brings Growth Without Work: Human Cost Examined](#item-12) ⭐️ 7.0/10
+13. [Private Chinese tech firms surge into defense AI to rival US giants](#item-13) ⭐️ 7.0/10
+14. [User recounts painful switch from Android to Linux phone](#item-14) ⭐️ 6.0/10
+15. [Celestica Plans $3 Billion Share Sale for AI Data Center Buildout](#item-15) ⭐️ 6.0/10
+16. [DOJ Gains Oversight of OpenAI's Green Card Sponsorships](#item-16) ⭐️ 6.0/10
+17. [Moove Raises $250M to Scale Robotaxi Fleet Management, Target Waymo Ownership](#item-17) ⭐️ 6.0/10
+18. [Reddit expands AI moderation to reduce karma barriers for newcomers](#item-18) ⭐️ 6.0/10
+19. [Goldman Sachs Raises China AI Revenue Forecast to $13B](#item-19) ⭐️ 6.0/10
+20. [Women Outnumber Men in Workforce Again; Stay-at-Home Boyfriends Rise](#item-20) ⭐️ 6.0/10
+21. [Economists Forecast Cooling Labor Market and AI Reshuffling of White-Collar Work](#item-21) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Hackers steal over $130M by exploiting Coldcard hardware wallet bug](https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/) ⭐️ 9.0/10
+## [Discovery Loop launches to automate scientific experimentation.](https://www.discoveryloop.com/) ⭐️ 9.0/10
 
-A vulnerability in Coldcard hardware wallets has been exploited to drain more than $130 million in cryptocurrency from victims' wallets, according to blockchain-monitoring firms. The incident was reported on August 4, 2026, and highlights a critical flaw in devices marketed as ultra-secure offline storage. Hardware wallets like Coldcard are considered the gold standard for cryptocurrency security because they keep private keys offline. This breach undermines trust in these devices and raises urgent questions about the security assurances of cold storage solutions, affecting all crypto users who rely on them. Coldcard is a Bitcoin-only hardware wallet made by Coinkite since 2017, featuring dual secure elements and air-gapped signing. The exact nature of the bug has not been disclosed in the brief report, but it allowed attackers to drain funds despite the wallet's offline design.
+Discovery Loop has launched as an independent public benefit corporation co-founded by Jeff Dean and other former Google AI leaders. The company aims to automate the experimental loop — proposing, running, and learning from evaluations — starting with ML research. This marks one of the highest-profile departures from Google's AI leadership and could accelerate scientific discovery by making experimentation scalable. If successful, it may reshape how ML research and fields like drug discovery and chip design are conducted. The company plans to use frontier AI models and large-scale computational infrastructure to run thousands of experiments simultaneously. It will initially focus on ML research and engineering, but believes the approach applies to many other fields.
 
-rss · TechCrunch · Aug 4, 16:27
+hackernews · xtreak29 · Aug 5, 16:19 · [Discussion](https://news.ycombinator.com/item?id=49184960)
 
-**Background**: A hardware wallet is a physical device that stores cryptocurrency private keys in an offline environment, protecting them from online hacking attempts such as phishing or malware. Coldcard is a Bitcoin-only hardware wallet known for its verifiable source code and air-gapped signing capabilities, which allow transactions to be signed without connecting to a computer. The promise of such devices is that even if a computer is compromised, the private keys remain safe. However, this incident shows that hardware wallets can still contain software bugs that undermine those protections.
+**Background**: The experimental loop is the iterative process of proposing hypotheses, designing and running experiments, and learning from results. Automating this loop with AI could massively increase research throughput. Discovery Loop is an independent public benefit corporation, meaning it aims to benefit society while making a profit. Its co-founder Jeff Dean led Google's AI efforts for many years before leaving to launch the startup.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://coldcard.com/">COLDCARD - Bitcoin-Only Hardware Wallet</a></li>
-<li><a href="https://bitcoin.org/en/wallets/hardware/coldcard/">Coldcard - Hardware - Choose your wallet - Bitcoin</a></li>
+<li><a href="https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/">Google’s Top AI Brains Are Leaving to Launch Discovery Loop | WIRED</a></li>
+<li><a href="https://qz.com/jeff-dean-google-chief-scientist-discovery-loop-startup-080526">Jeff Dean leaving Google after 27 years to co-found Discovery Loop</a></li>
+<li><a href="https://www.discoveryloop.com/">Discovery Loop — Continuous Exploration</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#cryptocurrency`, `#hardware wallet`, `#vulnerability`, `#cybersecurity`
+**Discussion**: Commenters drew comparisons to Karpathy's autoresearch project, seeing Discovery Loop as a massively scaled institutional version. Some were skeptical about automating physical experiments, arguing that AI excels in thought-based domains but struggles with embodied experimentation. Another user suggested the move could let Google keep senior engineers away from competitors, framing it as a strategic 'retirement home'.
+
+**Tags**: `#AI`, `#Automation`, `#Machine Learning`, `#Research`, `#Scientific Discovery`
 
 ---
 
 <a id="item-2"></a>
-## [Mistral releases Shieldstral, a 3B open-weights multimodal moderation model](https://mistral.ai/news/shieldstral/) ⭐️ 8.0/10
+## [Hassabis Becomes DeepMind Chair as Jeff Dean Leaves Google](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) ⭐️ 9.0/10
 
-Mistral has released Shieldstral, a 3B open-weights multimodal safety classifier for content moderation. The model frames moderation as a policy-adaptive question-answering task and reportedly outperforms models up to 7x its size. Shieldstral addresses a concrete need for affordable, adaptable content moderation in the AI ecosystem. Its open-weights nature allows developers to run and fine-tune it themselves, potentially reducing reliance on closed moderation APIs. The 3B model supports prompt moderation, response moderation, prompt-response pair classification, refusal detection, and safety filtering for text and image inputs. It is available on Hugging Face as Shieldstral-1.0-3B, though like most AI classifiers it is non-deterministic and best used as a first-pass filter with human review.
+On August 5, 2026, Google DeepMind announced that Demis Hassabis will move from CEO to Chair of the lab, while longtime leader Jeff Dean is departing Alphabet after 27 years. Dean and Google Senior Fellow Sanjay Ghemawat are launching an independent public benefit corporation focused on machine learning, science, and engineering. This is a major reshuffle of Alphabet's AI leadership at a time when Google is fighting to stay competitive in frontier AI. The departure of legendary engineers Jeff Dean and Sanjay Ghemawat deepens concerns about a talent exodus and raises questions about Google's momentum in releasing flagship Gemini models. According to the announcement and community discussion, Hassabis is not leaving Google: he is effectively stepping into a broader chief-scientist role across Alphabet while becoming Chair of DeepMind. The announcement also follows a series of high-profile researcher departures, and Google's stock reportedly dropped about 5 percent on the news.
 
-hackernews · riadsila · Aug 4, 16:36 · [Discussion](https://news.ycombinator.com/item?id=49171268)
+hackernews · colesantiago · Aug 5, 16:05 · [Discussion](https://news.ycombinator.com/item?id=49184755)
 
-**Background**: An open-weights model publicly releases its trained parameters, letting anyone download, run, study, or modify it. Multimodal content moderation uses AI to analyze multiple input types—such as text and images—to detect harmful content like hate, violence, or explicit material, which is increasingly important for social platforms and AI services.
+**Background**: Google DeepMind was formed in 2023 by combining DeepMind, co-founded by Demis Hassabis, with Google Brain, the AI research group long led by Jeff Dean. Dean co-designed key infrastructure such as MapReduce, BigTable, and TensorFlow, and co-authored seminal papers including the Transformers architecture. Hassabis was CEO of DeepMind and later Google DeepMind, overseeing AlphaGo, AlphaFold, and the Gemini work with Google.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://mistral.ai/news/shieldstral/">Introducing Shieldstral. | Mistral AI</a></li>
-<li><a href="https://hai.stanford.edu/ai-definitions/what-is-an-open-weight-model">What is an Open-Weight Model? - Stanford HAI</a></li>
-<li><a href="https://www.clarifai.com/blog/the-future-of-content-how-multimodal-moderation-is-changing-the-game">How Multimodal Moderation is Shaping the Future of Content</a></li>
+**Discussion**: Commenters on Hacker News were largely somber, calling the departures of Jeff Dean and Sanjay Ghemawat the end of a golden era at Google. Many pointed out a long list of prominent AI researchers who have recently exited without comparable hires, and some noted the symbolism of Hassabis replacing Dean as Alphabet's chief scientist. A few supported Hassabis's focus on applying AI to health, such as curing cancer.
 
-</ul>
-</details>
-
-**Discussion**: Commenters responded positively, calling Shieldstral a realistic and cost-effective solution for small platforms. They showed interest in whether it supports arbitrary rulesets without retraining, compared it with OpenAI's Omni Moderation, and suggested a human-review pipeline as a practical safeguard.
-
-**Tags**: `#AI`, `#content-moderation`, `#open-source`, `#Mistral`, `#multimodal`
+**Tags**: `#Google`, `#DeepMind`, `#AI Leadership`, `#Jeff Dean`, `#Demis Hassabis`
 
 ---
 
 <a id="item-3"></a>
-## [DeepSeek V4 Flash Runs on Single AMD MI300X at 150+ Tokens/s](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) ⭐️ 8.0/10
+## [Jeff Dean and top AI researchers exit Google to launch AI-driven science startup](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/) ⭐️ 9.0/10
 
-A developer ported DeepSeek V4 Flash, a 284B-parameter Mixture-of-Experts model, to run on a single AMD MI300X accelerator, achieving over 150 tokens per second with a 256k-token context window. The port intentionally trades the model's original 1M context for accessibility on one GPU. This demonstrates that frontier-class open-weights models can be served on a single, widely discussed AI accelerator instead of requiring a multi-GPU cluster, lowering hardware barriers for inference. It also highlights how quantization and context-window tradeoffs shape practical deployment choices in the industry. DeepSeek V4 Flash has 284B total parameters with 13B activated and natively supports a 1M-token context; the single-MI300X build keeps full intended inference weights and solves for 256k context. The MI300X's 192GB HBM3 memory is the key enabler, though the part ships as an OAM module typically sold in 8-GPU boards.
+Jeff Dean and several other senior Google AI researchers are leaving the company to found a startup dedicated to using AI to accelerate scientific discovery. The move was reported by TechCrunch on August 5, 2026. Jeff Dean is one of the most influential figures in modern AI, having co-created Google Brain and contributed to foundational systems like TensorFlow. His departure signals a potential shift in AI research talent away from big tech labs toward specialized startups focused on scientific applications. No official confirmation from Google or Dean's team has been released, and details about the startup's funding, name, and product roadmap remain undisclosed. The new company's stated mission is to apply AI broadly to accelerate the process of scientific discovery, a direction that aligns with recent AI-for-science trends.
 
-hackernews · zhoutong · Aug 4, 10:00 · [Discussion](https://news.ycombinator.com/item?id=49166386)
+rss · TechCrunch · Aug 5, 19:30
 
-**Background**: DeepSeek V4 Flash is an efficiency-optimized preview of the DeepSeek V4 series, a Mixture-of-Experts model from DeepSeek designed for efficient reasoning across a 1M-token context. AMD Instinct MI300X is a data-center GPU with 304 compute units and 192GB of HBM3 memory, aimed at large-model inference. Quantization reduces the precision of model weights so they fit in a smaller memory footprint, which is part of what makes single-GPU inference of such large models possible.
+**Background**: Jeff Dean has spent over two decades at Google, where he helped build Google Brain and later served as chief scientist of Google DeepMind. AI-for-science refers to using machine learning to speed up tasks such as drug discovery, materials design, and protein folding, an area that has seen breakthroughs like AlphaFold. The news is notable because Dean has long been seen as an anchor of Google's AI research culture.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash">deepseek -ai/ DeepSeek - V 4 - Flash · Hugging Face</a></li>
-<li><a href="https://openrouter.ai/deepseek/deepseek-v4-flash">DeepSeek V 4 Flash - API Pricing & Benchmarks | OpenRouter</a></li>
-<li><a href="https://www.amd.com/en/products/accelerators/instinct/mi300/mi300x.html">AMD Instinct™ MI300X Accelerators</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters were generally positive but raised hardware-access concerns: majke notes a single MI300X isn't sold standalone and the 8-GPU system costs around 250K EUR, while Tepix suggests the PCIe-based MI350P with 144GB could be a better fit. WhitneyLand frames the port as a practical tradeoff, since inference quality and speed are preserved and only the context window drops from 1M to 256k. GTP adds that an alternative project called DwarfStar was not cited and can run the same model in less memory.
-
-**Tags**: `#deepseek`, `#mi300x`, `#ai-inference`, `#quantization`, `#hardware`
+**Tags**: `#AI`, `#Google`, `#Jeff Dean`, `#Startup`, `#Research`
 
 ---
 
 <a id="item-4"></a>
-## [Troy Hunt: FedEx Emails Train Users to Accept Phishing](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/) ⭐️ 8.0/10
+## [Specialized Open Model Beats GPT-5.6 Sol on Retrieval at 100x Lower Cost](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) ⭐️ 8.0/10
 
-In a 2024 blog post, security researcher Troy Hunt demonstrates how legitimate FedEx emails closely resemble phishing attempts, arguing that this 'cry wolf' effect trains users to ignore warning signs. He provides practical examples of such emails to illustrate the problem. This matters because legitimate companies are undermining users' ability to spot real phishing attacks, making people more susceptible to cybercrime. The issue affects anyone receiving such emails and can confuse even security-aware users, as shown by the community discussion. The article provides practical examples of FedEx notifications containing classic phishing red flags, such as unexpected sender names, plain-text links, or requests for personal details. These examples illustrate that even when authentication protocols like SPF and DMARC are correctly implemented, an email's content can still look deceptive.
+Neon published a blog post demonstrating that its purpose-built open model, Castform, outperforms GPT-5.6 Sol on retrieval tasks while being 100 times cheaper. This highlights the growing value of specialized LLMs over general-purpose frontier models. This matters because it shows that specialized, open-weight models can beat frontier models on specific tasks at a fraction of the cost, reshaping how AI systems are designed and deployed. It supports the trend of orchestrating multiple smaller models for different sub-tasks rather than relying on one massive model for everything. The blog describes how Castform achieves this through a purpose-built retrieval approach, likely leveraging retrieval-augmented generation techniques. The cost comparison is based on inference pricing, with the open model being roughly 100x cheaper per query than GPT-5.6 Sol.
 
-hackernews · stymaar · Aug 4, 21:09 · [Discussion](https://news.ycombinator.com/item?id=49175192)
+hackernews · moonikakiss · Aug 5, 18:18 · [Discussion](https://news.ycombinator.com/item?id=49186762)
 
-**Background**: Phishing is a form of cyberattack where criminals send emails that mimic trusted companies to trick recipients into revealing sensitive information. Email authentication standards such as SPF (Sender Policy Framework) and DMARC (Domain-based Message Authentication, Reporting & Conformance) help verify that messages originate from authorized servers, but they do not prevent legitimate companies from sending careless or confusing messages. When companies like FedEx send such emails, they inadvertently train users to ignore the red flags that usually indicate phishing, a phenomenon security experts call the 'cry wolf' effect.
+**Background**: Retrieval-augmented generation (RAG) is a technique that allows large language models to pull relevant information from external documents or databases before generating answers, improving accuracy and reducing hallucinations. Specialized LLMs are models fine-tuned or built for particular tasks, and they are increasingly seen as cost-effective alternatives to general-purpose models for specific workloads.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/DMARC">DMARC - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Sender_Policy_Framework">Sender Policy Framework - Wikipedia</a></li>
-<li><a href="https://dmarc.org/">dmarc.org – Domain Message Authentication Reporting & Conformance</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval-augmented generation</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News discussion expresses strong agreement with the article, with commenters sharing personal experiences of confusing legitimate emails from FedEx, Google, and the IRS. Several also point to systemic issues like the proliferation of new top-level domains and the use of similar text-to-speech systems in call centers, which further blur the line between legitimate and malicious communications.
+**Discussion**: Commenters generally welcomed the idea of purpose-built models, with one noting that a harness could offload tasks to specialized subagents, similar to how Claude Code delegates exploration to Haiku. Another raised a deeper question about how effective retrieval is on larger and more complex haystacks, while one commenter suggested that a concrete example would have been more compelling than a high-level comparison.
 
-**Tags**: `#phishing`, `#security`, `#email`, `#user-awareness`, `#FedEx`
+**Tags**: `#AI`, `#LLM`, `#retrieval`, `#cost-efficiency`, `#specialized-models`
 
 ---
 
 <a id="item-5"></a>
-## [Oxide Computer Raises $445M in Series D Round](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml) ⭐️ 8.0/10
+## [Celld: Deno's Self-hosted Durable Objects Runtime](https://github.com/denoland/celld) ⭐️ 8.0/10
 
-Oxide Computer Company has raised $445 million in a Series D round, as disclosed in an SEC Form D filing. The new round follows a $200 million Series C announced on February 10, 2026, bringing Oxide's total disclosed funding to approximately $789 million. This significant funding round underscores investor confidence in Oxide's vision of replacing traditional enterprise servers with purpose-built, on-premises cloud infrastructure. It also reflects a broader trend where companies are seeking alternatives to public cloud and legacy hypervisor licensing, potentially putting competitive pressure on incumbents like AWS and VMware. The Form D filing does not list a lead investor or valuation, but the $445 million raise is one of the largest ever for an infrastructure hardware startup. Oxide's Series C was led by Thomas Tull's US Innovative Technology Fund (USIT), with backing from Eclipse, Riot Ventures, and other existing investors.
+The Deno team announced Celld, a self-hosted, distributed durable objects runtime where each object is a SQLite database replicated to S3-compatible storage. This enables provider-independent durable object execution. Celld directly addresses a major abstraction gap in edge computing by offering a portable alternative to provider-locked durable objects. Developers can now build stateful edge applications without being tied to a specific cloud vendor. Each object is addressed by name and replicated to an S3-compatible bucket the user owns, combining compute and storage in one abstraction. The project is early-stage and currently lacks conveniences like local development without configuring S3.
 
-hackernews · depr · Aug 4, 20:13 · [Discussion](https://news.ycombinator.com/item?id=49174407)
+hackernews · calvinfo · Aug 5, 16:50 · [Discussion](https://news.ycombinator.com/item?id=49185430)
 
-**Background**: Oxide Computer Company, based in Emeryville, California, builds rack-scale systems that integrate compute, storage, and networking into a single appliance with co-designed open-source software. Its goal is to make on-premises infrastructure as easy to operate as a public cloud, eliminating separate hypervisor licenses and reducing power, cooling, and management overhead. A Form D is a brief notice that companies file with the SEC for private securities offerings under Regulation D, providing basic offering details rather than full audited financials.
+**Background**: Durable Objects are a building block for stateful applications and distributed systems, uniquely combining compute with storage, as popularized by Cloudflare Workers. Celld applies a similar model but uses SQLite as the local storage engine and replicates snapshots to S3-compatible storage for durability, following patterns like Verneuil's S3-backed asynchronous SQLite replication.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.intelcapital.com/oxide-closes-200m-series-c-to-scale-on-premises-cloud-computing/">Oxide Closes $200M Series C to Scale On-Premises Cloud Computing – Intel Capital</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Form_D">Form D - Wikipedia</a></li>
-<li><a href="https://www.linkedin.com/company/oxidecomputer">Oxide Computer Company | LinkedIn</a></li>
+<li><a href="https://developers.cloudflare.com/durable-objects/">Overview · Cloudflare Durable Objects docs</a></li>
+<li><a href="https://engineering.backtrace.io/2021-12-02-verneuil-s3-backed-asynchronous-replication-for-sqlite/">Verneuil: S3-backed asynchronous replication for SQLite - Backtrace Engineering</a></li>
+<li><a href="https://cfe.dev/sessions/jamdev2025-durable-objects/">Durable Objects : Don't Tempt Fate, Maintain State / CFE.dev</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reactions are broadly enthusiastic, with one user praising the rapid funding progression and the founders' technical storytelling. However, a VP of Engineering at a company spending $900K/year on AWS said Oxide ignored their sales inquiry, and another commenter questioned whether Oxide has actually shipped hardware to customers. Still, several users expressed strong trust in the team, particularly given Jessie Frazelle's involvement.
+**Discussion**: Hacker News commenters expressed strong interest, comparing Celld to Cloudflare's open-source workerd and praising the portability of the durable object concept. Several noted the project is timely given Cloudflare's recent OS announcement, but also pointed out missing conveniences such as running locally without S3 and the need for spot instance support.
 
-**Tags**: `#funding`, `#hardware`, `#startup`, `#infrastructure`, `#oxide-computer`
+**Tags**: `#durable-objects`, `#edge-computing`, `#deno`, `#distributed-systems`, `#sqlite`
 
 ---
 
 <a id="item-6"></a>
-## [Chinese startup XinXiao cuts chip power sign-off from weeks to days](https://36kr.com/p/3925067918227591?f=rss) ⭐️ 8.0/10
+## [Cloudflare OS: an open AI platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) ⭐️ 8.0/10
 
-Shanghai-based EDA startup XinXiao Technology has launched IcPower, its first digital power sign-off tool based on distributed matrix solving. In typical test cases, IcPower runs 4.5-8.5x faster than foreign vendors' tools, shortening a full power sign-off cycle from weeks to days. Power sign-off is the final gate before tape-out, so faster analysis directly shortens delivery cycles for advanced-node chips. It also strengthens the domestic EDA ecosystem amid the push for local substitution in China's semiconductor industry. The tool is based on domain decomposition: graph-based partitioning splits a sparse matrix with billions of unknowns into smaller submatrices, while optimized communication and numerical stability controls keep distributed results mathematically consistent with single-machine high-precision solvers. IcPower targets 10-billion-gate chips, covers CPU, GPU, and autonomous-driving chip designs, and the company plans thermal and stress analysis products for 3DIC in the second half of 2026.
+Cloudflare announced Cloudflare OS, an open-source AI platform built on Workers and AI that combines an agent workspace, security and governance framework, and a platform for personal modifiable apps. The announcement was made on the Cloudflare Blog and accompanied by a live product site, positioning it as an AI 'operating system' for companies. This is significant because Cloudflare is entering the competitive AI agent platform space, enabling companies to build and deploy AI agents and internal apps on its global edge network. It could reshape how organizations implement AI-driven workflows, while also raising important questions about vendor lock-in and the meaning of an 'OS' in this context. Cloudflare OS is open-source and combines three parts: an agent workspace grounded in company-curated context and skills with an isolated runtime for code execution; a new security and governance framework for safe access to internal data and services; and a platform for personal apps that users can build, share, and continue modifying. The platform reportedly runs on Cloudflare Workers, which deploys serverless code across 330+ cities, and it is being positioned as a modernization of Sandstorm.io.
 
-rss · 36氪 · Aug 4, 10:27
+hackernews · speckx · Aug 5, 13:58 · [Discussion](https://news.ycombinator.com/item?id=49182996)
 
-**Background**: Power sign-off analyzes the entire power delivery network of a chip—often billions of nodes—for voltage drop, power consumption, and electromigration, which is equivalent to solving a sparse matrix equation with hundreds of millions of dimensions. As process nodes shrink and transistor counts grow exponentially, a full sign-off run can take weeks. The global EDA market is dominated by Synopsys, Cadence, and Siemens EDA, which hold about 74% of the market, so Chinese startups are targeting niche areas like power sign-off during the domestic-substitution wave.
+**Background**: Cloudflare Workers is a serverless execution platform that runs code on Cloudflare's global edge network, allowing developers to deploy applications close to users without managing servers. Cloudflare OS leverages this infrastructure and AI to create a customizable 'operating system' for work — not an OS in the traditional hardware sense, but a platform layer for building and running work-related applications and AI agents. The term 'OS' is used metaphorically to describe a foundational, extensible environment that organizations can shape around their own context, tools, and rules.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ask.csdn.net/questions/8999578">如何高效 求 解 大规模 稀 疏 矩 阵 方 程 ？_ 编 程 语言-CSDN问答</a></li>
-<li><a href="https://juejin.cn/post/7288998044020293647">稀 疏 矩 阵 解 析：C++ 实现指南1. 引言 (Introduction)...</a></li>
-<li><a href="https://www.semi.org.cn/site/semi/article/68f57c1b8188401fa071cb1c557b668a.html">雷娜科技破局“ EDA ...” - SEMI大半导体产业网</a></li>
+<li><a href="https://blog.cloudflare.com/cloudflare-os/">Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog</a></li>
+<li><a href="https://www.phoronix.com/news/Cloudflare-OS">Cloudflare Announces Open-Source Cloudflare OS As AI "Operating System" - Phoronix</a></li>
+<li><a href="https://os.cloudflare.app/">Cloudflare OS</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#EDA`, `#芯片设计`, `#分布式计算`, `#电源签核`, `#半导体`
+**Discussion**: Community reactions are mixed. Some commenters appreciate the vision, with one noting that Cloudflare OS resembles a remake of Sandstorm.io, and others praising the technical ambition. However, many express concerns about vendor lock-in, and several criticize the 'OS' branding as vague or overused, while others raise practical technical questions about data sharing, schema conflicts, and update management in a decentralized, modifiable-app model.
+
+**Tags**: `#Cloudflare`, `#AI`, `#Platform`, `#Agents`, `#Workers`
 
 ---
 
 <a id="item-7"></a>
-## [SpaceX and Nvidia Team Up to Put Data-Center AI Compute in Orbit](https://36kr.com/newsflashes/3925833212230023?f=rss) ⭐️ 8.0/10
+## [Meta Launches Muse Code AI Agent for Large Code Bases](https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/) ⭐️ 8.0/10
 
-On August 5, SpaceX and Nvidia announced a partnership to develop the Starmind AI1 satellite computing payload, with each satellite equipped with Nvidia's Rubin GPU and Vera CPU. The collaboration aims to deliver data-center-level AI compute to orbit. This marks the first major move to put data-center-class AI chips into satellite form, potentially enabling real-time on-orbit AI inference and reducing dependence on ground stations. It could reshape satellite computing, remote sensing, and AI infrastructure as space becomes the next frontier for compute. The payload pairs Nvidia's next-generation Rubin GPU, the successor to its Blackwell data-center platform, with the Vera CPU, a high-performance processor designed for agentic AI workloads. No specific figures on power, cooling, launch schedule, or radiation hardening were disclosed in the announcement.
+On August 5, 2026, Meta launched Muse Code, a terminal-based AI coding agent available in beta for macOS and Linux. The release, announced by CEO Mark Zuckerberg, coincides with Meta's new Muse Spark 1.2 model. Meta's entry into the AI coding-agent race intensifies competition with OpenAI and Anthropic, which offer tools like Codex and Claude Code. By positioning Muse Code as an affordable, globally available option, Meta could lower barriers for developers working on large code bases. Muse Code is a terminal-based tool currently in beta for macOS and Linux, and it is built to handle complex tasks in large code bases. The standard Muse Spark 1.2 model costs $1.25 per million input tokens and 15 cents per million cached-input tokens, which Meta's AI chief Alexandr Wang described as one of the most affordable coding agents on the market.
 
-rss · 36氪 · Aug 4, 23:38
+rss · TechCrunch · Aug 5, 21:21
 
-**Background**: Nvidia Rubin is Nvidia's next-generation GPU architecture for AI training and inference, built for extreme bandwidth and scalability in data centers. Vera is Nvidia's new data-center CPU, leveraging Olympus cores to deliver higher performance on agentic and AI workloads. Traditional satellites rely on radiation-hardened, low-power chips, so placing full data-center AI compute in orbit requires solving major challenges in power, thermal management, and radiation tolerance. This announcement signals Nvidia's push to extend its AI computing platform beyond terrestrial data centers.
+**Background**: AI coding agents are tools that help developers navigate, edit, and reason about codebases using large language models. Meta's announcement follows a broader industry trend in which OpenAI, Anthropic, and others have released coding agents, making AI-assisted software development a major competitive front. Muse Code is positioned specifically for complex tasks in large-scale software projects, which require the agent to understand context across many files and dependencies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://digg.com/tech/b0pmfjo9">SpaceX Partners With Nvidia on Starmind AI Satellite Payload · Digg</a></li>
-<li><a href="https://www.nvidia.com/en-us/data-center/vera-cpu/">Next Gen Data Center CPU | NVIDIA Vera CPU</a></li>
-<li><a href="https://servers.asus.com/glossary/What-is-NVIDIA-Rubin-GPU">What is NVIDIA Rubin GPU ? | ASUS Servers</a></li>
+<li><a href="https://9to5mac.com/2026/08/05/meta-launches-muse-code-ai-coding-agent-for-macos-and-linux/">Meta launches Muse Code AI coding agent for macOS and... - 9to5Mac</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-08-05/meta-debuts-ai-coding-agent-in-race-with-openai-and-anthropic">Meta Unveils Muse Code AI Agent to Compete With OpenAI, Anthropic - Bloomberg</a></li>
+<li><a href="https://www.businessinsider.com/meta-muse-coding-agent-race-openai-codex-anthropic-claude-2026-8">Meta Enters Coding Wars With Muse , Taking on... - Business Insider</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SpaceX`, `#Nvidia`, `#Satellite Computing`, `#AI Infrastructure`, `#Space Technology`
+**Tags**: `#AI`, `#Meta`, `#software engineering`, `#coding tools`, `#machine learning`
 
 ---
 
 <a id="item-8"></a>
-## [Samsung Unveils AI Memory Roadmap with zHBM and 400+ Layer V10 NAND](https://36kr.com/newsflashes/3925818953414792?f=rss) ⭐️ 8.0/10
+## [Atlassian Rovo Vulnerable to Prompt Injection Data Exfiltration](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data) ⭐️ 7.0/10
 
-At FMS 2026, Samsung introduced its next-generation AI memory roadmap, unveiling zHBM and zNAND-O concept products and a V10 BV-NAND prototype with over 400 layers using wafer bonding. The company said zHBM could deliver roughly 8x the performance and more than 10x the memory density of HBM5. This roadmap addresses the growing memory bottleneck in AI infrastructure, where feeding data fast enough to accelerators has become as critical as compute power. If realized, zHBM and 400+ layer NAND could significantly improve AI training/inference performance and energy efficiency, reinforcing Samsung's competitive position in AI memory. zHBM stacks HBM vertically above AI accelerators to shorten data paths, while V10 BV-NAND uses wafer bonding to achieve over 400 layers. The zHBM and zNAND-O are concept products, not yet on the market; zNAND-O is aimed at edge AI systems that need low-latency on-device storage.
+PromptArmor disclosed that Atlassian Rovo's URL retrieval tool can be exploited via prompt injection to exfiltrate sensitive data from connected Atlassian systems. The attack bypasses existing controls and demonstrates how agentic AI systems can be manipulated by untrusted content. Rovo is embedded across JIRA and Confluence, making this vulnerability relevant to a large enterprise user base. It highlights the broader security risks of agentic AI, where agents can read private data and communicate externally, creating a 'lethal trifecta' that is difficult to mitigate without reducing functionality. The vulnerability lies in Rovo's URL retrieval tool, which has no protection against opening URLs dynamically created by the agent itself; the attack works by a victim uploading a file with a hidden prompt injection that causes Rovo to append sensitive data to an attacker-controlled URL. A suggested mitigation is to restrict URL retrieval to URLs typed by the user or returned from a trusted tool.
 
-rss · 36氪 · Aug 4, 23:26
+hackernews · hackerBanana · Aug 5, 17:23 · [Discussion](https://news.ycombinator.com/item?id=49185983)
 
-**Background**: High Bandwidth Memory (HBM) stacks DRAM dies vertically beside a processor to provide a very wide, short data pipe, addressing the bandwidth limits of AI workloads. V-NAND (vertical NAND) stacks memory cells in 3D to increase density; wafer bonding is a technique that attaches a memory array wafer to a peripheral circuitry wafer, potentially improving performance and density. The FMS event is where major memory makers showcase their future storage and memory roadmaps.
+**Background**: Atlassian Rovo is Atlassian's AI-powered teammate embedded across its ecosystem to help teams work with JIRA, Confluence, and other apps. Prompt injection is a cyberattack in which malicious instructions are hidden in content (such as a document or webpage) that an AI model processes, tricking it into performing unintended actions. Agentic AI systems like Rovo can take autonomous actions using tools, which makes them powerful but also exposes them to these attacks. This attack class has been known for a while, and similar vulnerabilities have been found in other agentic tools.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Flash_memory">Flash memory - Wikipedia</a></li>
-<li><a href="https://read.siliconandsteel.co/p/the-real-ai-shortage-is-memory">The Real AI Shortage Is Memory</a></li>
-<li><a href="https://www.devdiscourse.com/article/technology/3959605-samsung-electronics-launches-next-generation-ai-memory-technology">Samsung Electronics launches next-generation AI memory technology</a></li>
+<li><a href="https://www.ibm.com/think/topics/prompt-injection">What Is a Prompt Injection Attack? | IBM</a></li>
+<li><a href="https://www.ibm.com/think/topics/agentic-ai">What is Agentic AI? | IBM</a></li>
+<li><a href="https://oxalis.io/meet-atlassian-rovo-your-new-ai-powered-teammate/">Rovo in Action: Making AI a Teammate for Your... - Oxalis Solutions</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI memory`, `#HBM`, `#NAND`, `#AI infrastructure`, `#Samsung`
+**Discussion**: Commenters noted that this is a recurring pattern, with PromptArmor publishing similar findings for other agentic tools. Simon Willison highlighted a mitigation pattern that locks down URL retrieval to trusted sources. Others criticized Rovo's quality and performance, while one commenter argued that blocking such attacks wholesale reduces agent usefulness, so it is a tradeoff.
+
+**Tags**: `#AI security`, `#prompt injection`, `#Atlassian Rovo`, `#data exfiltration`, `#agentic AI`
 
 ---
 
 <a id="item-9"></a>
-## [EFF warns Android apps may leak location data via third-party code](https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/) ⭐️ 8.0/10
+## [Meta Unveils Muse Code and Muse Spark 1.2 with Data-Sharing Discounts](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) ⭐️ 7.0/10
 
-The Electronic Frontier Foundation (EFF) published new findings warning Android developers that third-party code embedded in their apps may unintentionally collect and share users' location data. The report, surfaced on August 4, 2026, highlights a privacy risk that occurs when apps have been granted location permission. This matters because millions of Android users could have their location data silently shared with advertisers without their knowledge. It also signals that developers must carefully audit third-party dependencies to avoid violating user privacy expectations and potentially facing regulatory consequences. The issue arises when a user grants location permission to an app, and third-party libraries or SDKs bundled in the app use that permission to access and transmit location data. The EFF's goal is to educate developers about this behavior so they can vet their dependencies and reduce inadvertent data sharing.
+Meta launched Muse Code, a beta terminal-based AI coding agent for macOS and Linux, alongside the Muse Spark 1.2 model. The release adds a discounted "Contributor" pricing tier for users who allow Meta to train on their data. This is Meta's first serious entry into the paid AI coding-agent race, competing directly with OpenAI Codex and Anthropic Claude. The data-sharing discount creates a new price/performance tradeoff debate in the LLM API market. Muse Spark 1.2 accepts text, images, video, audio, and PDFs, with a 1M-token context window. Standard API pricing is $1.25 per 1M input tokens and $4.25 per 1M output tokens, while Contributor pricing drops to $0.10 and $0.20 per 1M tokens respectively.
 
-rss · TechCrunch · Aug 4, 20:26
+hackernews · paulkrush · Aug 5, 19:15 · [Discussion](https://news.ycombinator.com/item?id=49187575)
 
-**Background**: The Electronic Frontier Foundation (EFF) is a non-profit digital rights group founded in 1990 that defends civil liberties online, including privacy and free expression. In Android development, third-party libraries are pre-built code components used to add features easily, but they inherit the permissions granted to the host app, which can lead to unexpected data collection and sharing. The Android permission system gives users control, yet developers are ultimately responsible for how all code in their apps—including third-party code—handles sensitive data.
+**Background**: Meta has traditionally released open-weight models, but Muse Spark 1.1, launched July 9, 2026, became Meta's first paid API model. AI coding agents are autonomous tools that handle complex software engineering tasks across large codebases. Muse Code uses Muse Spark 1.2 to perform such work directly in a terminal environment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation">Electronic Frontier Foundation</a></li>
-<li><a href="https://medium.com/@mansikothari115/10-essential-third-party-libraries-in-android-794965601dd8">10 Essential Third - Party Libraries in Android | by Mansi Shah | Medium</a></li>
+<li><a href="https://9to5mac.com/2026/08/05/meta-launches-muse-code-ai-coding-agent-for-macos-and-linux/">Meta launches Muse Code AI coding agent for macOS and... - 9to5Mac</a></li>
+<li><a href="https://openrouter.ai/meta/muse-spark-1.2">Muse Spark 1 . 2 - API Pricing & Providers | OpenRouter</a></li>
+<li><a href="https://artificialanalysis.ai/models/muse-spark-1-2">Muse Spark 1 . 2 (xhigh) - Intelligence, Performance & Price Analysis</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#Android`, `#location data`, `#third-party libraries`, `#EFF`
+**Discussion**: Commenters generally acknowledged the solid improvement over Muse Spark 1.1, with some calling it comparable to Grok 4.5 but not state-of-the-art. Several criticized benchmark comparisons against OpenAI's mid-tier 'Terra' instead of 'Sol' and noted Meta still lost to Anthropic Opus on most tests; others questioned whether the deep Contributor discount reflects genuine data value or price discrimination, since competing providers offer similar low prices without training on user data.
+
+**Tags**: `#AI`, `#Meta`, `#LLM`, `#API`, `#model release`
 
 ---
 
 <a id="item-10"></a>
-## [Open-weight AI Models Approach Frontier; Safety Gap Persists](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/) ⭐️ 8.0/10
+## [Apple's Private Relay Bug Can Leak Users' Real IP Addresses](https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/) ⭐️ 7.0/10
 
-A SaferAI report finds that Z.ai's open-weight model GLM-5.2 is approaching frontier AI capability but lacks key safety mitigations. The report renews concerns about powerful open models outpacing governance and safeguards. This matters because open-weight models can be downloaded and customized by anyone, making advanced capabilities widely accessible without proportional oversight. It highlights a widening gap between AI capability growth and safety governance, affecting developers, enterprises, and policymakers. According to SaferAI, GLM-5.2 reaches near-frontier performance while missing required safety mitigations, raising the risk of misuse. The model supports a 1M-token context window and is designed for long-horizon agent workflows and project-level software engineering.
+A bug in Apple's iCloud Private Relay can expose users' real IP addresses, undermining the privacy feature's core promise of hiding browsing activity from websites. TechCrunch reported the flaw on August 5, 2026. Any iCloud+ subscriber who relies on Private Relay to protect their identity while browsing could be affected; a real IP leak could enable tracking and undermine anonymity. This is a significant privacy failure in a security-focused feature. According to Apple's documentation, Private Relay routes traffic through two relays and sends only an approximate region, not a real IP, to websites. The bug reportedly leaks the actual originating IP despite this design, though technical specifics and affected versions were not detailed in the announcement.
 
-rss · TechCrunch · Aug 4, 20:05
+rss · TechCrunch · Aug 5, 16:52
 
-**Background**: Open-weight AI models release the trained weights so users can download and customize them, but they are not fully open-source. Frontier AI refers to the most capable models available at a given time. SaferAI's report uses GLM-5.2 as a concrete example of how open models can gain advanced capabilities faster than safeguards are developed.
+**Background**: iCloud Private Relay is a VPN-like service included with iCloud+ that masks Safari browsing traffic by routing it through two separate internet relays. The first relay sees the user's real IP address, while the second assigns a generic regional address when contacting the destination site. This design is meant to let websites deliver localized content without revealing the user's exact location or identity.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://docs.z.ai/guides/llm/glm-5.2">GLM - 5 . 2 - Overview - Z . AI DEVELOPER DOCUMENT</a></li>
-<li><a href="https://huggingface.co/zai-org/GLM-5.2">zai -org/ GLM - 5 . 2 · Hugging Face</a></li>
-<li><a href="https://www.linkedin.com/pulse/open-weight-ai-what-we-finally-opened-bonnet-nicolas-pistorio-n3ulf">Open - weight AI : what if we finally opened the bonnet ?</a></li>
+<li><a href="https://support.apple.com/en-us/102602">About iCloud Private Relay - Apple Support</a></li>
+<li><a href="https://support.apple.com/guide/icloud/set-up-icloud-private-relay-mm7dc25cb68f/icloud">Set up iCloud Private Relay on all your devices - Apple Support</a></li>
+<li><a href="https://www.apple.com/legal/privacy/data/en/icloud-relay/">Apple Legal - Legal - iCloud Private Relay & Privacy- Apple</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI safety`, `#open-weight models`, `#AI governance`, `#frontier AI`, `#GLM`
+**Tags**: `#Apple`, `#Privacy`, `#Security`, `#IP leak`, `#Private Relay`
 
 ---
 
 <a id="item-11"></a>
-## [Anthropic signs $10B deal with AI cloud startup Volta](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/) ⭐️ 8.0/10
+## [Zoox Begins Charging for Robotaxi Rides in Las Vegas](https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/) ⭐️ 7.0/10
 
-Anthropic reportedly signs a $10 billion partnership deal with AI cloud startup Volta.
+Zoox has officially launched commercial robotaxi operations in Las Vegas, starting to charge riders for trips. This marks the company's transition from testing to a paid public service. The commercial launch is a significant milestone for the autonomous vehicle industry, demonstrating that purpose-built robotaxis can enter real-world revenue-generating service. It intensifies competition with other players such as Waymo and Cruise in the robotaxi market. Unlike companies that retrofit existing cars, Zoox uses a purpose-built, bidirectional electric vehicle with a carriage-style interior and no steering wheel. The launch is a commercial milestone rather than a technological breakthrough, and details on pricing and service area were not disclosed.
 
-rss · TechCrunch · Aug 4, 19:48
+rss · TechCrunch · Aug 5, 15:06
 
-**Tags**: `#Anthropic`, `#AI Cloud`, `#Volta`, `#Partnership`, `#Business`
+**Background**: Zoox is an autonomous vehicle company focused on purpose-built robotaxis rather than retrofitting conventional cars. Its bidirectional design and extensive use of LiDAR and radar data, including encoding sensor data for machine learning, differentiate it from competitors. The robotaxi concept involves fleets of driverless vehicles that passengers hail through an app, a sector that has seen rapid investment and pilot programs in cities like San Francisco and Las Vegas.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ultimamarkets.com/academy/zoox-stock-investing-in-self-driving-taxis/">Zoox Stock: Investing in Self-Driving Taxis | Ultima Markets</a></li>
+<li><a href="https://www.choppingblock.ai/companies/zoox">Zoox : AI-Powered Autonomous Vehicle Technology | AI Chopping Block</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#autonomous vehicles`, `#robotaxi`, `#Zoox`, `#commercial launch`, `#Las Vegas`
 
 ---
 
 <a id="item-12"></a>
-## [AI fuels over half of Africa's cybercrime as scams surge, Interpol reports](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/) ⭐️ 7.0/10
+## [AI Revolution Brings Growth Without Work: Human Cost Examined](https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds) ⭐️ 7.0/10
 
-An Interpol report finds that AI is used in more than half of cybercrime cases in Africa, fueling a surge in digital scams. The report highlights how generative AI tools make fraud more convincing and scalable across the continent. The finding signals that AI-powered cybercrime is no longer a niche concern but a mainstream threat in emerging markets. Governments, businesses, and individuals across Africa will need stronger AI-driven defenses and coordinated law enforcement to counter scams. The report is the Interpol African Cyberthreat Assessment Report 2026, published on interpol.int. It attributes much of the increase to AI-generated phishing messages, deepfakes, and automated social engineering, though exact statistics beyond 'more than half' are not detailed in the article.
+Rest of World published an analysis examining how the AI revolution is reshaping work and the economy, focusing on the human consequences of economic growth that no longer requires mass employment. The piece frames 'growth without work' as a central socioeconomic challenge of the AI era. This matters because it draws attention to the distributional effects of AI, where productivity gains may not translate into jobs or shared prosperity. Policymakers, businesses, and workers all have a stake in how automation reshapes labor markets. The available excerpt contains only an archival photo caption, so the article's specific arguments and evidence are not fully accessible from the provided content. Its value lies in framing AI's labor-market disruption as a humanitarian and policy issue rather than purely a technology story.
 
-hackernews · bookofjoe · Aug 4, 22:01 · [Discussion](https://news.ycombinator.com/item?id=49175826)
+rss · Rest of World · Aug 5, 10:00
 
-**Background**: Interpol is the International Criminal Police Organization, which coordinates law enforcement cooperation across 196 member countries. Its regional reports assess cybercrime trends and help national police prioritize threats. AI tools can now write convincing scam messages, generate fake documents, and create realistic deepfake voices and videos, lowering the barrier for criminals. In Africa, rapid internet and mobile-money adoption has created both economic opportunity and a large pool of potential scam victims.
+**Background**: The AI revolution refers to the rapid adoption of machine learning and automation technologies that can perform tasks previously done by humans. Economists have warned about 'jobless growth,' a situation where GDP rises but employment does not keep pace because machines replace workers. This creates pressure on social safety nets and raises questions about how to distribute AI-generated wealth fairly. Rest of World is an outlet known for covering technology's impact outside the West, giving this analysis a global perspective.
 
-**Discussion**: Commenters generally agreed that AI makes scams more believable, but several argued that internet access, mobile phones, and social media are the real underlying drivers. One user running a SaaS said AI bots were overwhelming and that Cloudflare was essential, while another called AI a double-edged sword for defense. A few expressed skepticism about AI hype or surprise that the proportion was only half.
-
-**Tags**: `#cybersecurity`, `#AI`, `#fraud`, `#Interpol`, `#Africa`
+**Tags**: `#AI`, `#economy`, `#jobs`, `#automation`, `#society`
 
 ---
 
 <a id="item-13"></a>
-## [Simple algorithm and color space for generating diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/) ⭐️ 7.0/10
+## [Private Chinese tech firms surge into defense AI to rival US giants](https://www.scmp.com/news/china/military/article/3363032/chinas-palantir-private-tech-firms-surge-defence-ai-aiming-match-us-giants?utm_source=rss_feed) ⭐️ 7.0/10
 
-A developer shared an interactive web project introducing a custom color space and a procedural generation algorithm for generating diverse, plausible skin tones. The project includes a color picker, several demos, and detailed explanations of the math behind it. This offers digital artists and game developers a practical tool for creating more inclusive skin tone palettes. The strong community engagement also highlights the demand for better tools and standards in skin tone representation in computer graphics. The color space appears to be derived from a 2D PCA-like projection of skin tone data, with a manually curve-fitted ellipse to define the valid region. Commenters note that the methodology lacks references to existing standards such as Pantone SkinTones, and that some sampled colors appear green or blue under certain conditions.
+Chinese private technology firms are increasingly entering defense artificial intelligence, aiming to match US companies like Palantir as the PLA approaches its 2027 centenary modernization goals. The report highlights a little-known Chinese firm that used open-source intelligence and AI to detect unusual patterns before US airstrikes on Iran. This marks a shift in China's defense-industrial base, traditionally led by state-owned enterprises, toward tapping private-sector AI innovation. It could accelerate PLA modernization and intensify US-China competition in military AI. The article is part of a series on AI in combat and focuses on the PLA's goal of becoming a 'world-class' fighting force by 2027. It notes that Chinese private firms are stepping into areas like open-source intelligence gathering and predictive analysis.
 
-hackernews · automatoney · Aug 4, 15:16 · [Discussion](https://news.ycombinator.com/item?id=49170165)
+rss · SCMP · Aug 5, 22:00
 
-**Background**: A color space is a specific organization of colors, usually as a 3D coordinate system that maps numeric tuples to perceptual colors. Procedural generation is a method of creating data algorithmically rather than manually, commonly used in games and digital art to automatically produce textures, models, and palettes. Skin tones are particularly complex because they depend not only on physical skin pigments but also on lighting and human perception, making them difficult to model accurately.
+**Background**: Open-source intelligence (OSINT) involves gathering and analyzing publicly available information to produce actionable intelligence. The PLA has set a series of modernization objectives for the centenary of its founding in 2027, aiming to become a world-class military. Palantir is a US company known for providing AI and data analytics platforms to defense organizations, such as its AIP for Defense product used by the Pentagon. These developments illustrate how both countries are integrating commercial AI capabilities into military operations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Color_space">Color space</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Procedural_generation">Procedural generation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open-source_intelligence">Open-source intelligence - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Modernization_of_the_People's_Liberation_Army">Modernization of the People's Liberation Army - Wikipedia</a></li>
+<li><a href="https://www.palantir.com/platforms/aip/defense/">Palantir AIP for Defense</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments are largely positive, praising the author's creativity and the elegance of the hand-fitted function approach. Several commenters add useful context, such as the crescent shape also appearing in Oklab plotting of makeup shades, while others raise concerns about a lack of citations to existing skin tone standards and the presence of occasional unnatural colors.
-
-**Tags**: `#color-space`, `#procedural-generation`, `#digital-art`, `#computer-graphics`, `#skin-tones`
+**Tags**: `#AI`, `#Defense`, `#China`, `#Palantir`, `#Military`
 
 ---
 
 <a id="item-14"></a>
-## [Automakers Roll Out Own Battery Brands to Challenge CATL](https://36kr.com/p/3925382191708552?f=rss) ⭐️ 7.0/10
+## [User recounts painful switch from Android to Linux phone](https://runarcn.no/android-to-linux/) ⭐️ 6.0/10
 
-Xiaomi, Li Auto, and Huawei-backed Hongmeng Zhixing have each launched their own battery brands—Dragon Armor (龙甲电池), Li-branded, and Giant Whale (巨鲸电池) respectively—taking direct control over cell-to-pack development through "penetrating management." Xiaomi officially unveiled its Dragon Armor battery system on July 30, signaling a shift from buying turnkey packs from suppliers like CATL to automaker-led definition of battery standards. As batteries account for roughly 30% of an electric vehicle's cost, automakers gaining full-process control over battery development strengthens supply-chain stability and long-term cost leverage. This trend directly challenges CATL's market dominance and shifts the competitive battlefield from raw cell specifications to production consistency and BMS integration. CATL's key moat is production consistency, built on enormous output volumes that enable effective screening and iterative improvement; automaker-built lines and second-tier cell makers struggle to match it quickly. Automakers try to compensate with extra screening steps such as four-pass degaussing/ceramics removal, additional voltage-drop tests, and X-ray inspection, while CATL remains reluctant to open full pack design details to carmakers.
+A user posted a personal account of switching their phone from Android to Linux, describing the practical pain points and trade-offs of running desktop-class Linux on a smartphone. The post sparked 135 comments debating mobile Linux viability. The post highlights the persistent gap between mobile Linux and Android/iOS in areas like hardware support, cameras, and app ecosystem. It reflects both the enthusiasm of the open-source community and the real-world obstacles that keep Linux phones niche. Commenters noted missing hardware compatibility lists, poor camera software, unpolished keyboards, and VoLTE support problems, especially in the US. One user said their PinePhone is aging and unreliable for on-call alerts.
 
-rss · 36氪 · Aug 4, 15:46
+hackernews · speckx · Aug 5, 19:50 · [Discussion](https://news.ycombinator.com/item?id=49188022)
 
-**Background**: Power batteries are the "heart" of electric vehicles; historically, dominant suppliers like CATL provided system-level "gray-box" solutions in which cell chemistry and manufacturing details stayed with the battery maker. Automakers have begun vertically integrating through self-owned battery brands, defining technical standards and quality control themselves—a strategy known as "penetrating management" (穿透式管理). This reflects a broader industry push where carmakers aim to reduce reliance on key suppliers and secure long-term cost and supply advantages.
+**Background**: Linux on phones has a long history of niche efforts, including postmarketOS, an Alpine Linux-based OS for smartphones aiming for a ten-year device lifecycle. Devices like the PinePhone from PINE64 ship with mainline Linux and are designed for user control and repair, but they face significant hurdles matching mainstream mobile OS usability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nev.ofweek.com/2021-12/ART-77012-8500-30539788.html">车企为何布局动力电池供应链？ - OFweek新能源汽车网</a></li>
-<li><a href="https://finance.sina.com.cn/tech/roll/2022-07-22/doc-imizirav4988938.shtml">车企造电池，需要过三关|车企|电池_新浪科技_新浪网</a></li>
-<li><a href="https://chejiahao.autohome.com.cn/info/26123727">小 米 龙 甲 电 池 ，凭什么姓「MI」？_ 车家号_发现车生活_汽车之家</a></li>
+<li><a href="https://en.wikipedia.org/wiki/PostmarketOS">PostmarketOS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/PinePhone">PinePhone</a></li>
+<li><a href="https://postmarketos.org/">postmarketOS // real Linux distribution for phones</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#EV batteries`, `#CATL`, `#supply chain`, `#automotive industry`, `#vertical integration`
+**Discussion**: Overall sentiment was cautiously positive but skeptical: users root for mobile Linux but describe it as a lot of sacrifices. Key concerns included hardware and carrier support, camera quality, and Android/iOS's polished UX, while some still call it the future they want.
+
+**Tags**: `#Linux`, `#mobile`, `#Android`, `#open-source`, `#smartphones`
 
 ---
 
 <a id="item-15"></a>
-## [Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差](https://36kr.com/p/3924826666301831?f=rss) ⭐️ 7.0/10
+## [Celestica Plans $3 Billion Share Sale for AI Data Center Buildout](https://www.bloomberg.com/news/articles/2026-08-05/celestica-joins-data-center-funding-rush-with-3-billion-deal) ⭐️ 6.0/10
 
-The article analyzes how Kimi K3's native multimodal ability enables 'vision in the loop' for coding and agent tasks, distinguishing it from models like DeepSeek V4 and highlighting a broader industry shift toward integrating visual feedback into AI workflows.
+Celestica Inc. announced plans to raise $3 billion through a new share sale, joining a growing list of companies financing data center expansion for artificial intelligence workloads. The deal underscores how capital-intensive the AI infrastructure buildout has become, with even established supply-chain firms tapping equity markets. It could also signal sustained investor appetite for AI-related capacity investments despite concerns about valuations. The $3 billion would come from selling new shares, which typically dilutes existing shareholders. Celestica is an electronics manufacturing services company that produces server and networking hardware for data center operators.
 
-rss · 36氪 · Aug 4, 06:32
+rss · Bloomberg Markets · Aug 5, 21:05
 
-**Tags**: `#AI`, `#large language models`, `#multimodal`, `#coding agents`, `#Kimi K3`
+**Background**: Celestica is a Toronto-based electronics manufacturing services provider that has benefited from surging demand for AI servers and data center equipment. Across the industry, technology companies and infrastructure suppliers are raising billions in debt and equity to fund the massive data centers required to train and run AI models. Share sales are one common way for companies to fund capital-intensive expansion without taking on additional debt.
+
+**Tags**: `#AI infrastructure`, `#data centers`, `#funding`, `#Celestica`, `#capital markets`
 
 ---
 
 <a id="item-16"></a>
-## [Apple Asks Judge to Halt OpenAI's Use of Stolen Trade Secrets](https://36kr.com/newsflashes/3925832206743942?f=rss) ⭐️ 7.0/10
+## [DOJ Gains Oversight of OpenAI's Green Card Sponsorships](https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/) ⭐️ 6.0/10
 
-Apple has asked a federal judge to immediately prohibit OpenAI from using trade secrets that Apple claims were stolen, and to return all confidential information while the litigation is ongoing. This legal dispute between two major tech companies could influence how AI firms handle confidential product information and set a precedent for trade secret protection in the AI industry. It may also affect their business relationship and future collaboration. Apple is seeking a court order that remains effective for the duration of the lawsuit, requiring OpenAI to return all confidential material and refrain from attempting to obtain further non-public information. This request follows Apple's earlier accusation that OpenAI systematically stole information about its upcoming products.
+The U.S. Department of Justice has taken regulatory oversight of OpenAI's permanent-residence (green card) sponsorships for visa-holding employees, following allegations that OpenAI failed to genuinely recruit American citizens for those positions before filing sponsorship applications. This marks a significant legal and regulatory development for a leading AI company, signaling increased scrutiny of Big Tech's use of immigrant talent. It could affect OpenAI's hiring and retention practices and may set a precedent for how AI companies navigate U.S. labor market rules. The DOJ's action stems from a claim that OpenAI did not meaningfully attempt to hire U.S. workers as required by the labor certification process for employment-based green cards. This oversight will likely involve monitoring OpenAI's recruitment and sponsorship procedures for compliance.
 
-rss · 36氪 · Aug 4, 23:40
+rss · TechCrunch · Aug 5, 21:05
 
-**Background**: Trade secrets are confidential business information that provides a competitive edge, such as product plans, algorithms, or customer data. Companies typically protect them through non-disclosure agreements and internal policies; when disputes arise, courts can issue injunctions to stop ongoing misuse while a case is being decided. Apple and OpenAI have overlapping interests in AI-related markets, making allegations of information misappropriation legally and commercially significant.
+**Background**: In the U.S., employers sponsoring foreign workers for permanent residency generally must prove via a labor certification process, such as PERM, that no qualified U.S. workers are available for the job. The Department of Justice's Immigrant and Employee Rights Section enforces laws that protect workers from discrimination on citizenship and immigration status. This case places OpenAI under DOJ supervision in that context.
 
-**Tags**: `#Apple`, `#OpenAI`, `#trade secrets`, `#legal`, `#AI`
+**Tags**: `#OpenAI`, `#DOJ`, `#immigration`, `#tech policy`, `#regulation`
 
 ---
 
 <a id="item-17"></a>
-## [Waymo Opens Dallas Robotaxi Service to All](https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/) ⭐️ 7.0/10
+## [Moove Raises $250M to Scale Robotaxi Fleet Management, Target Waymo Ownership](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/) ⭐️ 6.0/10
 
-Waymo has removed the waitlist for its robotaxi service in Dallas, making rides available to the general public. The move is part of the company's broader expansion across the U.S., U.K., and Europe. Opening a major metro without a waitlist marks a commercial milestone for autonomous ride-hailing, signaling Waymo's confidence in scaling its technology. It could intensify competition with human-driven ride-hailing services and accelerate adoption of self-driving transport. Dallas-Fort Worth is one of the largest, most car-dependent metroplexes in the U.S., posing a demanding test for autonomous vehicles. Waymo says the service is now available to everyone in the area, as part of its expansion strategy across the U.S., U.K., and Europe.
+Moove has raised $250 million to expand its autonomous vehicle fleet management operations. The company also plans to eventually own Waymo robotaxis, not just manage them. This large investment indicates that fleet management is becoming a critical, capital-intensive layer of the robotaxi industry. If Moove transitions from manager to owner, it could change how autonomous vehicle assets are financed and operated. The $250 million round will go toward scaling Moove's fleet-management infrastructure for autonomous vehicles. The stated goal of eventually owning Waymo robotaxis suggests a move up the value chain, though no terms or timeline were disclosed.
 
-rss · TechCrunch · Aug 4, 17:31
+rss · TechCrunch · Aug 5, 20:50
 
-**Background**: Waymo is a self-driving technology company that operates robotaxi services in several U.S. cities. 'Robotaxi' refers to autonomous ride-hailing vehicles that operate without a human driver. Many such services initially use a waitlist to gradually expand from an early rider program to full public access; dropping the waitlist in Dallas signals a step toward mainstream commercialization of autonomous driving.
+**Background**: Moove originally built a business around revenue-based vehicle financing for ride-hailing drivers. As the ride-hailing industry shifts toward autonomous vehicles, Moove is repositioning itself as a fleet operator that can handle charging, maintenance, and logistics for robotaxi fleets. Robotaxi companies such as Waymo often rely on third-party partners for vehicle upkeep and depot operations. This funding round reflects the broader trend of specialized fleet-as-a-service players emerging to support AV deployment at scale.
 
-**Discussion**: Commenters were largely positive, with one praising Waymo cars as very good road participants and another noting they cause fewer incidents than human drivers and quickly become normalized. Concerns included economic leakage for local drivers, while others highlighted driverless cars as affordable housing policy and welcomed the service in car-centric DFW.
-
-**Tags**: `#autonomous-vehicles`, `#Waymo`, `#robotaxi`, `#self-driving`, `#transportation`
+**Tags**: `#robotaxi`, `#autonomous vehicles`, `#fleet management`, `#funding`, `#mobility`
 
 ---
 
 <a id="item-18"></a>
-## [Spotify partners with Merlin to expand AI remix and covers tool](https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/) ⭐️ 7.0/10
+## [Reddit expands AI moderation to reduce karma barriers for newcomers](https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/) ⭐️ 6.0/10
 
-Spotify announced that Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in supporting its paid AI-powered remix and covers product. The tool will let fans create AI-generated covers and remixes of participating artists' music while ensuring artists opt in, receive credit, and are compensated. This signals growing industry backing for AI-generated music and establishes a template for artist opt-in, credit, and compensation. Independent labels' participation broadens the catalog available for AI remixing and could influence how other platforms handle AI music licensing. The paid tool requires artists to opt in, receive credit, and be compensated. Merlin acts as a digital rights agency for independent labels and distributors rather than representing artists directly, so its backing brings a large independent catalog into the project.
+Reddit is expanding its AI-powered moderation suite, called Rules Hub, which could eventually reduce communities' reliance on karma and account-age requirements for first-time posters. The company says this will make it easier for legitimate newcomers to participate. This matters because karma and account-age minimums often block genuine new users while failing to stop determined bad actors, making communities harder to join. AI moderation could shift the industry toward more inclusive, context-aware community management, affecting how online platforms balance safety and openness. Rules Hub is a suite of AI moderation tools that helps moderators automatically enforce community rules, unlike the existing Automoderator, which relies on exact keyword and pattern matching. The expansion of the test signals a move from rigid, rule-based filters to more adaptive AI decision-making, though Reddit has not disclosed specific technical details or success metrics.
 
-rss · TechCrunch · Aug 4, 15:50
+rss · TechCrunch · Aug 5, 18:00
 
-**Background**: Generative AI tools can create new remixes and cover versions of existing songs, raising questions about rights and royalties. Spotify first partnered with Universal Music Group on this product, and Merlin's involvement extends similar terms to the independent sector. Merlin negotiates premium licensing agreements for thousands of independent labels and distributors worldwide.
+**Background**: Reddit karma is a score reflecting a user's contributions to the site; upvotes add points and downvotes subtract them. Many subreddits set minimum karma and account-age thresholds to block spammers and trolls, but these also deter newcomers. Automoderator, the existing moderation tool, uses exact keyword and pattern matching, which can be bypassed with creative wording. Reddit's new AI-powered moderation tools aim to understand context better, potentially replacing such crude filters.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://merlinnetwork.org/">Merlin - Digital Music Licensing for Independent Music Companies</a></li>
-<li><a href="https://news.skrew.ai/spotify-merlin-ai-remix-covers-partnership/">Spotify Grows AI Music Remix Effort With Merlin Deal</a></li>
-<li><a href="https://jackrighteous.com/blogs/mont-real/spotify-universal-ai-remix-deal-explained">Spotify & Universal AI Remix Deal Explained – Jack Righteous</a></li>
+<li><a href="https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/">Reddit aims to make 'karma' less important for first-time posters with shift to AI moderation tools | TechCrunch</a></li>
+<li><a href="https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform">Reddit is introducing a new moderator: AI | The Verge</a></li>
+<li><a href="https://www.searchenginejournal.com/reddit-karma/547336/">Reddit Karma : Why It Matters More Than Ever</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Music`, `#Spotify`, `#Licensing`, `#Partnership`
+**Tags**: `#Reddit`, `#AI moderation`, `#community management`, `#online platforms`, `#abuse prevention`
 
 ---
 
 <a id="item-19"></a>
-## [Texas Halts New Data Center Approvals Amid Power Grid Strain, Governor Orders Audits](https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/) ⭐️ 7.0/10
+## [Goldman Sachs Raises China AI Revenue Forecast to $13B](https://www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs?utm_source=rss_feed) ⭐️ 6.0/10
 
-Texas has halted approvals for new data centers as surging electricity demand strains the state's power grid. The governor has called for audits of grid planning and the approval process. This marks a major reversal for Texas, which had attracted data center investment with loose regulations and seemingly abundant power. The pause signals that power constraints are now a binding factor in U.S. data center expansion, affecting tech companies, developers, and energy policy. The halt specifically targets new data center approvals, while existing or under-construction projects may be unaffected. The governor's audit request will examine how grid capacity forecasts accounted for the rapid growth in large-scale power demand.
+Goldman Sachs raised its year-end annualized recurring revenue forecast for China's AI model market by 30% to US$13 billion, up from US$10 billion. The revision cites aggressive price cuts, technical breakthroughs, and accelerating adoption by companies such as DeepSeek and MiniMax. This upward revision signals growing institutional confidence in China's AI industry and its cost competitiveness. The trend toward rapid commercialization and price wars in Chinese AI models could reshape global AI market dynamics and competitive pressure. The projection concerns year-end annualized recurring revenue (ARR) for mainland Chinese AI models. Goldman Sachs specifically highlighted DeepSeek and MiniMax as key players driving improvements through advanced model capabilities and cost-efficient training and inference.
 
-rss · TechCrunch · Aug 4, 15:42
+rss · SCMP · Aug 5, 10:30
 
-**Background**: Data centers require enormous amounts of electricity for servers and cooling, and their rapid growth across Texas has collided with the limitations of the state's isolated electricity grid, operated by ERCOT. Texas's light-touch regulation had made it a top destination for cloud and AI infrastructure. This move reflects a broader trend where states are re-evaluating data center incentives and grid reliability.
+**Background**: DeepSeek is a Chinese AI company funded by hedge fund High-Flyer, known for developing large language models with Mixture-of-Experts architectures. MiniMax is recognized for models like M3, which supports up to a 1M token context window using its proprietary sparse attention architecture. These companies have drawn attention for delivering high-performance AI at lower costs, contributing to the price cuts and efficiency gains noted by Goldman Sachs.
 
-**Tags**: `#data centers`, `#energy`, `#Texas`, `#infrastructure`, `#policy`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek - Wikipedia</a></li>
+<li><a href="https://github.com/deepseek-ai/deepseek-v3">GitHub - deepseek-ai/DeepSeek-V3 · GitHub</a></li>
+<li><a href="https://www.minimax.io/models/text/m3">MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#China`, `#Market Forecast`, `#Goldman Sachs`
 
 ---
 
 <a id="item-20"></a>
-## [US AI Leaders Embrace Chinese Open-Weight Models, Challenge Closed-Source Safety Claims](https://www.scmp.com/news/us/article/3362974/us-ai-leaders-turn-chinese-open-weight-models-challenging-closed-source-safety-claims?utm_source=rss_feed) ⭐️ 7.0/10
+## [Women Outnumber Men in Workforce Again; Stay-at-Home Boyfriends Rise](https://www.reddit.com/r/Economics/comments/1vge0e6/for_the_third_time_in_history_women_outnumber_men/) ⭐️ 6.0/10
 
-Andrew Ng and other American AI leaders now publicly state that open-weight models are safer than closed-weight models, directly challenging the long-held position of US companies like Anthropic. This marks a notable shift in the AI safety discourse, with influential figures favoring openness over proprietary secrecy. This development could reshape the AI safety debate and influence regulatory policy, as it challenges the assumption that closed-source models are inherently safer. It also puts pressure on companies like OpenAI and Anthropic, whose business models rely on proprietary models being seen as more trustworthy than open alternatives. Andrew Ng, former head of Google Brain and former chief scientist at Baidu, made the remarks, adding weight to the open-weight camp. Open-weight models publicly release their trained parameters, or weights, allowing anyone to download and study them, which supporters argue enables better external auditing and red-teaming.
+A Reddit post highlights that women now outnumber men in the workforce for the third time in history. It ties this milestone to the rise of stay-at-home boyfriends as an emerging economic trend. This shift reflects broader changes in gender roles and household economics. It could affect labor market policy, family dynamics, and discussions around caregiving and financial dependence. The post does not provide specific data sources, so the exact time periods or official statistics behind the 'third time' claim are unclear. The trend is often linked to changing social norms and women's rising educational and employment attainment.
 
-rss · SCMP · Aug 4, 16:08
+reddit · r/economics · /u/AccurateInflation167 · Aug 5, 17:30
 
-**Background**: An open-weight model is an AI model whose core components, specifically the trained numerical parameters known as weights, are publicly released for anyone to download and use. Proponents of open-weight models argue that transparency enables rigorous benchmarking, evaluation, and red teaming, making AI systems safer than closed systems that rely on secrecy. This debate mirrors the broader open-source versus proprietary software conflict, but now extends to AI safety and security, with major implications for industry leaders and policymakers.
+**Background**: The labor force is made up of people who are working or actively looking for work. Historically, men held a larger share of the workforce, but women's participation has grown steadily. A 'stay-at-home boyfriend' is a male partner who does not work and takes on household responsibilities while his female partner earns the income. This pattern challenges traditional gender expectations and creates new questions about economic dependency and unpaid labor.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.scmp.com/news/us/article/3362974/us-ai-leaders-turn-chinese-open-weight-models-challenging-closed-source-safety-claims">US AI leaders turn to Chinese open-weight models, challenging closed-source safety claims | South China Morning Post</a></li>
-<li><a href="https://hai.stanford.edu/ai-definitions/what-is-an-open-weight-model">What is an Open-Weight Model? - Stanford HAI</a></li>
-<li><a href="https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/">Open Weights and American AI Leadership</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI safety`, `#open-source`, `#open-weight models`, `#AI policy`, `#Andrew Ng`
+**Tags**: `#economics`, `#labor force`, `#gender`, `#workforce`, `#demographics`
 
 ---
 
 <a id="item-21"></a>
-## [China's MiniMax restricts overseas use of open-source H3 video model](https://www.scmp.com/tech/tech-trends/article/3362951/chinas-minimax-curbs-overseas-access-new-ai-video-model-over-copyright-disputes?utm_source=rss_feed) ⭐️ 7.0/10
+## [Economists Forecast Cooling Labor Market and AI Reshuffling of White-Collar Work](https://www.reddit.com/r/Economics/comments/1vgkcdd/economists_expect_a_cooled_labor_market_and_an_ai/) ⭐️ 6.0/10
 
-On Monday, Shanghai-based MiniMax released the weights of its H3 multimodal video model, but the license restricts free access in the US, EU, UK, and South Korea. The move reflects copyright disputes in generative video AI, limiting open access despite the open-source release. This highlights the growing tension between open-source AI distribution and copyright compliance, particularly for generative video models trained on potentially copyrighted content. Developers and researchers in the restricted markets may lose access to a cutting-edge model, affecting global AI innovation and cross-border accessibility. MiniMax H3 is a general-purpose multimodal model that understands text, images, video, and audio in a unified context, generating up to 15 seconds of 2K video at 24fps with native stereo sound. The licensing restriction applies to 'free access' in the US, EU, UK, and South Korea, though the exact terms were not fully detailed in the report.
+A Reddit post in r/Economics highlights economists' expectations of a cooling labor market and significant AI-driven changes to white-collar employment. This matters because AI-driven changes to white-collar work could affect hiring, wages, and job security across many industries, influencing policymakers, workers, and businesses alike. The post is a link submission without detailed content or technical specifics, and no community comments are available for analysis.
 
-rss · SCMP · Aug 4, 12:00
+reddit · r/economics · /u/HumbleRestaurant790 · Aug 5, 21:18
 
-**Background**: Model weights are the learnable parameters within a machine learning model that encode the knowledge learned from training data; they are what makes an AI model function. MiniMax H3 is the company's latest open-weights multimodal generation model, designed to handle text, images, video, and audio together. Open-sourcing weights typically allows developers worldwide to use and build upon a model, but copyright concerns over training data can lead to geographic restrictions. The H3 license restricts free access in several major markets, illustrating how legal issues can affect open-source AI distribution.
+**Background**: A 'cooled labor market' refers to a slowdown in job creation and reduced demand for workers, often accompanied by slower wage growth. 'AI reshuffling' of white-collar work means that artificial intelligence technologies, particularly large language models, are increasingly capable of performing tasks once done by office workers, potentially changing job roles and industry structures.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.minimax.io/blog/minimax-h3">MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities - MiniMax Research | MiniMax</a></li>
-<li><a href="https://www.ultralytics.com/glossary/model-weights">What are Model Weights in AI ? | Ultralytics</a></li>
-<li><a href="https://fal.ai/minimax-h3">MiniMax H3 - Open-Weights General-Purpose Multimodal Video Model | fal</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#video generation`, `#copyright`, `#licensing`, `#open-source`
-
----
-
-<a id="item-22"></a>
-## [Shenzhen-Based Mathematician Yurii Nesterov Wins Top Applied Maths Prize](https://www.scmp.com/news/china/science/article/3362465/shenzhen-based-ai-mathematician-yurii-nesterov-wins-top-prize-applied-maths?utm_source=rss_feed) ⭐️ 7.0/10
-
-Russian-born Belgian mathematician Yurii Nesterov, renowned for his accelerated gradient algorithm that underpins modern AI, has won a leading prize in applied mathematics while based in Shenzhen. The award recognizes his foundational contributions to optimization theory. Nesterov's algorithm is a core building block of machine learning, significantly speeding up the training of deep neural networks and other AI models. The prize highlights how classical mathematical discoveries continue to drive the current AI boom and underscores the value of fundamental research in applied fields. Nesterov, described as a 'master of international algorithm design,' reached retirement age in 2023 and decided to continue his research in Shenzhen rather than stop working. His accelerated gradient method, first derived in 1983, improves the convergence rate of smooth convex optimization from O(1/k) to O(1/k^2) compared with standard gradient descent.
-
-rss · SCMP · Aug 4, 09:00
-
-**Background**: Gradient descent is a fundamental optimization method used to train machine learning models by minimizing a loss function. On large, high-dimensional problems, standard gradient descent can converge slowly, so researchers developed accelerated variants that add a 'momentum' term to speed up the process. Nesterov's accelerated gradient (NAG) is one of the most influential such methods and is now widely used in AI training. Nesterov momentum is commonly taught alongside stochastic gradient descent (SGD) in machine learning courses.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Yurii_Nesterov">Yurii Nesterov - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Nesterov_accelerated_gradient">Nesterov accelerated gradient</a></li>
-<li><a href="https://pages.cs.wisc.edu/~yudongchen/cs726_sp23/Lecture_9_10_accelerated_GD.pdf">Lecture 9–10: Accelerated Gradient Descent</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#mathematics`, `#optimization`, `#artificial-intelligence`, `#algorithms`, `#awards`
-
----
-
-<a id="item-23"></a>
-## [Glass Substrate Maker Xunlin Raises ¥200M Series B to Expand Capacity](https://36kr.com/p/3924953058605444?f=rss) ⭐️ 6.0/10
-
-Xunlin Technology, a Chinese glass substrate manufacturer, announced a nearly 200 million yuan Series B round, its third financing in six months. New investors include Inno Fund, Qiancheng Capital, Hymson, Guangpu and Tongxin, with existing shareholders increasing their stakes; proceeds will go toward capacity expansion, packaging line construction, and process precision R&D. The funding lands amid an AI-driven substrate shortage, with FR-4 copper-clad laminate prices up over 270% and ABF substrate lead times stretching beyond six months. As organic substrates approach physical limits, this investment signals growing confidence that glass substrates will move from lab to mass production in AI packaging. Xunlin operates a full-process glass substrate factory in Tianjin with annual capacity of 300,000 square meters, covering cutting, thinning, TGV drilling, PVD metallization, plating, and patterning. Its products for Mini LED backlight, COB direct display, and MIP display modules have entered volume shipment, and the company claims industry-leading copper adhesion strength from its self-developed PVD technology and Cu-ABX alloy seed layer.
-
-rss · 36氪 · Aug 4, 08:31
-
-**Background**: Glass substrates are emerging as an alternative to organic packaging substrates because their coefficient of thermal expansion naturally matches silicon, and they offer lower dielectric loss and higher wiring density. The organic substrate supply chain is strained: ABF, the insulating film used in substrates that connect AI accelerator chips to circuit boards, is in acute shortage as AI chips require many more layers than traditional GPUs. Intel has announced mass production of glass core substrates, and TSMC's CoPoS pilot line is expected to go online this year, reflecting the industry shift toward glass-based packaging.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://pcbmake.com/glass-substrate/">Glass Substrate in Semiconductor Packaging : Pros and Cons</a></li>
-<li><a href="https://www.techtimes.com/articles/321754/20260728/ai-supply-crisis-moves-upstream-advanced-packaging-becomes-binding-constraint.htm">AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the...</a></li>
-<li><a href="https://en.eeworld.com.cn/news/manufacture/eic702503.html">Behind the " CoPoS fever": AI forces semiconductor packaging into the.....</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#glass substrate`, `#semiconductor packaging`, `#AI hardware`, `#funding`, `#advanced packaging`
-
----
-
-<a id="item-24"></a>
-## [Precision Reducer Maker Taoshi Raises ¥100M+; Valuation Tops ¥1B](https://36kr.com/p/3924628805351811?f=rss) ⭐️ 6.0/10
-
-Chinese precision reducer maker Taoshi Intelligent Technology completed a funding round of over 100 million yuan, pushing its valuation past 1 billion yuan. The round was joined by Guochuang Group, Haichuan Juyi, Hangzhou Zhongshen, and Xinzhi Capital, with funds going to R&D, capacity expansion, and robot-market growth. As humanoid robots move toward mass production, actuators (motors, reducers, ball screws) account for roughly 45% of robot cost, making precision reducers a key link in China's localization push. Taoshi's funding signals maturing supply chains for dexterous hands and humanoid components, impacting hardware suppliers and integrators. Taoshi's micro-enveloping worm gear reducer claims 40% smaller volume, ±0.5 arcmin precision, 1300 MPa tensile strength, and 10,000-hour service life versus conventional solutions. It has signed a 100,000-unit supply agreement for dexterous-hand joint modules and is expanding capacity from 500,000–700,000 modules to 1–1.5 million modules.
-
-rss · 36氪 · Aug 4, 02:59
-
-**Background**: A worm gear reducer transmits motion between perpendicular (90-degree) shafts, but traditional designs usually need a separate angle mechanism that adds size, weight, and precision loss. Enveloping worm designs, where the worm is generated by a plane that envelops it, engage multiple teeth at once and offer higher load capacity, efficiency, and service life than ordinary cylindrical worm gears. Taoshi combines this enveloping structure with an orthogonal right-angle layout and developed its own 7-axis, 5-link grinding process to miniaturize the reducer.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.sgr.com.cn/id65484797.html">平面二次包络环面蜗杆传动研究进展 - 上海合纵重工机械有限公司</a></li>
-<li><a href="http://www.geartoutiao.com/tech/3210">平面二次包络环面蜗杆传动研究进展 - 齿轮头条</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#robotics`, `#humanoid-robots`, `#precision-reducer`, `#hardware`, `#investment`
-
----
-
-<a id="item-25"></a>
-## [Blackstone in Talks to Arrange $36B Debt for Anthropic AI Chips](https://36kr.com/newsflashes/3925373322574209?f=rss) ⭐️ 6.0/10
-
-Blackstone has held preliminary talks with investors about arranging at least $36 billion in debt financing to fund Anthropic's use of Google chips. The potential deal follows Anthropic's confidential U.S. IPO filing and would exceed the $35 billion financing package that Apollo and Blackstone closed about two months ago. This shows AI companies are turning to large-scale debt markets to fund compute infrastructure as they race to scale models. If completed, the deal would strengthen Anthropic's compute capacity and support its push to reach public markets before rival OpenAI. The reported proposal involves at least $36 billion in debt, which would top the roughly $35 billion package Apollo Global Management and Blackstone finalized about two months ago. The financing is tied to Anthropic's use of chips from Alphabet's Google, and it comes after Anthropic confidentially submitted its IPO filing.
-
-rss · 36氪 · Aug 4, 23:30
-
-**Background**: Anthropic is an AI company best known for its Claude models and is a major competitor to OpenAI. Training and running advanced AI models requires huge amounts of specialized chips, often from Nvidia or Google's TPUs, making compute one of the largest costs for AI startups. Debt financing tied to chip purchases or infrastructure helps companies secure compute without diluting equity, and can be a step toward an IPO by strengthening balance sheets.
-
-**Tags**: `#AI`, `#Anthropic`, `#Financing`, `#Chips`, `#IPO`
-
----
-
-<a id="item-26"></a>
-## [SpaceX doubles revenue on Anthropic, Google compute deals, Starlink growth](https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/) ⭐️ 6.0/10
-
-SpaceX reported doubled year-over-year revenue in its first quarterly earnings since going public in June 2026, boosted by compute deals with Anthropic and Google and by Starlink growth. This underscores how AI compute demand is becoming a major revenue stream for infrastructure providers, even for a company traditionally known as a rocket and satellite firm. It also makes SpaceX's public-market performance increasingly tied to AI infrastructure contracts and Starlink's commercial success. According to background reports, Anthropic has a contract to pay SpaceXAI $1.25 billion per month for all compute capacity at the Colossus 1 data center, which contains 1 million GPUs. Google has paid SpaceXAI $920 million monthly for cloud compute capacity since June 2026, ahead of SpaceX's IPO.
-
-rss · TechCrunch · Aug 4, 20:36
-
-**Background**: AI compute deals involve leasing access to high-performance hardware such as GPUs needed to train large machine-learning models. SpaceX has built a massive supercomputer called Colossus with 1 million GPUs and now sells its capacity to AI companies. SpaceX went public in June 2026, and Starlink, its satellite internet service, continues to drive consumer and enterprise revenue growth.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Compute_(machine_learning)">Compute (machine learning) - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#SpaceX`, `#AI infrastructure`, `#Starlink`, `#cloud computing`, `#business news`
-
----
-
-<a id="item-27"></a>
-## [Nvidia's Open Secure AI Alliance Proposes AI-Agent Defenses Within a Week](https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/) ⭐️ 6.0/10
-
-Within a week of its founding, the Open Secure AI Alliance (OSAIA), led by Nvidia and comprising over 120 companies, has already released initial proposals for defending against malicious AI agents. This rapid progress underscores the industry's growing urgency around AI agent security and positions Nvidia as a leader in open, multi-vendor AI defense frameworks. It could influence how enterprises and governments protect themselves against emerging autonomous threats. The alliance aims to provide entities with access to advanced open models, agent harnesses, and security tools that can be independently deployed and adapted, reducing dependence on any single provider. Notably, major AI labs such as OpenAI, Google, and Anthropic are reportedly absent from the alliance.
-
-rss · TechCrunch · Aug 4, 19:28
-
-**Background**: AI agents are autonomous systems that perform tasks with minimal human oversight, but they also introduce new security risks such as unauthorized actions or data leaks. The Open Secure AI Alliance (OSAIA), launched by Nvidia, aims to address these threats by providing open models, agent harnesses, and security tools that organizations can deploy and adapt independently. The alliance's rapid formation—a signature list becoming a founding roster within days—reflects urgency in the AI security community.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://supercrzy.com/news/the-open-secure-ai-alliance-is-a-direct-response-to-openais-rogue-agent-openai-isnt-invited">The Open Secure AI Alliance Is a Direct Response to... | SUPERCRZY</a></li>
-<li><a href="https://spoonai.me/posts/2026-07-29-nvidia-open-secure-ai-alliance-jul2026-en">A Letter Became an Institution in Three Days — Nvidia's Open Secure ...</a></li>
-<li><a href="https://tech.yahoo.com/ai/articles/openai-google-anthropic-absent-nvidia-190347277.html">OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#security`, `#Nvidia`, `#industry group`
-
----
-
-<a id="item-28"></a>
-## [Chinese startup Spirit AI tops Nvidia on RoboArena, sparking manipulation accusations](https://www.scmp.com/tech/tech-war/article/3362923/has-chinese-physical-ai-start-manipulated-global-ranking-beat-nvidia?utm_source=rss_feed) ⭐️ 6.0/10
-
-In June, Spirit AI, a Hangzhou-based startup founded in 2024, briefly took the top spot on the RoboArena physical AI benchmark with its Spirit v1.6 model, overtaking Nvidia's Cosmos 3. The achievement has sparked accusations that the company manipulated the ranking. This incident highlights the intense US-China competition in next-generation AI and the inherent challenges of evaluating physical AI systems. It raises questions about the credibility of benchmarking in robotics and autonomous systems, which are critical for investment and strategic decisions. Spirit AI scored 1,924 on RoboArena, narrowly beating Nvidia's Cosmos 3, which scored 1,881. The company's advantage reportedly came from a data strategy based on real-world interaction rather than simulated scale.
-
-rss · SCMP · Aug 4, 10:30
-
-**Background**: Physical AI refers to AI agents that interact with the physical world, such as robots and autonomous systems. RoboArena is a distributed, scalable benchmark designed to evaluate generalist robot policies in real-world environments. The ranking competition between China and the US is seen as a proxy for broader technological leadership.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/robo-arena/roboarena">GitHub - robo - arena / roboarena : Distributed, scalable benchmarking ...</a></li>
-<li><a href="https://arxiv.org/pdf/2506.18123">RoboArena : Distributed Real-World Evaluation of Generalist Robot...</a></li>
-<li><a href="https://thefrontrunners.io/article/roboarena-benchmark-spirit-ai-beats-nvidia">Hangzhou Startup Beat Nvidia on Its Own Benchmark Two Days After...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Robotics`, `#Benchmarking`, `#China`, `#Nvidia`
+**Tags**: `#economics`, `#AI`, `#labor market`, `#white-collar work`, `#automation`
 
 ---
